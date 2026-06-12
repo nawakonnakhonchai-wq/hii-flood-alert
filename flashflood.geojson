@@ -16,9 +16,9 @@
                 "tambon": "ต.ท่าช้าง",
                 "amphoe": "อ.พรหมพิราม",
                 "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 113.4,
+                "sum_rainfall_48h": 113.19999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-12T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T23:00:00+07:00"
             }
         },
         {
@@ -36,27 +36,7 @@
                 "tambon": "ต.บ้านยาง",
                 "amphoe": "อ.วัดโบสถ์",
                 "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 165.39999999999998,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-12T22:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.969406,
-                    17.59485
-                ]
-            },
-            "properties": {
-                "station_code": "FOP014",
-                "station_name": "สะพานลำน้ำยาม",
-                "tambon": "ต.อากาศ",
-                "amphoe": "อ.อากาศอำนวย",
-                "province": "จ.สกลนคร",
-                "sum_rainfall_48h": 128.8,
+                "sum_rainfall_48h": 164.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
                 "latest_rainfall_datetime": "2026-06-12T22:00:00+07:00"
             }
@@ -76,9 +56,9 @@
                 "tambon": "ต.แม่เกิ๋ง",
                 "amphoe": "อ.วังชิ้น",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 102.80000000000001,
+                "sum_rainfall_48h": 103.00000000000003,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-12T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T23:00:00+07:00"
             }
         }
     ]
