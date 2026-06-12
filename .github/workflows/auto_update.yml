@@ -1,0 +1,33 @@
+name: HII Auto Update GeoJSON
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # ทำงานทุกๆ ต้นชั่วโมง (นาทีที่ 0)
+  workflow_dispatch:      # ให้สามารถกดรันด้วยมือได้ผ่านปุ่ม
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run Fetch Script
+        run: python fetch_data.py
+
+      - name: Commit and push GeoJSON
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add flashflood.geojson
+          git diff --staged --quiet || git commit -m "Update flashflood.geojson [skip ci]"
+          git push
