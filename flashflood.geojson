@@ -16,9 +16,29 @@
                 "tambon": "ต.ท่าช้าง",
                 "amphoe": "อ.พรหมพิราม",
                 "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 108.79999999999998,
+                "sum_rainfall_48h": 120.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-12T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T20:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.397285,
+                    17.175127
+                ]
+            },
+            "properties": {
+                "station_code": "MOU395",
+                "station_name": "ที่ทำการอุทยานแห่งชาติแก่งเจ็ดแคว",
+                "tambon": "ต.บ้านยาง",
+                "amphoe": "อ.วัดโบสถ์",
+                "province": "จ.พิษณุโลก",
+                "sum_rainfall_48h": 118.39999999999999,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-06-12T20:00:00+07:00"
             }
         },
         {
@@ -36,9 +56,9 @@
                 "tambon": "ต.ทุ่งคลอง",
                 "amphoe": "อ.คำม่วง",
                 "province": "จ.กาฬสินธุ์",
-                "sum_rainfall_48h": 128.2,
+                "sum_rainfall_48h": 128.20000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-12T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T20:00:00+07:00"
             }
         },
         {
@@ -58,27 +78,7 @@
                 "province": "จ.สกลนคร",
                 "sum_rainfall_48h": 129,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-12T19:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.030347,
-                    17.798357
-                ]
-            },
-            "properties": {
-                "station_code": "ridtele_TKH.120",
-                "station_name": "สะพานห้วยบ้าน",
-                "tambon": "ต.บ้านโคก",
-                "amphoe": "อ.สร้างคอม",
-                "province": "จ.อุดรธานี",
-                "sum_rainfall_48h": 129.5,
-                "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-06-12T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T20:00:00+07:00"
             }
         },
         {
@@ -96,29 +96,9 @@
                 "tambon": "ต.แม่เกิ๋ง",
                 "amphoe": "อ.วังชิ้น",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 90.8,
+                "sum_rainfall_48h": 99.80000000000003,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-12T19:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.687647,
-                    17.987884
-                ]
-            },
-            "properties": {
-                "station_code": "STN0903",
-                "station_name": "บ้านงอมถ้ำ",
-                "tambon": "ต.ท่าแฝก",
-                "amphoe": "อ.ท่าปลา",
-                "province": "จ.อุตรดิตถ์",
-                "sum_rainfall_48h": 112.5,
-                "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-06-12T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T20:00:00+07:00"
             }
         },
         {
@@ -136,9 +116,9 @@
                 "tambon": "ต.ม่วงเจ็ดต้น",
                 "amphoe": "อ.บ้านโคก",
                 "province": "จ.อุตรดิตถ์",
-                "sum_rainfall_48h": 105.2,
+                "sum_rainfall_48h": 104.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-12T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T20:00:00+07:00"
             }
         }
     ]
