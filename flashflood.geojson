@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.56083,
-                    16.835382
-                ]
-            },
-            "properties": {
-                "station_code": "MOU386",
-                "station_name": "สะพานน้ำเข็ก",
-                "tambon": "ต.วังนกแอ่น",
-                "amphoe": "อ.วังทอง",
-                "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 114.19999999999999,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-12T17:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     103.59715,
                     16.923677
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.ทุ่งคลอง",
                 "amphoe": "อ.คำม่วง",
                 "province": "จ.กาฬสินธุ์",
-                "sum_rainfall_48h": 128.2,
+                "sum_rainfall_48h": 128.20000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-12T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T18:00:00+07:00"
             }
         },
         {
@@ -58,7 +38,7 @@
                 "province": "จ.สกลนคร",
                 "sum_rainfall_48h": 129,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-12T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T18:00:00+07:00"
             }
         },
         {
@@ -78,7 +58,7 @@
                 "province": "จ.อุดรธานี",
                 "sum_rainfall_48h": 129.5,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-06-12T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T18:00:00+07:00"
             }
         },
         {
@@ -96,9 +76,9 @@
                 "tambon": "ต.ท่าแฝก",
                 "amphoe": "อ.ท่าปลา",
                 "province": "จ.อุตรดิตถ์",
-                "sum_rainfall_48h": 120,
+                "sum_rainfall_48h": 115,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-06-12T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T18:00:00+07:00"
             }
         },
         {
@@ -118,7 +98,7 @@
                 "province": "จ.อุตรดิตถ์",
                 "sum_rainfall_48h": 100,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-12T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-12T18:00:00+07:00"
             }
         }
     ]
