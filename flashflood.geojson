@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.90344,
+                    17.921886
+                ]
+            },
+            "properties": {
+                "station_code": "MOU155",
+                "station_name": "วนอุทยานน้ำตกห้วยแม่แสบ",
+                "tambon": "ต.สบเมย",
+                "amphoe": "อ.สบเมย",
+                "province": "จ.แม่ฮ่องสอน",
+                "sum_rainfall_48h": 90.99999999999999,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-06-14T00:00:00+07:00"
+            }
+        }
+    ]
 }
