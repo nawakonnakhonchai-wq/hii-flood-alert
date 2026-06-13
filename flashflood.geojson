@@ -18,27 +18,7 @@
                 "province": "จ.พิษณุโลก",
                 "sum_rainfall_48h": 113.60000000000001,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-13T09:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.397285,
-                    17.175127
-                ]
-            },
-            "properties": {
-                "station_code": "MOU395",
-                "station_name": "ที่ทำการอุทยานแห่งชาติแก่งเจ็ดแคว",
-                "tambon": "ต.บ้านยาง",
-                "amphoe": "อ.วัดโบสถ์",
-                "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 167.60000000000002,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-13T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-13T10:00:00+07:00"
             }
         },
         {
@@ -56,9 +36,9 @@
                 "tambon": "ต.แม่เกิ๋ง",
                 "amphoe": "อ.วังชิ้น",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 99,
+                "sum_rainfall_48h": 97.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-13T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-13T10:00:00+07:00"
             }
         }
     ]
