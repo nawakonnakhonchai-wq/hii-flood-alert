@@ -1,25 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.12127,
-                    16.95387
-                ]
-            },
-            "properties": {
-                "station_code": "DIV002",
-                "station_name": "คลองผันน้ำยม-น่าน2",
-                "tambon": "ต.ท่าช้าง",
-                "amphoe": "อ.พรหมพิราม",
-                "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 106.20000000000002,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-13T17:00:00+07:00"
-            }
-        }
-    ]
+    "features": []
 }
