@@ -18,7 +18,7 @@
                 "province": "จ.พิษณุโลก",
                 "sum_rainfall_48h": 113.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-13T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-13T15:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.แม่เกิ๋ง",
                 "amphoe": "อ.วังชิ้น",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 97.60000000000001,
+                "sum_rainfall_48h": 97.60000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-13T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-13T15:00:00+07:00"
             }
         }
     ]
