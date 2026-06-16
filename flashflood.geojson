@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.83524,
+                    13.79205
+                ]
+            },
+            "properties": {
+                "station_code": "RF.NJK.06",
+                "station_name": "จุดวัด ค.ลำผักชี-รร.ลำผักชี",
+                "tambon": "ต.ลำผักชี",
+                "amphoe": "อ.หนองจอก",
+                "province": "จ.กรุงเทพมหานคร",
+                "sum_rainfall_48h": 109,
+                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
+                "latest_rainfall_datetime": "2026-06-16T20:00:00+07:00"
+            }
+        }
+    ]
 }
