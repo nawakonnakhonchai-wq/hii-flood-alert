@@ -16,9 +16,9 @@
                 "tambon": "ต.บ้านลาด",
                 "amphoe": "อ.บ้านลาด",
                 "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 106.6,
+                "sum_rainfall_48h": 106.60000000000001,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-19T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-19T05:00:00+07:00"
             }
         }
     ]
