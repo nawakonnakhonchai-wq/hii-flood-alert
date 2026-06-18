@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.91617,
+                    13.04963
+                ]
+            },
+            "properties": {
+                "station_code": "BLAT",
+                "station_name": "ทต.บ้านลาด",
+                "tambon": "ต.บ้านลาด",
+                "amphoe": "อ.บ้านลาด",
+                "province": "จ.เพชรบุรี",
+                "sum_rainfall_48h": 105.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-06-18T15:00:00+07:00"
+            }
+        }
+    ]
 }
