@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.179057,
+                    13.983198
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_TTC07",
+                "station_name": "โรงเรียนวัดบางปลา",
+                "tambon": "ต.บางปลา",
+                "amphoe": "อ.บางเลน",
+                "province": "จ.นครปฐม",
+                "sum_rainfall_48h": 108,
+                "agency": "กรมชลประทาน ",
+                "latest_rainfall_datetime": "2026-06-19T17:00:00+07:00"
+            }
+        }
+    ]
 }
