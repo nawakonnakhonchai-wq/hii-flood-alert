@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    99.911013,
+                    6.998849
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_LA07 (TX.336)",
+                "station_name": "บ้านผังปาล์ม 1",
+                "tambon": "ต.ปาล์มพัฒนา",
+                "amphoe": "อ.มะนัง",
+                "province": "จ.สตูล",
+                "sum_rainfall_48h": 176,
+                "agency": "กรมชลประทาน ",
+                "latest_rainfall_datetime": "2026-06-20T15:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     100.179057,
                     13.983198
                 ]
@@ -18,7 +38,7 @@
                 "province": "จ.นครปฐม",
                 "sum_rainfall_48h": 114,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-06-20T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-20T15:00:00+07:00"
             }
         }
     ]
