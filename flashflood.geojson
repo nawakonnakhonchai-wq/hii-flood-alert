@@ -18,7 +18,7 @@
                 "province": "จ.สตูล",
                 "sum_rainfall_48h": 176,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-06-20T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-20T16:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.นครปฐม",
                 "sum_rainfall_48h": 114,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-06-20T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-20T16:00:00+07:00"
             }
         }
     ]
