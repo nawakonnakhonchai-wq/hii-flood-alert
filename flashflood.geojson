@@ -18,26 +18,6 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 105,
                 "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-06-21T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.911013,
-                    6.998849
-                ]
-            },
-            "properties": {
-                "station_code": "ridtele_LA07 (TX.336)",
-                "station_name": "บ้านผังปาล์ม 1",
-                "tambon": "ต.ปาล์มพัฒนา",
-                "amphoe": "อ.มะนัง",
-                "province": "จ.สตูล",
-                "sum_rainfall_48h": 172,
-                "agency": "กรมชลประทาน ",
                 "latest_rainfall_datetime": "2026-06-21T16:00:00+07:00"
             }
         }
