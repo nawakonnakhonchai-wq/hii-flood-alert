@@ -18,7 +18,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 105,
                 "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-06-21T10:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-21T11:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.สตูล",
                 "sum_rainfall_48h": 172,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-06-21T11:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-21T12:00:00+07:00"
             }
         }
     ]
