@@ -1,25 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.156297,
-                    19.148374
-                ]
-            },
-            "properties": {
-                "station_code": "SKU05",
-                "station_name": "อ.บ่อเกลือ",
-                "tambon": "ต.บ่อเกลือใต้",
-                "amphoe": "อ.บ่อเกลือ",
-                "province": "จ.น่าน",
-                "sum_rainfall_48h": 114,
-                "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-06-23T00:00:00+07:00"
-            }
-        }
-    ]
+    "features": []
 }
