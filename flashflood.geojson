@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.63952,
-                    13.93183
+                    100.6609,
+                    13.89531
                 ]
             },
             "properties": {
-                "station_code": "BKK020",
-                "station_name": "คลองลาดพร้าว ปากคลอง2สายใต้",
-                "tambon": "ต.ลาดพร้าว",
-                "amphoe": "อ.ลาดพร้าว",
+                "station_code": "RF.SMI.01",
+                "station_name": "สนข.สายไหม",
+                "tambon": "ต.ออเงิน",
+                "amphoe": "อ.สายไหม",
                 "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 101.4,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-27T17:00:00+07:00"
+                "sum_rainfall_48h": 101,
+                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
+                "latest_rainfall_datetime": "2026-06-27T18:00:00+07:00"
             }
         }
     ]
