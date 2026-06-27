@@ -1,25 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.6609,
-                    13.89531
-                ]
-            },
-            "properties": {
-                "station_code": "RF.SMI.01",
-                "station_name": "สนข.สายไหม",
-                "tambon": "ต.ออเงิน",
-                "amphoe": "อ.สายไหม",
-                "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 101,
-                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-06-27T18:00:00+07:00"
-            }
-        }
-    ]
+    "features": []
 }
