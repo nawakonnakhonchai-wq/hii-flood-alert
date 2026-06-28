@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.640625,
+                    6.27165
+                ]
+            },
+            "properties": {
+                "station_code": "MOU141",
+                "station_name": "ที่ทำการอุทยานแห่งชาติน้ำตกซีโป",
+                "tambon": "ต.เฉลิม",
+                "amphoe": "อ.ระแงะ",
+                "province": "จ.นราธิวาส",
+                "sum_rainfall_48h": 166.4,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-06-28T20:00:00+07:00"
+            }
+        }
+    ]
 }
