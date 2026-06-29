@@ -16,9 +16,9 @@
                 "tambon": "ต.หนองพันทา",
                 "amphoe": "อ.โซ่พิสัย",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 125.60000000000001,
+                "sum_rainfall_48h": 125.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-29T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-29T07:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.บ่อเกลือใต้",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 106.19999999999999,
+                "sum_rainfall_48h": 106.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-29T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-29T07:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.เฉลิม",
                 "amphoe": "อ.ระแงะ",
                 "province": "จ.นราธิวาส",
-                "sum_rainfall_48h": 173.39999999999998,
+                "sum_rainfall_48h": 173.40000000000003,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-29T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-29T07:00:00+07:00"
             }
         }
     ]
