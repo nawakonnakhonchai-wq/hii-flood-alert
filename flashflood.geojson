@@ -18,7 +18,7 @@
                 "province": "จ.บึงกาฬ",
                 "sum_rainfall_48h": 125.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-29T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-29T09:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.บ่อเกลือใต้",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 106.19999999999999,
+                "sum_rainfall_48h": 106.20000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-29T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-29T09:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "province": "จ.นราธิวาส",
                 "sum_rainfall_48h": 173.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-29T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-29T09:00:00+07:00"
             }
         }
     ]
