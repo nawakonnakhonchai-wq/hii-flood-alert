@@ -18,7 +18,7 @@
                 "province": "จ.บึงกาฬ",
                 "sum_rainfall_48h": 146.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-30T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-30T15:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.เวียง",
                 "amphoe": "อ.เชียงของ",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 98.8,
+                "sum_rainfall_48h": 96,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-30T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-30T15:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.เวียง",
                 "amphoe": "อ.เทิง",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 91.6,
+                "sum_rainfall_48h": 91.60000000000001,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-30T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-30T15:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.พญาแก้ว",
                 "amphoe": "อ.เชียงกลาง",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 98.60000000000001,
+                "sum_rainfall_48h": 98.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-30T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-30T15:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.บ่อเกลือใต้",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 198.39999999999998,
+                "sum_rainfall_48h": 198.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-30T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-30T15:00:00+07:00"
             }
         },
         {
@@ -118,7 +118,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 97.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-30T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-30T15:00:00+07:00"
             }
         },
         {
@@ -136,9 +136,9 @@
                 "tambon": "ต.น้ำพาง",
                 "amphoe": "อ.แม่จริม",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 92.4,
+                "sum_rainfall_48h": 91.60000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-30T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-30T15:00:00+07:00"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 109.79999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-30T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-30T15:00:00+07:00"
             }
         },
         {
@@ -178,7 +178,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 182.40000000000003,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-06-30T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-30T15:00:00+07:00"
             }
         },
         {
@@ -198,7 +198,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 90.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-06-30T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-06-30T15:00:00+07:00"
             }
         }
     ]
