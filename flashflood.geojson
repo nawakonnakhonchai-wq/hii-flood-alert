@@ -16,7 +16,7 @@
                 "tambon": "ต.สำโรง",
                 "amphoe": "อ.โพธิ์ไทร",
                 "province": "จ.อุบลราชธานี",
-                "sum_rainfall_48h": 168.79999999999998,
+                "sum_rainfall_48h": 168.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
                 "latest_rainfall_datetime": "2026-07-01T23:00:00+07:00"
             }
@@ -136,7 +136,7 @@
                 "tambon": "ต.บ่อเกลือใต้",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 164.60000000000002,
+                "sum_rainfall_48h": 164.59999999999997,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
                 "latest_rainfall_datetime": "2026-07-01T23:00:00+07:00"
             }
@@ -156,7 +156,7 @@
                 "tambon": "ต.ภูฟ้า",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 150.20000000000002,
+                "sum_rainfall_48h": 150.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
                 "latest_rainfall_datetime": "2026-07-01T23:00:00+07:00"
             }
@@ -216,9 +216,9 @@
                 "tambon": "ต.เหล",
                 "amphoe": "อ.กะปง",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 201,
+                "sum_rainfall_48h": 205,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-01T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-01T23:00:00+07:00"
             }
         }
     ]
