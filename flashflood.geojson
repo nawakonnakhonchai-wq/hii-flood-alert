@@ -36,7 +36,7 @@
                 "tambon": "ต.แม่แวน",
                 "amphoe": "อ.พร้าว",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 110.20000000000002,
+                "sum_rainfall_48h": 110.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
                 "latest_rainfall_datetime": "2026-07-04T06:00:00+07:00"
             }
@@ -66,26 +66,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.9964,
-                    19.1356
-                ]
-            },
-            "properties": {
-                "station_code": "FOP009",
-                "station_name": "รร.บ้านปางยาง",
-                "tambon": "ต.ภูคา",
-                "amphoe": "อ.ปัว",
-                "province": "จ.น่าน",
-                "sum_rainfall_48h": 108.8,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-04T06:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.6244,
                     19.1549
                 ]
@@ -96,7 +76,7 @@
                 "tambon": "ต.ผาช้างน้อย",
                 "amphoe": "อ.ปง",
                 "province": "จ.พะเยา",
-                "sum_rainfall_48h": 123.4,
+                "sum_rainfall_48h": 109.20000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
                 "latest_rainfall_datetime": "2026-07-04T06:00:00+07:00"
             }
@@ -116,9 +96,9 @@
                 "tambon": "ต.เตาปูน",
                 "amphoe": "อ.สอง",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 103.4,
+                "sum_rainfall_48h": 99,
                 "agency": "กรมอุทยานแห่งขาติ สัตว์ป่าและพันธุ์พืช",
-                "latest_rainfall_datetime": "2026-07-04T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T07:00:00+07:00"
             }
         },
         {
@@ -136,9 +116,9 @@
                 "tambon": "ต.ทุ่งหัวช้าง",
                 "amphoe": "อ.ทุ่งหัวช้าง",
                 "province": "จ.ลำพูน",
-                "sum_rainfall_48h": 97.79999999999998,
+                "sum_rainfall_48h": 97.80000000000001,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-04T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T07:00:00+07:00"
             }
         },
         {
