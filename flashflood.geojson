@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.630066,
-                    12.444686
-                ]
-            },
-            "properties": {
-                "station_code": "BDCP",
-                "station_name": "อบต.ด่านชุมพล",
-                "tambon": "ต.ด่านชุมพล",
-                "amphoe": "อ.บ่อไร่",
-                "province": "จ.ตราด",
-                "sum_rainfall_48h": 153.2,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-05T00:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.030278,
                     20.125694
                 ]
@@ -38,7 +18,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 95,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-05T00:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T01:00:00+07:00"
             }
         },
         {
@@ -58,7 +38,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 94,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-05T00:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T01:00:00+07:00"
             }
         },
         {
@@ -76,9 +56,9 @@
                 "tambon": "ต.สะเมิงใต้",
                 "amphoe": "อ.สะเมิง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 111.2,
+                "sum_rainfall_48h": 110.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-05T00:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T01:00:00+07:00"
             }
         },
         {
@@ -98,7 +78,7 @@
                 "province": "จ.พะเยา",
                 "sum_rainfall_48h": 104,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-05T00:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T01:00:00+07:00"
             }
         }
     ]
