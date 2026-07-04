@@ -16,7 +16,7 @@
                 "tambon": "ต.ด่านชุมพล",
                 "amphoe": "อ.บ่อไร่",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 153.20000000000002,
+                "sum_rainfall_48h": 153.19999999999996,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
                 "latest_rainfall_datetime": "2026-07-04T23:00:00+07:00"
             }
@@ -38,7 +38,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 95,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-04T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T23:00:00+07:00"
             }
         },
         {
@@ -56,7 +56,7 @@
                 "tambon": "ต.โป่งผา",
                 "amphoe": "อ.แม่สาย",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 93.99999999999999,
+                "sum_rainfall_48h": 94,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
                 "latest_rainfall_datetime": "2026-07-04T23:00:00+07:00"
             }
@@ -76,7 +76,7 @@
                 "tambon": "ต.สะเมิงใต้",
                 "amphoe": "อ.สะเมิง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 111.19999999999999,
+                "sum_rainfall_48h": 111.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
                 "latest_rainfall_datetime": "2026-07-04T23:00:00+07:00"
             }
