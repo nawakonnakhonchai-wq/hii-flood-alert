@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.17328,
-                    12.78168
-                ]
-            },
-            "properties": {
-                "station_code": "ONE059",
-                "station_name": "วัดโคกตะพง (แกลง)",
-                "tambon": "ต.วังแซ้ม",
-                "amphoe": "อ.มะขาม",
-                "province": "จ.จันทบุรี",
-                "sum_rainfall_48h": 150.20000000000002,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-04T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     102.630066,
                     12.444686
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.ด่านชุมพล",
                 "amphoe": "อ.บ่อไร่",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 153.39999999999998,
+                "sum_rainfall_48h": 153.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-04T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T16:00:00+07:00"
             }
         },
         {
@@ -58,7 +38,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 96,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-04T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T16:00:00+07:00"
             }
         },
         {
@@ -78,7 +58,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 94,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-04T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T16:00:00+07:00"
             }
         },
         {
@@ -96,9 +76,9 @@
                 "tambon": "ต.เมืองนะ",
                 "amphoe": "อ.เชียงดาว",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 114.4,
+                "sum_rainfall_48h": 103.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-04T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T16:00:00+07:00"
             }
         },
         {
@@ -116,9 +96,9 @@
                 "tambon": "ต.แม่แวน",
                 "amphoe": "อ.พร้าว",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 95.2,
+                "sum_rainfall_48h": 95.19999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-04T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T16:00:00+07:00"
             }
         },
         {
@@ -136,9 +116,9 @@
                 "tambon": "ต.สะเมิงใต้",
                 "amphoe": "อ.สะเมิง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 110.20000000000002,
+                "sum_rainfall_48h": 110.19999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-04T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T16:00:00+07:00"
             }
         },
         {
@@ -158,27 +138,7 @@
                 "province": "จ.พะเยา",
                 "sum_rainfall_48h": 105.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-04T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.00955,
-                    18.00469
-                ]
-            },
-            "properties": {
-                "station_code": "RES023",
-                "station_name": "อ่างเก็บน้ำห้วยหินฝน",
-                "tambon": "ต.ทุ่งหัวช้าง",
-                "amphoe": "อ.ทุ่งหัวช้าง",
-                "province": "จ.ลำพูน",
-                "sum_rainfall_48h": 97.8,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-04T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T16:00:00+07:00"
             }
         },
         {
@@ -198,7 +158,7 @@
                 "province": "จ.กรุงเทพมหานคร",
                 "sum_rainfall_48h": 112,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-07-04T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T16:00:00+07:00"
             }
         }
     ]
