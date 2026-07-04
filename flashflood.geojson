@@ -18,7 +18,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 93,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-05T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T03:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 94,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-05T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T03:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.สะเมิงใต้",
                 "amphoe": "อ.สะเมิง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 107.2,
+                "sum_rainfall_48h": 106.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-05T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T03:00:00+07:00"
             }
         }
     ]
