@@ -18,7 +18,7 @@
                 "province": "จ.ตราด",
                 "sum_rainfall_48h": 153.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-04T21:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T22:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 95,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-04T21:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T22:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 94,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-04T21:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T22:00:00+07:00"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "province": "จ.เชียงใหม่",
                 "sum_rainfall_48h": 111.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-04T21:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T22:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.ผาช้างน้อย",
                 "amphoe": "อ.ปง",
                 "province": "จ.พะเยา",
-                "sum_rainfall_48h": 105.6,
+                "sum_rainfall_48h": 104.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-04T21:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-04T22:00:00+07:00"
             }
         }
     ]
