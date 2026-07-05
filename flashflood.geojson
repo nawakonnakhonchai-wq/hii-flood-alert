@@ -16,9 +16,9 @@
                 "tambon": "ต.หนองเลิง",
                 "amphoe": "อ.บึงกาฬ",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 127.60000000000002,
+                "sum_rainfall_48h": 127.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-05T20:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T21:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.แม่วะหลวง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 102.00000000000001,
+                "sum_rainfall_48h": 100.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-05T20:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T21:00:00+07:00"
             }
         }
     ]
