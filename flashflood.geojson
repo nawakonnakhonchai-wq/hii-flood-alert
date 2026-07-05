@@ -18,7 +18,27 @@
                 "province": "จ.บึงกาฬ",
                 "sum_rainfall_48h": 127.60000000000001,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-05T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.96277,
+                    17.75395
+                ]
+            },
+            "properties": {
+                "station_code": "TSYG",
+                "station_name": "รร.แม่อมกิ",
+                "tambon": "ต.แม่วะหลวง",
+                "amphoe": "อ.ท่าสองยาง",
+                "province": "จ.ตาก",
+                "sum_rainfall_48h": 100.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-05T19:00:00+07:00"
             }
         }
     ]
