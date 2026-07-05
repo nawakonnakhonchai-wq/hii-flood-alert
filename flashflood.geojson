@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    103.39763,
+                    18.339111
+                ]
+            },
+            "properties": {
+                "station_code": "HKNL",
+                "station_name": "ทต.หนองเลิง",
+                "tambon": "ต.หนองเลิง",
+                "amphoe": "อ.บึงกาฬ",
+                "province": "จ.บึงกาฬ",
+                "sum_rainfall_48h": 125.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-05T09:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     98.69296,
                     18.773909
                 ]
@@ -18,7 +38,7 @@
                 "province": "จ.เชียงใหม่",
                 "sum_rainfall_48h": 99.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-05T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T09:00:00+07:00"
             }
         }
     ]
