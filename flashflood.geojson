@@ -6,39 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    103.39763,
-                    18.339111
+                    100.398834,
+                    19.703238
                 ]
             },
             "properties": {
-                "station_code": "HKNL",
-                "station_name": "ทต.หนองเลิง",
-                "tambon": "ต.หนองเลิง",
-                "amphoe": "อ.บึงกาฬ",
-                "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 127.6,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-05T21:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    97.96277,
-                    17.75395
-                ]
-            },
-            "properties": {
-                "station_code": "TSYG",
-                "station_name": "รร.แม่อมกิ",
-                "tambon": "ต.แม่วะหลวง",
-                "amphoe": "อ.ท่าสองยาง",
-                "province": "จ.ตาก",
-                "sum_rainfall_48h": 100.8,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-05T21:00:00+07:00"
+                "station_code": "MOU175",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ภูซาง",
+                "tambon": "ต.ภูซาง",
+                "amphoe": "อ.ภูซาง",
+                "province": "จ.พะเยา",
+                "sum_rainfall_48h": 102.39999999999999,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-05T22:00:00+07:00"
             }
         }
     ]
