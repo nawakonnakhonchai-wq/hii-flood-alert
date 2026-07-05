@@ -16,9 +16,29 @@
                 "tambon": "ต.ภูซาง",
                 "amphoe": "อ.ภูซาง",
                 "province": "จ.พะเยา",
-                "sum_rainfall_48h": 102.39999999999999,
+                "sum_rainfall_48h": 102.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-05T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T23:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.19521,
+                    18.55536
+                ]
+            },
+            "properties": {
+                "station_code": "DNP055",
+                "station_name": "หน่วยศึกษาการพัฒนาการอนุรักษ์ต้นน้ำแม่สอง",
+                "tambon": "ต.เตาปูน",
+                "amphoe": "อ.สอง",
+                "province": "จ.แพร่",
+                "sum_rainfall_48h": 92.20000000000002,
+                "agency": "กรมอุทยานแห่งขาติ สัตว์ป่าและพันธุ์พืช",
+                "latest_rainfall_datetime": "2026-07-05T23:00:00+07:00"
             }
         }
     ]
