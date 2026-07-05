@@ -16,9 +16,9 @@
                 "tambon": "ต.หนองเลิง",
                 "amphoe": "อ.บึงกาฬ",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 125.20000000000002,
+                "sum_rainfall_48h": 125.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-05T10:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T11:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.เชียงใหม่",
                 "sum_rainfall_48h": 99.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-05T10:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T11:00:00+07:00"
             }
         }
     ]
