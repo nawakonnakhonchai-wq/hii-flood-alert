@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.398834,
-                    19.703238
-                ]
-            },
-            "properties": {
-                "station_code": "MOU175",
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ภูซาง",
-                "tambon": "ต.ภูซาง",
-                "amphoe": "อ.ภูซาง",
-                "province": "จ.พะเยา",
-                "sum_rainfall_48h": 102.8,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-05T23:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.19521,
                     18.55536
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.เตาปูน",
                 "amphoe": "อ.สอง",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 92.2,
+                "sum_rainfall_48h": 98,
                 "agency": "กรมอุทยานแห่งขาติ สัตว์ป่าและพันธุ์พืช",
-                "latest_rainfall_datetime": "2026-07-05T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-06T00:00:00+07:00"
             }
         }
     ]
