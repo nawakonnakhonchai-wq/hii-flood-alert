@@ -18,7 +18,27 @@
                 "province": "จ.บึงกาฬ",
                 "sum_rainfall_48h": 125.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-05T12:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-05T14:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.99487,
+                    18.294788
+                ]
+            },
+            "properties": {
+                "station_code": "VLGE34",
+                "station_name": "ชุมชนบ้านบุ่งคล้า",
+                "tambon": "ต.บุ่งคล้า",
+                "amphoe": "อ.บุ่งคล้า",
+                "province": "จ.บึงกาฬ",
+                "sum_rainfall_48h": 125.60000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-05T14:00:00+07:00"
             }
         }
     ]
