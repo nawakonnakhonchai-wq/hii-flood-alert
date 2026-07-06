@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.66871,
+                    16.496685
+                ]
+            },
+            "properties": {
+                "station_code": "KAHN",
+                "station_name": "รร. คำอาฮวนศรีสุราษฎร์วิทยา",
+                "tambon": "ต.คำอาฮวน",
+                "amphoe": "อ.เมืองมุกดาหาร",
+                "province": "จ.มุกดาหาร",
+                "sum_rainfall_48h": 131,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-06T14:00:00+07:00"
+            }
+        }
+    ]
 }
