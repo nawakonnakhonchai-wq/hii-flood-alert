@@ -16,9 +16,9 @@
                 "tambon": "ต.คำอาฮวน",
                 "amphoe": "อ.เมืองมุกดาหาร",
                 "province": "จ.มุกดาหาร",
-                "sum_rainfall_48h": 136.8,
+                "sum_rainfall_48h": 127.60000000000001,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-07T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-07T05:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.นาสีนวน",
                 "amphoe": "อ.เมืองมุกดาหาร",
                 "province": "จ.มุกดาหาร",
-                "sum_rainfall_48h": 148,
+                "sum_rainfall_48h": 139.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-07T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-07T05:00:00+07:00"
             }
         }
     ]
