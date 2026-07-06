@@ -16,9 +16,29 @@
                 "tambon": "ต.คำอาฮวน",
                 "amphoe": "อ.เมืองมุกดาหาร",
                 "province": "จ.มุกดาหาร",
-                "sum_rainfall_48h": 134.4,
+                "sum_rainfall_48h": 139.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-06T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-06T20:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.80253,
+                    16.433405
+                ]
+            },
+            "properties": {
+                "station_code": "MOU100",
+                "station_name": "อุทยานแห่งชาติภูผาเทิบ",
+                "tambon": "ต.นาสีนวน",
+                "amphoe": "อ.เมืองมุกดาหาร",
+                "province": "จ.มุกดาหาร",
+                "sum_rainfall_48h": 135.79999999999998,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-06T20:00:00+07:00"
             }
         }
     ]
