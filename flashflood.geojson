@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    101.35063,
+                    14.207237
+                ]
+            },
+            "properties": {
+                "station_code": "BHUN",
+                "station_name": "อบต.นาหินลาด",
+                "tambon": "ต.นาหินลาด",
+                "amphoe": "อ.ปากพลี",
+                "province": "จ.นครนายก",
+                "sum_rainfall_48h": 110.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-07T17:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     101.8166,
                     14.07421
                 ]
@@ -16,9 +36,9 @@
                 "tambon": "ต.หนองกี่",
                 "amphoe": "อ.กบินทร์บุรี",
                 "province": "จ.ปราจีนบุรี",
-                "sum_rainfall_48h": 154,
+                "sum_rainfall_48h": 154.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-07T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-07T17:00:00+07:00"
             }
         },
         {
@@ -36,9 +56,9 @@
                 "tambon": "ต.คำอาฮวน",
                 "amphoe": "อ.เมืองมุกดาหาร",
                 "province": "จ.มุกดาหาร",
-                "sum_rainfall_48h": 134.39999999999998,
+                "sum_rainfall_48h": 134.40000000000003,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-07T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-07T17:00:00+07:00"
             }
         },
         {
@@ -58,7 +78,7 @@
                 "province": "จ.มุกดาหาร",
                 "sum_rainfall_48h": 149.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-07T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-07T17:00:00+07:00"
             }
         }
     ]
