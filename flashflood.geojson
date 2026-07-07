@@ -1,25 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.8166,
-                    14.07421
-                ]
-            },
-            "properties": {
-                "station_code": "KIZ001",
-                "station_name": "เขตอุตสาหกรรมกบินทร์บุรี",
-                "tambon": "ต.หนองกี่",
-                "amphoe": "อ.กบินทร์บุรี",
-                "province": "จ.ปราจีนบุรี",
-                "sum_rainfall_48h": 152.6,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-08T00:00:00+07:00"
-            }
-        }
-    ]
+    "features": []
 }
