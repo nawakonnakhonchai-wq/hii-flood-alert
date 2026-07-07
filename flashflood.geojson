@@ -18,7 +18,7 @@
                 "province": "จ.มุกดาหาร",
                 "sum_rainfall_48h": 133.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-07T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-07T10:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.นาสีนวน",
                 "amphoe": "อ.เมืองมุกดาหาร",
                 "province": "จ.มุกดาหาร",
-                "sum_rainfall_48h": 145.79999999999998,
+                "sum_rainfall_48h": 147.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-07T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-07T10:00:00+07:00"
             }
         }
     ]
