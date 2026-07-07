@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.14759,
+                    12.49996
+                ]
+            },
+            "properties": {
+                "station_code": "BNKN",
+                "station_name": "ทต.พลิ้ว",
+                "tambon": "ต.พลิ้ว",
+                "amphoe": "อ.แหลมสิงห์",
+                "province": "จ.จันทบุรี",
+                "sum_rainfall_48h": 184.40000000000003,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-08T02:00:00+07:00"
+            }
+        }
+    ]
 }
