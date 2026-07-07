@@ -16,49 +16,9 @@
                 "tambon": "ต.หนองกี่",
                 "amphoe": "อ.กบินทร์บุรี",
                 "province": "จ.ปราจีนบุรี",
-                "sum_rainfall_48h": 162.8,
+                "sum_rainfall_48h": 152.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-07T23:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.66871,
-                    16.496685
-                ]
-            },
-            "properties": {
-                "station_code": "KAHN",
-                "station_name": "รร. คำอาฮวนศรีสุราษฎร์วิทยา",
-                "tambon": "ต.คำอาฮวน",
-                "amphoe": "อ.เมืองมุกดาหาร",
-                "province": "จ.มุกดาหาร",
-                "sum_rainfall_48h": 130.60000000000002,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-07T23:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.80253,
-                    16.433405
-                ]
-            },
-            "properties": {
-                "station_code": "MOU100",
-                "station_name": "อุทยานแห่งชาติภูผาเทิบ",
-                "tambon": "ต.นาสีนวน",
-                "amphoe": "อ.เมืองมุกดาหาร",
-                "province": "จ.มุกดาหาร",
-                "sum_rainfall_48h": 131,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-07T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-08T00:00:00+07:00"
             }
         }
     ]
