@@ -16,9 +16,9 @@
                 "tambon": "ต.พลิ้ว",
                 "amphoe": "อ.แหลมสิงห์",
                 "province": "จ.จันทบุรี",
-                "sum_rainfall_48h": 168,
+                "sum_rainfall_48h": 167.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-08T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-08T09:00:00+07:00"
             }
         }
     ]
