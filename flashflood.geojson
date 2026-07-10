@@ -6,19 +6,119 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.14759,
-                    12.49996
+                    99.161194,
+                    20.015764
                 ]
             },
             "properties": {
-                "station_code": "BNKN",
-                "station_name": "ทต.พลิ้ว",
-                "tambon": "ต.พลิ้ว",
-                "amphoe": "อ.แหลมสิงห์",
-                "province": "จ.จันทบุรี",
-                "sum_rainfall_48h": 167.8,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-08T09:00:00+07:00"
+                "station_code": "MOU014",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ดอยผาหลวง",
+                "tambon": "ต.โป่งน้ำร้อน",
+                "amphoe": "อ.ฝาง",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 91.4,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-10T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.181145,
+                    20.080585
+                ]
+            },
+            "properties": {
+                "station_code": "MOU012",
+                "station_name": "หน่วยพิทักษ์อุทยานฯ ที่ ดป.๔ (โครงการบ้านเล็กฯ)",
+                "tambon": "ต.แม่สาว",
+                "amphoe": "อ.แม่อาย",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 119.60000000000001,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-10T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.3436,
+                    17.4721
+                ]
+            },
+            "properties": {
+                "station_code": "MOU275",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่ระอา",
+                "tambon": "ต.แม่ตื่น",
+                "amphoe": "อ.อมก๋อย",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 111.4,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-10T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.072,
+                    19.1848
+                ]
+            },
+            "properties": {
+                "station_code": "MOU404",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์น้ำขว้าง",
+                "tambon": "ต.ภูคา",
+                "amphoe": "อ.ปัว",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 94.6,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-10T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.19521,
+                    18.55536
+                ]
+            },
+            "properties": {
+                "station_code": "DNP055",
+                "station_name": "หน่วยศึกษาการพัฒนาการอนุรักษ์ต้นน้ำแม่สอง",
+                "tambon": "ต.เตาปูน",
+                "amphoe": "อ.สอง",
+                "province": "จ.แพร่",
+                "sum_rainfall_48h": 110.6,
+                "agency": "กรมอุทยานแห่งขาติ สัตว์ป่าและพันธุ์พืช",
+                "latest_rainfall_datetime": "2026-07-10T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.07418,
+                    17.483812
+                ]
+            },
+            "properties": {
+                "station_code": "MOU068",
+                "station_name": "อุทยานแห่งชาติแม่เมย",
+                "tambon": "ต.แม่สอง",
+                "amphoe": "อ.ท่าสองยาง",
+                "province": "จ.ตาก",
+                "sum_rainfall_48h": 141,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-10T12:00:00+07:00"
             }
         }
     ]
