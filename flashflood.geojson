@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.2607,
-                    19.5793
-                ]
-            },
-            "properties": {
-                "station_code": "MOU182",
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ขุนน้ำฝาง",
-                "tambon": "ต.ศรีดงเย็น",
-                "amphoe": "อ.ไชยปราการ",
-                "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 94,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T01:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     98.3436,
                     17.4721
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.แม่ตื่น",
                 "amphoe": "อ.อมก๋อย",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 98.4,
+                "sum_rainfall_48h": 91,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T02:00:00+07:00"
             }
         },
         {
@@ -56,9 +36,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 116.60000000000002,
+                "sum_rainfall_48h": 114.39999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T02:00:00+07:00"
             }
         }
     ]
