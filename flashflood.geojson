@@ -16,9 +16,9 @@
                 "tambon": "ต.ศรีดงเย็น",
                 "amphoe": "อ.ไชยปราการ",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 104.4,
+                "sum_rainfall_48h": 103,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-11T13:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-11T15:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.แม่สาว",
                 "amphoe": "อ.แม่อาย",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 102.20000000000002,
+                "sum_rainfall_48h": 100.79999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-11T13:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-11T15:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.แม่ตื่น",
                 "amphoe": "อ.อมก๋อย",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 133.8,
+                "sum_rainfall_48h": 126,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-11T13:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-11T15:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.ภูคา",
                 "amphoe": "อ.ปัว",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 102.00000000000001,
+                "sum_rainfall_48h": 97.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-11T13:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-11T14:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 173.20000000000002,
+                "sum_rainfall_48h": 143.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-11T13:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-11T15:00:00+07:00"
             }
         }
     ]
