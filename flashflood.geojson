@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.3436,
-                    17.4721
-                ]
-            },
-            "properties": {
-                "station_code": "MOU275",
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่ระอา",
-                "tambon": "ต.แม่ตื่น",
-                "amphoe": "อ.อมก๋อย",
-                "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 91,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T02:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     98.07418,
                     17.483812
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 114.39999999999998,
+                "sum_rainfall_48h": 112.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T03:00:00+07:00"
             }
         }
     ]
