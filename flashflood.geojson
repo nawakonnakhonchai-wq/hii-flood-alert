@@ -16,9 +16,69 @@
                 "tambon": "ต.นนทรีย์",
                 "amphoe": "อ.บ่อไร่",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 180.79999999999998,
+                "sum_rainfall_48h": 177.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-12T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-13T01:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.680739,
+                    17.95482
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_TKS.116",
+                "station_name": "บ้านสุขสำราญ",
+                "tambon": "ต.โนนสะอาด",
+                "amphoe": "อ.บ้านม่วง",
+                "province": "จ.สกลนคร",
+                "sum_rainfall_48h": 126,
+                "agency": "กรมชลประทาน ",
+                "latest_rainfall_datetime": "2026-07-13T01:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.07919,
+                    19.957552
+                ]
+            },
+            "properties": {
+                "station_code": "MOU201",
+                "station_name": "วนอุทยานน้ำตกห้วยแม่สัก",
+                "tambon": "ต.ทุ่งก่อ",
+                "amphoe": "อ.เวียงเชียงรุ้ง",
+                "province": "จ.เชียงราย",
+                "sum_rainfall_48h": 153,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-13T01:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.156297,
+                    19.148374
+                ]
+            },
+            "properties": {
+                "station_code": "SKU05",
+                "station_name": "อ.บ่อเกลือ",
+                "tambon": "ต.บ่อเกลือใต้",
+                "amphoe": "อ.บ่อเกลือ",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 92,
+                "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+                "latest_rainfall_datetime": "2026-07-13T00:00:00+07:00"
             }
         },
         {
@@ -36,9 +96,9 @@
                 "tambon": "ต.ภูฟ้า",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 93.6,
+                "sum_rainfall_48h": 95,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-13T01:00:00+07:00"
             }
         },
         {
@@ -56,9 +116,9 @@
                 "tambon": "ต.ท่าขนุน",
                 "amphoe": "อ.ทองผาภูมิ",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 124,
+                "sum_rainfall_48h": 109,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-12T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-13T01:00:00+07:00"
             }
         },
         {
@@ -76,9 +136,9 @@
                 "tambon": "ต.ไล่โว่",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 114.00000000000001,
+                "sum_rainfall_48h": 108.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-13T01:00:00+07:00"
             }
         },
         {
@@ -96,9 +156,9 @@
                 "tambon": "ต.หนองลู",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 113.19999999999999,
+                "sum_rainfall_48h": 107.60000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-13T01:00:00+07:00"
             }
         },
         {
@@ -116,9 +176,9 @@
                 "tambon": "ต.หนองแก",
                 "amphoe": "อ.หัวหิน",
                 "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 428.6,
+                "sum_rainfall_48h": 428.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-12T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-13T01:00:00+07:00"
             }
         }
     ]
