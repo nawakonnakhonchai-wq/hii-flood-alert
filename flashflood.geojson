@@ -16,9 +16,29 @@
                 "tambon": "ต.นนทรีย์",
                 "amphoe": "อ.บ่อไร่",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 183.8,
+                "sum_rainfall_48h": 184.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-12T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T17:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.07765,
+                    19.203993
+                ]
+            },
+            "properties": {
+                "station_code": "FOP003",
+                "station_name": "อุทยานแห่งชาติดอยภูคา",
+                "tambon": "ต.ภูคา",
+                "amphoe": "อ.ปัว",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 93.60000000000002,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-12T17:00:00+07:00"
             }
         },
         {
@@ -36,9 +56,9 @@
                 "tambon": "ต.ท่าขนุน",
                 "amphoe": "อ.ทองผาภูมิ",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 118,
+                "sum_rainfall_48h": 117.5,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-12T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T17:00:00+07:00"
             }
         },
         {
@@ -56,9 +76,9 @@
                 "tambon": "ต.ไล่โว่",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 113.6,
+                "sum_rainfall_48h": 114,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T17:00:00+07:00"
             }
         },
         {
@@ -76,9 +96,29 @@
                 "tambon": "ต.หนองลู",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 108,
+                "sum_rainfall_48h": 109.39999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T17:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.97219,
+                    12.5175
+                ]
+            },
+            "properties": {
+                "station_code": "HHN003",
+                "station_name": "เลียบคลอง วัดเขาไกรลาศ",
+                "tambon": "ต.หนองแก",
+                "amphoe": "อ.หัวหิน",
+                "province": "จ.ประจวบคีรีขันธ์",
+                "sum_rainfall_48h": 155,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-12T16:00:00+07:00"
             }
         }
     ]
