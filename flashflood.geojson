@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    102.59024,
+                    12.51579
+                ]
+            },
+            "properties": {
+                "station_code": "ONE066",
+                "station_name": "วัดทุ่งตอง",
+                "tambon": "ต.นนทรีย์",
+                "amphoe": "อ.บ่อไร่",
+                "province": "จ.ตราด",
+                "sum_rainfall_48h": 183.60000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-12T13:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     98.635243,
                     14.742605
                 ]
@@ -16,9 +36,9 @@
                 "tambon": "ต.ท่าขนุน",
                 "amphoe": "อ.ทองผาภูมิ",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 124.5,
+                "sum_rainfall_48h": 117.5,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-12T10:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T13:00:00+07:00"
             }
         },
         {
@@ -36,9 +56,9 @@
                 "tambon": "ต.ไล่โว่",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 100.6,
+                "sum_rainfall_48h": 111.79999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T10:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T13:00:00+07:00"
             }
         },
         {
@@ -56,7 +76,7 @@
                 "tambon": "ต.หนองลู",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 107.19999999999999,
+                "sum_rainfall_48h": 107.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
                 "latest_rainfall_datetime": "2026-07-12T09:00:00+07:00"
             }
