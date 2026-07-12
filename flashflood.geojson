@@ -16,9 +16,9 @@
                 "tambon": "ต.นนทรีย์",
                 "amphoe": "อ.บ่อไร่",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 184.8,
+                "sum_rainfall_48h": 185.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-12T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T19:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.ภูคา",
                 "amphoe": "อ.ปัว",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 93.60000000000002,
+                "sum_rainfall_48h": 93.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T19:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.ท่าขนุน",
                 "amphoe": "อ.ทองผาภูมิ",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 117.5,
+                "sum_rainfall_48h": 118.5,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-12T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T19:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.ไล่โว่",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 114,
+                "sum_rainfall_48h": 114.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T19:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.หนองลู",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 109.39999999999999,
+                "sum_rainfall_48h": 109.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T19:00:00+07:00"
             }
         },
         {
@@ -116,9 +116,9 @@
                 "tambon": "ต.หนองแก",
                 "amphoe": "อ.หัวหิน",
                 "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 155,
+                "sum_rainfall_48h": 321.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-12T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T18:00:00+07:00"
             }
         }
     ]
