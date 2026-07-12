@@ -16,9 +16,9 @@
                 "tambon": "ต.ท่าขนุน",
                 "amphoe": "อ.ทองผาภูมิ",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 109.5,
+                "sum_rainfall_48h": 124.5,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-12T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T10:00:00+07:00"
             }
         },
         {
@@ -26,19 +26,39 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.07418,
-                    17.483812
+                    98.50981,
+                    15.30931
                 ]
             },
             "properties": {
-                "station_code": "MOU068",
-                "station_name": "อุทยานแห่งชาติแม่เมย",
-                "tambon": "ต.แม่สอง",
-                "amphoe": "อ.ท่าสองยาง",
-                "province": "จ.ตาก",
-                "sum_rainfall_48h": 107.2,
+                "station_code": "FOP050",
+                "station_name": "รร.กองม่องทะ สาขาไล่โว่",
+                "tambon": "ต.ไล่โว่",
+                "amphoe": "อ.สังขละบุรี",
+                "province": "จ.กาญจนบุรี",
+                "sum_rainfall_48h": 100.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-12T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-12T10:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.38663,
+                    15.215711
+                ]
+            },
+            "properties": {
+                "station_code": "MOU123",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ซองกาเลีย",
+                "tambon": "ต.หนองลู",
+                "amphoe": "อ.สังขละบุรี",
+                "province": "จ.กาญจนบุรี",
+                "sum_rainfall_48h": 107.19999999999999,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-12T09:00:00+07:00"
             }
         }
     ]
