@@ -16,9 +16,9 @@
                 "tambon": "ต.ไม้รูด",
                 "amphoe": "อ.คลองใหญ่",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 256.4,
+                "sum_rainfall_48h": 254.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-14T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-15T00:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.ท่ากุ่ม",
                 "amphoe": "อ.เมืองตราด",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 183,
+                "sum_rainfall_48h": 177.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-14T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-15T00:00:00+07:00"
             }
         },
         {
@@ -56,49 +56,9 @@
                 "tambon": "ต.แม่เย็น",
                 "amphoe": "อ.พาน",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 108.60000000000002,
+                "sum_rainfall_48h": 108.60000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-14T22:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.81826,
-                    19.92195
-                ]
-            },
-            "properties": {
-                "station_code": "TBW022",
-                "station_name": "สะพานแม่ฟ้าหลวง",
-                "tambon": "ต.รอบเวียง",
-                "amphoe": "อ.เมืองเชียงราย",
-                "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 120,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-14T22:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.87332,
-                    19.803078
-                ]
-            },
-            "properties": {
-                "station_code": "MOU191",
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ มป. ๒ (ห้วยพญาเก๊า)",
-                "tambon": "ต.ห้วยสัก",
-                "amphoe": "อ.เมืองเชียงราย",
-                "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 103.80000000000001,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-14T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-15T00:00:00+07:00"
             }
         },
         {
@@ -116,49 +76,9 @@
                 "tambon": "ต.ป่าแดด",
                 "amphoe": "อ.แม่สรวย",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 104.2,
+                "sum_rainfall_48h": 104.19999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-14T22:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.48944,
-                    20.030533
-                ]
-            },
-            "properties": {
-                "station_code": "MOU171",
-                "station_name": "สะพานแม่น้ำงาว",
-                "tambon": "ต.ท่าข้าม",
-                "amphoe": "อ.เวียงแก่น",
-                "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 97.4,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-14T22:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.07919,
-                    19.957552
-                ]
-            },
-            "properties": {
-                "station_code": "MOU201",
-                "station_name": "วนอุทยานน้ำตกห้วยแม่สัก",
-                "tambon": "ต.ทุ่งก่อ",
-                "amphoe": "อ.เวียงเชียงรุ้ง",
-                "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 148.8,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-14T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-15T00:00:00+07:00"
             }
         },
         {
@@ -178,7 +98,7 @@
                 "province": "จ.เชียงใหม่",
                 "sum_rainfall_48h": 96.70000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-14T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-15T00:00:00+07:00"
             }
         }
     ]
