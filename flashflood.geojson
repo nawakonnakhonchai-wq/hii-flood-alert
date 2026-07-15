@@ -1,25 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.91527,
-                    19.41391
-                ]
-            },
-            "properties": {
-                "station_code": "CHD003",
-                "station_name": "หน่วยพิทักษ์ป่าสบห้วยผาตั้ง-นาเลา",
-                "tambon": "ต.เชียงดาว",
-                "amphoe": "อ.เชียงดาว",
-                "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 96.1,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-15T15:00:00+07:00"
-            }
-        }
-    ]
+    "features": []
 }
