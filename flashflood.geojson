@@ -18,7 +18,7 @@
                 "province": "จ.กำแพงเพชร",
                 "sum_rainfall_48h": 129,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-15T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-15T22:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.หินตั้ง",
                 "amphoe": "อ.เมืองนครนายก",
                 "province": "จ.นครนายก",
-                "sum_rainfall_48h": 109.4,
+                "sum_rainfall_48h": 109.79999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-15T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-15T22:00:00+07:00"
             }
         }
     ]
