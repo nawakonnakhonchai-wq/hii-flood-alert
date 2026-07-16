@@ -1,45 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.598389,
-                    16.343056
-                ]
-            },
-            "properties": {
-                "station_code": "ridtele_TP.107",
-                "station_name": "บ้านคลองสีนวล",
-                "tambon": "ต.ธำมรงค์",
-                "amphoe": "อ.เมืองกำแพงเพชร",
-                "province": "จ.กำแพงเพชร",
-                "sum_rainfall_48h": 127,
-                "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-16T13:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.312805,
-                    14.315162
-                ]
-            },
-            "properties": {
-                "station_code": "MOU461",
-                "station_name": "สะพานคลองนางรอง",
-                "tambon": "ต.หินตั้ง",
-                "amphoe": "อ.เมืองนครนายก",
-                "province": "จ.นครนายก",
-                "sum_rainfall_48h": 109.20000000000002,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-16T13:00:00+07:00"
-            }
-        }
-    ]
+    "features": []
 }
