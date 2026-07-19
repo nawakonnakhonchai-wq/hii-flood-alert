@@ -1,25 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.19521,
-                    18.55536
-                ]
-            },
-            "properties": {
-                "station_code": "DNP055",
-                "station_name": "หน่วยศึกษาการพัฒนาการอนุรักษ์ต้นน้ำแม่สอง",
-                "tambon": "ต.เตาปูน",
-                "amphoe": "อ.สอง",
-                "province": "จ.แพร่",
-                "sum_rainfall_48h": 94.8,
-                "agency": "กรมอุทยานแห่งขาติ สัตว์ป่าและพันธุ์พืช",
-                "latest_rainfall_datetime": "2026-07-19T12:00:00+07:00"
-            }
-        }
-    ]
+    "features": []
 }
