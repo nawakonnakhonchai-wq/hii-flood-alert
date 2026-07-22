@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.79428,
+                    18.875978
+                ]
+            },
+            "properties": {
+                "station_code": "MOU001",
+                "station_name": "หน่วยศึกษาการพัฒนาการอนุรักษ์ต้นน้ำปิงส่วนที่ 2 จังหวัดเชียงใหม่",
+                "tambon": "ต.โป่งแยง",
+                "amphoe": "อ.แม่ริม",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 91.19999999999999,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-22T20:00:00+07:00"
+            }
+        }
+    ]
 }
