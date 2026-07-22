@@ -1,25 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.36157,
-                    17.45859
-                ]
-            },
-            "properties": {
-                "station_code": "TPUR",
-                "station_name": "ทต.ภูเรือ",
-                "tambon": "ต.หนองบัว",
-                "amphoe": "อ.ภูเรือ",
-                "province": "จ.เลย",
-                "sum_rainfall_48h": 201.6,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-22T08:00:00+07:00"
-            }
-        }
-    ]
+    "features": []
 }
