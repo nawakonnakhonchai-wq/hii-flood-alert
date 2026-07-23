@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    102.352,
+                    12.103383
+                ]
+            },
+            "properties": {
+                "station_code": "BGBO",
+                "station_name": "ทต.เกาะช้าง",
+                "tambon": "ต.เกาะช้าง",
+                "amphoe": "อ.เกาะช้าง",
+                "province": "จ.ตราด",
+                "sum_rainfall_48h": 150.60000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-24T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     101.183914,
                     19.236826
                 ]
@@ -16,9 +36,9 @@
                 "tambon": "ต.ดงพญา",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 100.40000000000002,
+                "sum_rainfall_48h": 99.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-24T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T04:00:00+07:00"
             }
         },
         {
@@ -36,9 +56,9 @@
                 "tambon": "ต.ภูฟ้า",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 158,
+                "sum_rainfall_48h": 156.79999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-24T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T04:00:00+07:00"
             }
         }
     ]
