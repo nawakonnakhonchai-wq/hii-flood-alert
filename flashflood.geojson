@@ -16,9 +16,9 @@
                 "tambon": "ต.ดงพญา",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 101.4,
+                "sum_rainfall_48h": 100.40000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-24T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T03:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.ภูฟ้า",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 159.60000000000002,
+                "sum_rainfall_48h": 158,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-24T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T03:00:00+07:00"
             }
         }
     ]
