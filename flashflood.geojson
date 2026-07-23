@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.79428,
-                    18.875978
+                    101.183914,
+                    19.236826
                 ]
             },
             "properties": {
-                "station_code": "MOU001",
-                "station_name": "หน่วยศึกษาการพัฒนาการอนุรักษ์ต้นน้ำปิงส่วนที่ 2 จังหวัดเชียงใหม่",
-                "tambon": "ต.โป่งแยง",
-                "amphoe": "อ.แม่ริม",
-                "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 90.8,
+                "station_code": "MOU034",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ขุนว้า",
+                "tambon": "ต.ดงพญา",
+                "amphoe": "อ.บ่อเกลือ",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 102,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-23T13:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-23T16:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,29 @@
                 "tambon": "ต.ภูฟ้า",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 163.99999999999997,
+                "sum_rainfall_48h": 163.79999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-23T12:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-23T16:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.07765,
+                    19.203993
+                ]
+            },
+            "properties": {
+                "station_code": "FOP003",
+                "station_name": "อุทยานแห่งชาติดอยภูคา",
+                "tambon": "ต.ภูคา",
+                "amphoe": "อ.ปัว",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 90.6,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-23T16:00:00+07:00"
             }
         }
     ]
