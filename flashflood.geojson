@@ -18,7 +18,7 @@
                 "province": "จ.เชียงใหม่",
                 "sum_rainfall_48h": 91,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-23T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-23T10:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.ดงพญา",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 92,
+                "sum_rainfall_48h": 91.39999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-23T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-23T10:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.ภูฟ้า",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 169.99999999999997,
+                "sum_rainfall_48h": 169.79999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-23T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-23T10:00:00+07:00"
             }
         }
     ]
