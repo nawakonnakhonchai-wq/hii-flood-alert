@@ -18,7 +18,7 @@
                 "province": "จ.ตราด",
                 "sum_rainfall_48h": 150.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-24T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T17:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.ไม้รูด",
                 "amphoe": "อ.คลองใหญ่",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 159.40000000000003,
+                "sum_rainfall_48h": 160.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-24T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T17:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.ดงพญา",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 94.2,
+                "sum_rainfall_48h": 94.39999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-24T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T17:00:00+07:00"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 155.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-24T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T17:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.โคกเคียน",
                 "amphoe": "อ.ตะกั่วป่า",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 163.20000000000002,
+                "sum_rainfall_48h": 170,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-24T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T17:00:00+07:00"
             }
         },
         {
@@ -116,9 +116,9 @@
                 "tambon": "ต.ตะกั่วป่า",
                 "amphoe": "อ.ตะกั่วป่า",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 159,
+                "sum_rainfall_48h": 162.5,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-24T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T17:00:00+07:00"
             }
         }
     ]
