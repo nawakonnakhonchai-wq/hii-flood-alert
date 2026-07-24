@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.352,
-                    12.103383
-                ]
-            },
-            "properties": {
-                "station_code": "BGBO",
-                "station_name": "ทต.เกาะช้าง",
-                "tambon": "ต.เกาะช้าง",
-                "amphoe": "อ.เกาะช้าง",
-                "province": "จ.ตราด",
-                "sum_rainfall_48h": 198.4,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-25T02:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     102.77911,
                     11.927444
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.ไม้รูด",
                 "amphoe": "อ.คลองใหญ่",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 263.20000000000005,
+                "sum_rainfall_48h": 236,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-25T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-25T04:00:00+07:00"
             }
         },
         {
@@ -56,9 +36,9 @@
                 "tambon": "ต.อวน",
                 "amphoe": "อ.ปัว",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 107.8,
+                "sum_rainfall_48h": 121.99999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-25T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-25T04:00:00+07:00"
             }
         },
         {
@@ -76,9 +56,9 @@
                 "tambon": "ต.โคกเคียน",
                 "amphoe": "อ.ตะกั่วป่า",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 183,
+                "sum_rainfall_48h": 181.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-25T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-25T04:00:00+07:00"
             }
         },
         {
@@ -98,7 +78,7 @@
                 "province": "จ.พังงา",
                 "sum_rainfall_48h": 179,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-25T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-25T04:00:00+07:00"
             }
         }
     ]
