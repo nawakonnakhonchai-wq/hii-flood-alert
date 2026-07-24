@@ -16,9 +16,9 @@
                 "tambon": "ต.เกาะช้าง",
                 "amphoe": "อ.เกาะช้าง",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 150.6,
+                "sum_rainfall_48h": 150.60000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-24T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T09:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 94.39999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-24T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T09:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,27 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 155.79999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-24T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-24T09:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.369316,
+                    8.829407
+                ]
+            },
+            "properties": {
+                "station_code": "MDC001",
+                "station_name": "ตลาดเก่าตะกั่วป่า",
+                "tambon": "ต.โคกเคียน",
+                "amphoe": "อ.ตะกั่วป่า",
+                "province": "จ.พังงา",
+                "sum_rainfall_48h": 155.39999999999998,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-24T09:00:00+07:00"
             }
         }
     ]
