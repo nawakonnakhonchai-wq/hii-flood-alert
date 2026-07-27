@@ -16,9 +16,9 @@
                 "tambon": "ต.ไก่คำ",
                 "amphoe": "อ.เมืองอำนาจเจริญ",
                 "province": "จ.อำนาจเจริญ",
-                "sum_rainfall_48h": 176.8,
+                "sum_rainfall_48h": 177.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-28T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T04:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.แก้ง",
                 "amphoe": "อ.เดชอุดม",
                 "province": "จ.อุบลราชธานี",
-                "sum_rainfall_48h": 139.4,
+                "sum_rainfall_48h": 168.60000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-28T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T04:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.บ้านแมด",
                 "amphoe": "อ.บุณฑริก",
                 "province": "จ.อุบลราชธานี",
-                "sum_rainfall_48h": 145.4,
+                "sum_rainfall_48h": 149,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-28T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T04:00:00+07:00"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 108.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-28T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T04:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.สระ",
                 "amphoe": "อ.เชียงม่วน",
                 "province": "จ.พะเยา",
-                "sum_rainfall_48h": 157.60000000000002,
+                "sum_rainfall_48h": 152,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-28T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T04:00:00+07:00"
             }
         }
     ]
