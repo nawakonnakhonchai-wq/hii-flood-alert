@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    103.80708,
+                    17.6021
+                ]
+            },
+            "properties": {
+                "station_code": "YBKM",
+                "station_name": "อบต.ขัวก่าย",
+                "tambon": "ต.ขัวก่าย",
+                "amphoe": "อ.วานรนิวาส",
+                "province": "จ.สกลนคร",
+                "sum_rainfall_48h": 138.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     104.6422,
                     15.78806
                 ]
@@ -16,9 +36,9 @@
                 "tambon": "ต.ไก่คำ",
                 "amphoe": "อ.เมืองอำนาจเจริญ",
                 "province": "จ.อำนาจเจริญ",
-                "sum_rainfall_48h": 177.6,
+                "sum_rainfall_48h": 178,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-28T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
             }
         },
         {
@@ -36,9 +56,9 @@
                 "tambon": "ต.แก้ง",
                 "amphoe": "อ.เดชอุดม",
                 "province": "จ.อุบลราชธานี",
-                "sum_rainfall_48h": 168.60000000000002,
+                "sum_rainfall_48h": 190,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-28T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
             }
         },
         {
@@ -56,9 +76,9 @@
                 "tambon": "ต.บ้านแมด",
                 "amphoe": "อ.บุณฑริก",
                 "province": "จ.อุบลราชธานี",
-                "sum_rainfall_48h": 149,
+                "sum_rainfall_48h": 155.59999999999997,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-28T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
             }
         },
         {
@@ -78,7 +98,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 108.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-28T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
             }
         },
         {
@@ -96,9 +116,9 @@
                 "tambon": "ต.สระ",
                 "amphoe": "อ.เชียงม่วน",
                 "province": "จ.พะเยา",
-                "sum_rainfall_48h": 152,
+                "sum_rainfall_48h": 147.79999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-28T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
             }
         }
     ]
