@@ -6,6 +6,126 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    104.528,
+                    16.8692
+                ]
+            },
+            "properties": {
+                "station_code": "MOU204",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์น้ำก่ำ",
+                "tambon": "ต.พิมาน",
+                "amphoe": "อ.นาแก",
+                "province": "จ.นครพนม",
+                "sum_rainfall_48h": 148,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.6204,
+                    17.35149
+                ]
+            },
+            "properties": {
+                "station_code": "BPUG",
+                "station_name": "อบต.บ้านผึ้ง",
+                "tambon": "ต.บ้านผึ้ง",
+                "amphoe": "อ.เมืองนครพนม",
+                "province": "จ.นครพนม",
+                "sum_rainfall_48h": 129.20000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.28581,
+                    17.67484
+                ]
+            },
+            "properties": {
+                "station_code": "SKM004",
+                "station_name": "ศรีสงคราม",
+                "tambon": "ต.ศรีสงคราม",
+                "amphoe": "อ.ศรีสงคราม",
+                "province": "จ.นครพนม",
+                "sum_rainfall_48h": 127.80000000000003,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.99486,
+                    18.29481
+                ]
+            },
+            "properties": {
+                "station_code": "VLGE34",
+                "station_name": "ชุมชนบ้านบุ่งคล้า",
+                "tambon": "ต.บุ่งคล้า",
+                "amphoe": "อ.บุ่งคล้า",
+                "province": "จ.บึงกาฬ",
+                "sum_rainfall_48h": 150.20000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.516464,
+                    16.798079
+                ]
+            },
+            "properties": {
+                "station_code": "ONE086",
+                "station_name": "โรงเรียนบ้านโสก",
+                "tambon": "ต.ดงหลวง",
+                "amphoe": "อ.ดงหลวง",
+                "province": "จ.มุกดาหาร",
+                "sum_rainfall_48h": 129.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.31134,
+                    15.983
+                ]
+            },
+            "properties": {
+                "station_code": "TBR018",
+                "station_name": "อบต.นาโส่",
+                "tambon": "ต.นาโส่",
+                "amphoe": "อ.กุดชุม",
+                "province": "จ.ยโสธร",
+                "sum_rainfall_48h": 125.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     103.80708,
                     17.6021
                 ]
@@ -16,9 +136,9 @@
                 "tambon": "ต.ขัวก่าย",
                 "amphoe": "อ.วานรนิวาส",
                 "province": "จ.สกลนคร",
-                "sum_rainfall_48h": 138.2,
+                "sum_rainfall_48h": 151,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
             }
         },
         {
@@ -38,7 +158,7 @@
                 "province": "จ.อำนาจเจริญ",
                 "sum_rainfall_48h": 178,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
             }
         },
         {
@@ -56,9 +176,9 @@
                 "tambon": "ต.แก้ง",
                 "amphoe": "อ.เดชอุดม",
                 "province": "จ.อุบลราชธานี",
-                "sum_rainfall_48h": 190,
+                "sum_rainfall_48h": 194.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
             }
         },
         {
@@ -76,9 +196,9 @@
                 "tambon": "ต.บ้านแมด",
                 "amphoe": "อ.บุณฑริก",
                 "province": "จ.อุบลราชธานี",
-                "sum_rainfall_48h": 155.59999999999997,
+                "sum_rainfall_48h": 161.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
             }
         },
         {
@@ -96,9 +216,9 @@
                 "tambon": "ต.ป่าคา",
                 "amphoe": "อ.ท่าวังผา",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 108.4,
+                "sum_rainfall_48h": 107.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
             }
         },
         {
@@ -116,9 +236,9 @@
                 "tambon": "ต.สระ",
                 "amphoe": "อ.เชียงม่วน",
                 "province": "จ.พะเยา",
-                "sum_rainfall_48h": 147.79999999999998,
+                "sum_rainfall_48h": 147.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-28T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-28T09:00:00+07:00"
             }
         }
     ]
