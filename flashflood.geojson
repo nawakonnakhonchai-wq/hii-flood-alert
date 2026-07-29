@@ -16,9 +16,9 @@
                 "tambon": "ต.พลิ้ว",
                 "amphoe": "อ.แหลมสิงห์",
                 "province": "จ.จันทบุรี",
-                "sum_rainfall_48h": 156.4,
+                "sum_rainfall_48h": 161.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.ตราด",
                 "sum_rainfall_48h": 205,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "province": "จ.ตราด",
                 "sum_rainfall_48h": 160,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.ห้วงน้ำขาว",
                 "amphoe": "อ.เมืองตราด",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 169.6,
+                "sum_rainfall_48h": 170.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -98,7 +98,7 @@
                 "province": "จ.ตราด",
                 "sum_rainfall_48h": 151,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -116,9 +116,9 @@
                 "tambon": "ต.ศรีสงคราม",
                 "amphoe": "อ.ศรีสงคราม",
                 "province": "จ.นครพนม",
-                "sum_rainfall_48h": 149.8,
+                "sum_rainfall_48h": 131.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -136,9 +136,9 @@
                 "tambon": "ต.ดอนอะราง",
                 "amphoe": "อ.หนองกี่",
                 "province": "จ.บุรีรัมย์",
-                "sum_rainfall_48h": 162,
+                "sum_rainfall_48h": 166,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "province": "จ.อุดรธานี",
                 "sum_rainfall_48h": 140.5,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -176,9 +176,9 @@
                 "tambon": "ต.แก้ง",
                 "amphoe": "อ.เดชอุดม",
                 "province": "จ.อุบลราชธานี",
-                "sum_rainfall_48h": 166,
+                "sum_rainfall_48h": 138.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -196,9 +196,9 @@
                 "tambon": "ต.บ่อเกลือใต้",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 106,
+                "sum_rainfall_48h": 105.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -216,9 +216,9 @@
                 "tambon": "ต.ภูคา",
                 "amphoe": "อ.ปัว",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 118.79999999999998,
+                "sum_rainfall_48h": 119,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -236,9 +236,9 @@
                 "tambon": "ต.สะเนียน",
                 "amphoe": "อ.เมืองน่าน",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 113.4,
+                "sum_rainfall_48h": 114.19999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -256,9 +256,9 @@
                 "tambon": "ต.ทุ่งน้าว",
                 "amphoe": "อ.สอง",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 121,
+                "sum_rainfall_48h": 125,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         },
         {
@@ -276,9 +276,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 108.8,
+                "sum_rainfall_48h": 108.80000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-07-30T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-07-30T02:00:00+07:00"
             }
         }
     ]
