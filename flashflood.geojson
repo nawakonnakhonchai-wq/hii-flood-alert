@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.90167,
-                    16.17908
+                    100.566,
+                    16.16959
                 ]
             },
             "properties": {
-                "station_code": "CNDN",
-                "station_name": "อบต.ชนแดน",
-                "tambon": "ต.ชนแดน",
-                "amphoe": "อ.ชนแดน",
-                "province": "จ.เพชรบูรณ์",
-                "sum_rainfall_48h": 110,
+                "station_code": "TPKO",
+                "station_name": "ทต.ทับคล้อ",
+                "tambon": "ต.ทับคล้อ",
+                "amphoe": "อ.ทับคล้อ",
+                "province": "จ.พิจิตร",
+                "sum_rainfall_48h": 104.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.วังโป่ง",
                 "amphoe": "อ.วังโป่ง",
                 "province": "จ.เพชรบูรณ์",
-                "sum_rainfall_48h": 116,
+                "sum_rainfall_48h": 144,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,29 @@
                 "tambon": "ต.บุ่งคล้า",
                 "amphoe": "อ.บุ่งคล้า",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 191.2,
+                "sum_rainfall_48h": 191.60000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.80436,
+                    20.01075
+                ]
+            },
+            "properties": {
+                "station_code": "DNP052",
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติลำน้ำกกที่ 2 (น้ำตกโป่งพระบาท)",
+                "tambon": "ต.บ้านดู่",
+                "amphoe": "อ.เมืองเชียงราย",
+                "province": "จ.เชียงราย",
+                "sum_rainfall_48h": 92.79999999999998,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
             }
         },
         {
@@ -76,9 +96,9 @@
                 "tambon": "ต.แม่ฟ้าหลวง",
                 "amphoe": "อ.แม่ฟ้าหลวง",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 92.80000000000001,
+                "sum_rainfall_48h": 92.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
             }
         },
         {
@@ -96,9 +116,9 @@
                 "tambon": "ต.แม่สาย",
                 "amphoe": "อ.แม่สาย",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 138.4,
+                "sum_rainfall_48h": 138.39999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
             }
         },
         {
@@ -116,9 +136,9 @@
                 "tambon": "ต.เวียงพางคำ",
                 "amphoe": "อ.แม่สาย",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 108.40000000000002,
+                "sum_rainfall_48h": 108.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
             }
         },
         {
@@ -136,9 +156,9 @@
                 "tambon": "ต.ปอ",
                 "amphoe": "อ.เวียงแก่น",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 114,
+                "sum_rainfall_48h": 113.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-02T19:00:00+07:00"
             }
         },
         {
@@ -156,9 +176,9 @@
                 "tambon": "ต.สันทะ",
                 "amphoe": "อ.นาน้อย",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 111.6,
+                "sum_rainfall_48h": 111.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
             }
         },
         {
@@ -176,9 +196,9 @@
                 "tambon": "ต.ชนแดน",
                 "amphoe": "อ.สองแคว",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 106.2,
+                "sum_rainfall_48h": 104.39999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
             }
         },
         {
@@ -196,9 +216,9 @@
                 "tambon": "ต.แม่ป้าก",
                 "amphoe": "อ.วังชิ้น",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 95,
+                "sum_rainfall_48h": 97.19999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
             }
         },
         {
@@ -216,9 +236,9 @@
                 "tambon": "ต.หมอกจำแป่",
                 "amphoe": "อ.เมืองแม่ฮ่องสอน",
                 "province": "จ.แม่ฮ่องสอน",
-                "sum_rainfall_48h": 121.00000000000001,
+                "sum_rainfall_48h": 121.40000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
             }
         },
         {
@@ -226,19 +246,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.63106,
-                    17.94566
+                    100.69142,
+                    18.04706
                 ]
             },
             "properties": {
-                "station_code": "SRKT",
-                "station_name": "อบต.ท่าแฝก",
+                "station_code": "DNP065",
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติลำน้ำน่านที่ ลน.4 (ห้วยไผ่)",
                 "tambon": "ต.ท่าแฝก",
                 "amphoe": "อ.ท่าปลา",
                 "province": "จ.อุตรดิตถ์",
-                "sum_rainfall_48h": 98.4,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-02T18:00:00+07:00"
+                "sum_rainfall_48h": 94.20000000000002,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-08-02T20:00:00+07:00"
             }
         }
     ]
