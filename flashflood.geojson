@@ -16,9 +16,9 @@
                 "tambon": "ต.ทับคล้อ",
                 "amphoe": "อ.ทับคล้อ",
                 "province": "จ.พิจิตร",
-                "sum_rainfall_48h": 102.99999999999999,
+                "sum_rainfall_48h": 103,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-03T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-03T05:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.วังโป่ง",
                 "amphoe": "อ.วังโป่ง",
                 "province": "จ.เพชรบูรณ์",
-                "sum_rainfall_48h": 151.60000000000002,
+                "sum_rainfall_48h": 151.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-03T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-03T05:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.บุ่งคล้า",
                 "amphoe": "อ.บุ่งคล้า",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 185.8,
+                "sum_rainfall_48h": 185,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-03T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-03T05:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.บ้านดู่",
                 "amphoe": "อ.เมืองเชียงราย",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 105.2,
+                "sum_rainfall_48h": 104.99999999999997,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-03T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-03T05:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.แม่สาย",
                 "amphoe": "อ.แม่สาย",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 141,
+                "sum_rainfall_48h": 140.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-03T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-03T05:00:00+07:00"
             }
         },
         {
@@ -118,7 +118,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 111,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-03T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-03T05:00:00+07:00"
             }
         },
         {
@@ -156,9 +156,9 @@
                 "tambon": "ต.สันทะ",
                 "amphoe": "อ.นาน้อย",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 99,
+                "sum_rainfall_48h": 98.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-03T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-03T05:00:00+07:00"
             }
         },
         {
@@ -178,7 +178,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 105,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-03T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-03T05:00:00+07:00"
             }
         },
         {
@@ -196,9 +196,9 @@
                 "tambon": "ต.แม่ป้าก",
                 "amphoe": "อ.วังชิ้น",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 99.79999999999998,
+                "sum_rainfall_48h": 99.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-03T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-03T05:00:00+07:00"
             }
         }
     ]
