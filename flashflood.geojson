@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    103.99486,
+                    18.29481
+                ]
+            },
+            "properties": {
+                "station_code": "VLGE34",
+                "station_name": "ชุมชนบ้านบุ่งคล้า",
+                "tambon": "ต.บุ่งคล้า",
+                "amphoe": "อ.บุ่งคล้า",
+                "province": "จ.บึงกาฬ",
+                "sum_rainfall_48h": 126,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-08-04T17:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     104.516464,
                     16.798079
                 ]
@@ -18,7 +38,7 @@
                 "province": "จ.มุกดาหาร",
                 "sum_rainfall_48h": 137.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-04T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-04T17:00:00+07:00"
             }
         },
         {
@@ -38,7 +58,7 @@
                 "province": "จ.ร้อยเอ็ด",
                 "sum_rainfall_48h": 135,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-08-04T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-04T17:00:00+07:00"
             }
         },
         {
@@ -56,9 +76,9 @@
                 "tambon": "ต.ลวงเหนือ",
                 "amphoe": "อ.ดอยสะเก็ด",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 94.39999999999999,
+                "sum_rainfall_48h": 93.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-04T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-04T17:00:00+07:00"
             }
         }
     ]
