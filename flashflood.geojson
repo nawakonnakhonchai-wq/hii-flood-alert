@@ -16,9 +16,9 @@
                 "tambon": "ต.บุ่งคล้า",
                 "amphoe": "อ.บุ่งคล้า",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 126,
+                "sum_rainfall_48h": 128.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-04T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-04T21:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.มุกดาหาร",
                 "sum_rainfall_48h": 137.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-04T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-04T21:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "province": "จ.ร้อยเอ็ด",
                 "sum_rainfall_48h": 135,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-08-04T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-04T21:00:00+07:00"
             }
         },
         {
@@ -66,19 +66,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.13795,
-                    18.95247
+                    101.06538,
+                    19.00181
                 ]
             },
             "properties": {
-                "station_code": "DNP078",
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ มค.3 (แม่กวง)",
-                "tambon": "ต.ลวงเหนือ",
-                "amphoe": "อ.ดอยสะเก็ด",
-                "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 93.8,
+                "station_code": "DNP057",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์หลักลาย",
+                "tambon": "ต.อวน",
+                "amphoe": "อ.ปัว",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 97.60000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-04T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-04T21:00:00+07:00"
             }
         }
     ]
