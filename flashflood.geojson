@@ -16,9 +16,9 @@
                 "tambon": "ต.บุ่งคล้า",
                 "amphoe": "อ.บุ่งคล้า",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 133.4,
+                "sum_rainfall_48h": 143,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-04T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-05T01:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.มุกดาหาร",
                 "sum_rainfall_48h": 138.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-04T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-05T01:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,27 @@
                 "province": "จ.ร้อยเอ็ด",
                 "sum_rainfall_48h": 135,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-08-04T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-05T01:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.16924,
+                    19.8392
+                ]
+            },
+            "properties": {
+                "station_code": "PYMR",
+                "station_name": "ทต.พญาเม็งราย",
+                "tambon": "ต.เม็งราย",
+                "amphoe": "อ.พญาเม็งราย",
+                "province": "จ.เชียงราย",
+                "sum_rainfall_48h": 113,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-08-05T01:00:00+07:00"
             }
         },
         {
@@ -76,9 +96,9 @@
                 "tambon": "ต.อวน",
                 "amphoe": "อ.ปัว",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 97.80000000000001,
+                "sum_rainfall_48h": 95.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-04T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-05T01:00:00+07:00"
             }
         }
     ]
