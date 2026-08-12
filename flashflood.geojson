@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    99.812288,
+                    19.61211
+                ]
+            },
+            "properties": {
+                "station_code": "STN1334",
+                "station_name": "บ้านจำผักกูด",
+                "tambon": "ต.แม่อ้อ",
+                "amphoe": "อ.พาน",
+                "province": "จ.เชียงราย",
+                "sum_rainfall_48h": 110,
+                "agency": "กรมทรัพยากรน้ำ",
+                "latest_rainfall_datetime": "2026-08-13T03:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     99.56469,
                     19.6085
                 ]
@@ -16,9 +36,9 @@
                 "tambon": "ต.แม่พริก",
                 "amphoe": "อ.แม่สรวย",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 100.39999999999999,
+                "sum_rainfall_48h": 99.80000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-13T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-13T04:00:00+07:00"
             }
         },
         {
@@ -38,7 +58,7 @@
                 "province": "จ.แพร่",
                 "sum_rainfall_48h": 98.19999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-13T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-13T04:00:00+07:00"
             }
         },
         {
@@ -56,9 +76,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 117.60000000000001,
+                "sum_rainfall_48h": 115.60000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-13T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-13T04:00:00+07:00"
             }
         }
     ]
