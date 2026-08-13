@@ -1,25 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.56469,
-                    19.6085
-                ]
-            },
-            "properties": {
-                "station_code": "DNP054",
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติดอยหลวงที่ 5 (ปางอ้อย)",
-                "tambon": "ต.แม่พริก",
-                "amphoe": "อ.แม่สรวย",
-                "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 90.8,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-13T14:00:00+07:00"
-            }
-        }
-    ]
+    "features": []
 }
