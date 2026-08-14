@@ -18,7 +18,47 @@
                 "province": "จ.นครนายก",
                 "sum_rainfall_48h": 101,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-15T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-15T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.72031,
+                    16.928366
+                ]
+            },
+            "properties": {
+                "station_code": "ONE008",
+                "station_name": "ปตร. ห้วยแคน-เหนือน้ำ",
+                "tambon": "ต.ธาตุพนม",
+                "amphoe": "อ.ธาตุพนม",
+                "province": "จ.นครพนม",
+                "sum_rainfall_48h": 139.8,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-08-15T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.700676,
+                    16.929113
+                ]
+            },
+            "properties": {
+                "station_code": "ONE010",
+                "station_name": "สะพานบ้านแก่งโพธิ์",
+                "tambon": "ต.น้ำก่ำ",
+                "amphoe": "อ.ธาตุพนม",
+                "province": "จ.นครพนม",
+                "sum_rainfall_48h": 145,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-08-15T04:00:00+07:00"
             }
         },
         {
@@ -36,29 +76,9 @@
                 "tambon": "ต.ไล่โว่",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 141.59999999999997,
+                "sum_rainfall_48h": 144.79999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-15T03:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.386665,
-                    15.215669
-                ]
-            },
-            "properties": {
-                "station_code": "MOU123",
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ซองกาเลีย",
-                "tambon": "ต.หนองลู",
-                "amphoe": "อ.สังขละบุรี",
-                "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 104.2,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-15T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-15T04:00:00+07:00"
             }
         }
     ]
