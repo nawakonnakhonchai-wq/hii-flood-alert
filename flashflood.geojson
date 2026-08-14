@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.312836,
+                    14.315195
+                ]
+            },
+            "properties": {
+                "station_code": "MOU461",
+                "station_name": "สะพานคลองนางรอง",
+                "tambon": "ต.หินตั้ง",
+                "amphoe": "อ.เมืองนครนายก",
+                "province": "จ.นครนายก",
+                "sum_rainfall_48h": 100.19999999999999,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-08-14T20:00:00+07:00"
+            }
+        }
+    ]
 }
