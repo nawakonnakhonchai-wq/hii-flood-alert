@@ -18,7 +18,27 @@
                 "province": "จ.นครนายก",
                 "sum_rainfall_48h": 100.80000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-14T21:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-14T23:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.50981,
+                    15.30931
+                ]
+            },
+            "properties": {
+                "station_code": "FOP050",
+                "station_name": "รร.กองม่องทะ สาขาไล่โว่",
+                "tambon": "ต.ไล่โว่",
+                "amphoe": "อ.สังขละบุรี",
+                "province": "จ.กาญจนบุรี",
+                "sum_rainfall_48h": 104.99999999999999,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-08-14T23:00:00+07:00"
             }
         }
     ]
