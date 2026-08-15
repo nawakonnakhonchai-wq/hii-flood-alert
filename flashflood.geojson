@@ -16,9 +16,9 @@
                 "tambon": "ต.ธาตุพนม",
                 "amphoe": "อ.ธาตุพนม",
                 "province": "จ.นครพนม",
-                "sum_rainfall_48h": 141.20000000000002,
+                "sum_rainfall_48h": 141.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-15T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-15T16:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.น้ำก่ำ",
                 "amphoe": "อ.ธาตุพนม",
                 "province": "จ.นครพนม",
-                "sum_rainfall_48h": 125.79999999999998,
+                "sum_rainfall_48h": 125.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-15T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-15T16:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.ไล่โว่",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 116.8,
+                "sum_rainfall_48h": 134.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-15T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-15T16:00:00+07:00"
             }
         }
     ]
