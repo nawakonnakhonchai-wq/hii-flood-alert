@@ -6,46 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    104.72031,
-                    16.928366
-                ]
-            },
-            "properties": {
-                "station_code": "ONE008",
-                "station_name": "ปตร. ห้วยแคน-เหนือน้ำ",
-                "tambon": "ต.ธาตุพนม",
-                "amphoe": "อ.ธาตุพนม",
-                "province": "จ.นครพนม",
-                "sum_rainfall_48h": 142.2,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-15T22:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    104.71615,
-                    16.92321
-                ]
-            },
-            "properties": {
-                "station_code": "ONE006",
-                "station_name": "ปตร.ธรณิศนฤมิต-เหนือน้ำ",
-                "tambon": "ต.น้ำก่ำ",
-                "amphoe": "อ.ธาตุพนม",
-                "province": "จ.นครพนม",
-                "sum_rainfall_48h": 128.6,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-15T22:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.18758,
                     19.68822
                 ]
@@ -58,7 +18,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 106.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-15T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-15T23:00:00+07:00"
             }
         },
         {
@@ -76,9 +36,9 @@
                 "tambon": "ต.บ่อเกลือใต้",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 122.2,
+                "sum_rainfall_48h": 129.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-15T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-15T23:00:00+07:00"
             }
         },
         {
@@ -96,9 +56,9 @@
                 "tambon": "ต.ภูฟ้า",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 100.2,
+                "sum_rainfall_48h": 159.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-15T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-15T23:00:00+07:00"
             }
         },
         {
@@ -116,9 +76,9 @@
                 "tambon": "ต.ไล่โว่",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 140.60000000000002,
+                "sum_rainfall_48h": 140.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-15T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-15T23:00:00+07:00"
             }
         },
         {
@@ -136,9 +96,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 106.39999999999999,
+                "sum_rainfall_48h": 106.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-15T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-15T23:00:00+07:00"
             }
         }
     ]
