@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    103.65973,
-                    18.36219
-                ]
-            },
-            "properties": {
-                "station_code": "BUSW",
-                "station_name": "อบต.บึงกาฬ",
-                "tambon": "ต.บึงกาฬ",
-                "amphoe": "อ.บึงกาฬ",
-                "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 125.80000000000001,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-16T17:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     101.10231,
                     19.061718
                 ]
@@ -38,7 +18,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 128,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-16T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-16T18:00:00+07:00"
             }
         },
         {
@@ -58,7 +38,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 134.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-16T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-16T18:00:00+07:00"
             }
         },
         {
@@ -78,7 +58,7 @@
                 "province": "จ.กาญจนบุรี",
                 "sum_rainfall_48h": 162,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-16T17:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-16T18:00:00+07:00"
             }
         },
         {
@@ -86,19 +66,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.46124,
-                    15.19546
+                    98.386665,
+                    15.215669
                 ]
             },
             "properties": {
-                "station_code": "SKBI",
-                "station_name": "อบต.หนองลู",
+                "station_code": "MOU123",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ซองกาเลีย",
                 "tambon": "ต.หนองลู",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 101,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-16T17:00:00+07:00"
+                "sum_rainfall_48h": 104.8,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-08-16T18:00:00+07:00"
             }
         }
     ]
