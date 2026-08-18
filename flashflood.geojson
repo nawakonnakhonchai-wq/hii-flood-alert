@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.429004,
+                    16.236934
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_TE.126",
+                "station_name": "วัดโพธิ์ศรีท่าแห่",
+                "tambon": "ต.ฆ้องชัยพัฒนา",
+                "amphoe": "อ.ฆ้องชัย",
+                "province": "จ.กาฬสินธุ์",
+                "sum_rainfall_48h": 130,
+                "agency": "กรมชลประทาน ",
+                "latest_rainfall_datetime": "2026-08-18T15:00:00+07:00"
+            }
+        }
+    ]
 }
