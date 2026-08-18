@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    102.77907,
+                    11.92744
+                ]
+            },
+            "properties": {
+                "station_code": "HTTM",
+                "station_name": "อบต.ไม้รูด",
+                "tambon": "ต.ไม้รูด",
+                "amphoe": "อ.คลองใหญ่",
+                "province": "จ.ตราด",
+                "sum_rainfall_48h": 179.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-08-19T03:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     103.429004,
                     16.236934
                 ]
@@ -18,7 +38,27 @@
                 "province": "จ.กาฬสินธุ์",
                 "sum_rainfall_48h": 133,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-08-19T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-19T03:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.04178,
+                    19.1798
+                ]
+            },
+            "properties": {
+                "station_code": "FOP004",
+                "station_name": "รร.พนาสวรรค์",
+                "tambon": "ต.ภูคา",
+                "amphoe": "อ.ปัว",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 141.8,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-08-19T03:00:00+07:00"
             }
         },
         {
@@ -36,9 +76,29 @@
                 "tambon": "ต.แม่จริม",
                 "amphoe": "อ.แม่จริม",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 131,
+                "sum_rainfall_48h": 197,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-19T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-19T03:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9928,
+                    18.67822
+                ]
+            },
+            "properties": {
+                "station_code": "MCRM",
+                "station_name": "รพสต.หมอเมือง",
+                "tambon": "ต.หมอเมือง",
+                "amphoe": "อ.แม่จริม",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 93.8,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-08-19T03:00:00+07:00"
             }
         },
         {
@@ -56,9 +116,9 @@
                 "tambon": "ต.ป่าแลวหลวง",
                 "amphoe": "อ.สันติสุข",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 120.6,
+                "sum_rainfall_48h": 198.00000000000003,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-19T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-19T03:00:00+07:00"
             }
         }
     ]
