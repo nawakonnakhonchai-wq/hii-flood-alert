@@ -16,9 +16,9 @@
                 "tambon": "ต.ชุมแสงสงคราม",
                 "amphoe": "อ.บางระกำ",
                 "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 140.2,
+                "sum_rainfall_48h": 139.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.ท่าช้าง",
                 "amphoe": "อ.พรหมพิราม",
                 "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 138.8,
+                "sum_rainfall_48h": 137.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.พรหมพิราม",
                 "amphoe": "อ.พรหมพิราม",
                 "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 120.6,
+                "sum_rainfall_48h": 119.60000000000001,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.ไกรใน",
                 "amphoe": "อ.กงไกรลาศ",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 129.60000000000002,
+                "sum_rainfall_48h": 129.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         },
         {
@@ -98,7 +98,7 @@
                 "province": "จ.สุโขทัย",
                 "sum_rainfall_48h": 113.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         },
         {
@@ -118,7 +118,7 @@
                 "province": "จ.สุโขทัย",
                 "sum_rainfall_48h": 124.19999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         },
         {
@@ -136,9 +136,9 @@
                 "tambon": "ต.ท่าทอง",
                 "amphoe": "อ.สวรรคโลก",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 196,
+                "sum_rainfall_48h": 188.79999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         },
         {
@@ -156,9 +156,9 @@
                 "tambon": "ต.ปากน้ำ",
                 "amphoe": "อ.สวรรคโลก",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 137.2,
+                "sum_rainfall_48h": 133.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         },
         {
@@ -176,9 +176,9 @@
                 "tambon": "ต.เมืองบางขลัง",
                 "amphoe": "อ.สวรรคโลก",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 147.2,
+                "sum_rainfall_48h": 145.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         },
         {
@@ -196,9 +196,9 @@
                 "tambon": "ต.ไล่โว่",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 136,
+                "sum_rainfall_48h": 133.60000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         },
         {
@@ -216,9 +216,9 @@
                 "tambon": "ต.หนองลู",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 116.00000000000001,
+                "sum_rainfall_48h": 113.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         },
         {
@@ -236,9 +236,9 @@
                 "tambon": "ต.ท่าสายลวด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 189.60000000000002,
+                "sum_rainfall_48h": 189.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T10:00:00+07:00"
             }
         }
     ]
