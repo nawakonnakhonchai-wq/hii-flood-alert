@@ -16,9 +16,9 @@
                 "tambon": "ต.ท่าทอง",
                 "amphoe": "อ.สวรรคโลก",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 121.80000000000001,
+                "sum_rainfall_48h": 121.39999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T16:00:00+07:00"
             }
         },
         {
@@ -38,27 +38,7 @@
                 "province": "จ.สุโขทัย",
                 "sum_rainfall_48h": 141.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.50981,
-                    15.30931
-                ]
-            },
-            "properties": {
-                "station_code": "FOP050",
-                "station_name": "รร.กองม่องทะ สาขาไล่โว่",
-                "tambon": "ต.ไล่โว่",
-                "amphoe": "อ.สังขละบุรี",
-                "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 102.39999999999999,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-22T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T16:00:00+07:00"
             }
         },
         {
@@ -76,9 +56,9 @@
                 "tambon": "ต.ท่าสายลวด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 189.20000000000002,
+                "sum_rainfall_48h": 189.20000000000005,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-22T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-22T16:00:00+07:00"
             }
         }
     ]
