@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.50671,
+                    16.71145
+                ]
+            },
+            "properties": {
+                "station_code": "RMMI",
+                "station_name": "วัดวังตะเคียน",
+                "tambon": "ต.ท่าสายลวด",
+                "amphoe": "อ.แม่สอด",
+                "province": "จ.ตาก",
+                "sum_rainfall_48h": 100.6,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-08-23T12:00:00+07:00"
+            }
+        }
+    ]
 }
