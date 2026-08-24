@@ -16,9 +16,9 @@
                 "tambon": "ต.ท่าสายลวด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 234.39999999999998,
+                "sum_rainfall_48h": 228.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-25T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-25T02:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.แม่สอด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 118,
+                "sum_rainfall_48h": 119,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-08-25T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-25T02:00:00+07:00"
             }
         }
     ]
