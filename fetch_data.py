@@ -18,13 +18,10 @@ def main():
         raw_data = response.json()
     except Exception as e:
         print(f"เกิดข้อผิดพลาดในการดึงข้อมูลจาก API: {e}")
-        return
+        raw_data = {} # กำหนดให้เป็น dict ว่างเพื่อป้องกันโปรแกรม crash ด้านล่าง
 
-    # สร้างโครงสร้าง GeoJSON FeatureCollection
-    geojson = {
-        "type": "FeatureCollection",
-        "features": []
-    }
+    # สร้างลิสต์เก็บ features
+    features = []
 
     # ตรวจสอบว่ามีข้อมูลในคีย์ "area" หรือไม่
     area_list = raw_data.get("area", [])
@@ -57,19 +54,46 @@ def main():
                     "latest_rainfall_datetime": item.get("latest_rainfall_datetime", "")
                 }
             }
-            geojson["features"].append(feature)
+            features.append(feature)
             
         except (ValueError, TypeError):
             continue # ข้ามแถวที่พิกัดไม่ถูกต้อง
         except Exception as e:
             print(f"เกิดข้อผิดพลาดในการแปลงข้อมูล: {e}")
 
+    # 🛡️ ป้องกันกรณีไม่มีข้อมูลสถานีเลย (เพิ่ม Dummy จุดแจ้งเตือน)
+    if len(features) == 0:
+        print("⚠️ ไม่พบข้อมูลสถานีในรอบนี้ กำลังสร้างจุดจำลองเพื่อป้องกัน ArcGIS แสดงผลผิดพลาด...")
+        features.append({
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100.5018, 13.7563]  # พิกัดกรุงเทพฯ (สามารถปรับเปลี่ยนได้ตามต้องการ)
+            },
+            "properties": {
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
+            }
+        })
+
+    # สร้างโครงสร้าง GeoJSON FeatureCollection
+    geojson = {
+        "type": "FeatureCollection",
+        "features": features
+    }
+
     # บันทึกไฟล์ GeoJSON
     output_filename = "flashflood.geojson"
     try:
         with open(output_filename, "w", encoding="utf-8") as f:
             json.dump(geojson, f, ensure_ascii=False, indent=4)
-        print(f"บันทึกไฟล์ {output_filename} สำเร็จ แปลงข้อมูลได้ทั้งสิ้น {len(geojson['features'])} จุด")
+        print(f"บันทึกไฟล์ {output_filename} สำเร็จ มีข้อมูลรวมทั้งสิ้น {len(geojson['features'])} จุด")
     except Exception as e:
         print(f"เกิดข้อผิดพลาดในการบันทึกไฟล์: {e}")
 
