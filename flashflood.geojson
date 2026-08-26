@@ -1,4 +1,25 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5018,
+                    13.7563
+                ]
+            },
+            "properties": {
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
+            }
+        }
+    ]
 }
