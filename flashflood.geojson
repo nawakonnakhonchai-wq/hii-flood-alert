@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    98.50671,
+                    16.71145
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "RMMI",
+                "station_name": "วัดวังตะเคียน",
+                "tambon": "ต.ท่าสายลวด",
+                "amphoe": "อ.แม่สอด",
+                "province": "จ.ตาก",
+                "sum_rainfall_48h": 164.39999999999998,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-08-27T04:00:00+07:00"
             }
         }
     ]
