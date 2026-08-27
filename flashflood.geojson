@@ -18,7 +18,7 @@
                 "province": "จ.กาญจนบุรี",
                 "sum_rainfall_48h": 112,
                 "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-08-27T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-27T14:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.ท่าสายลวด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 164.20000000000002,
+                "sum_rainfall_48h": 196.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-27T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-27T15:00:00+07:00"
             }
         }
     ]
