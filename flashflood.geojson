@@ -18,27 +18,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 96,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-08-28T02:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.5966,
-                    14.79865
-                ]
-            },
-            "properties": {
-                "station_code": "MKVKU05",
-                "station_name": "น้ำฝนเขื่อนวชิราลงกรณ",
-                "tambon": "ต.ท่าขนุน",
-                "amphoe": "อ.ทองผาภูมิ",
-                "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 110,
-                "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-08-28T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-28T04:00:00+07:00"
             }
         },
         {
@@ -56,9 +36,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 122.80000000000001,
+                "sum_rainfall_48h": 127,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-28T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-28T04:00:00+07:00"
             }
         },
         {
@@ -76,9 +56,9 @@
                 "tambon": "ต.ท่าสายลวด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 199.8,
+                "sum_rainfall_48h": 201.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-28T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-28T04:00:00+07:00"
             }
         }
     ]
