@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.77907,
-                    11.92744
-                ]
-            },
-            "properties": {
-                "station_code": "HTTM",
-                "station_name": "อบต.ไม้รูด",
-                "tambon": "ต.ไม้รูด",
-                "amphoe": "อ.คลองใหญ่",
-                "province": "จ.ตราด",
-                "sum_rainfall_48h": 157.6,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-29T07:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.030184,
                     20.125752
                 ]
@@ -38,7 +18,7 @@
                 "province": "จ.เชียงราย",
                 "sum_rainfall_48h": 92,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-08-29T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-29T15:00:00+07:00"
             }
         },
         {
@@ -56,9 +36,49 @@
                 "tambon": "ต.เม็งราย",
                 "amphoe": "อ.พญาเม็งราย",
                 "province": "จ.เชียงราย",
-                "sum_rainfall_48h": 91.39999999999999,
+                "sum_rainfall_48h": 92,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-29T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-29T15:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.737655,
+                    19.914137
+                ]
+            },
+            "properties": {
+                "station_code": "STN1459",
+                "station_name": "บ้านดอยฮางใน",
+                "tambon": "ต.ดอยฮาง",
+                "amphoe": "อ.เมืองเชียงราย",
+                "province": "จ.เชียงราย",
+                "sum_rainfall_48h": 92,
+                "agency": "กรมทรัพยากรน้ำ",
+                "latest_rainfall_datetime": "2026-08-29T14:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.88761,
+                    17.695904
+                ]
+            },
+            "properties": {
+                "station_code": "ONE110",
+                "station_name": "โรงพยาบาลส่งเสริมสุขภาพตำบล บ้านแม่เหว่ย",
+                "tambon": "ต.แม่วะหลวง",
+                "amphoe": "อ.ท่าสองยาง",
+                "province": "จ.ตาก",
+                "sum_rainfall_48h": 106.20000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-08-29T14:00:00+07:00"
             }
         },
         {
@@ -76,9 +96,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 134,
+                "sum_rainfall_48h": 136.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-29T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-29T15:00:00+07:00"
             }
         },
         {
@@ -96,9 +116,9 @@
                 "tambon": "ต.ท่าสายลวด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 192.6,
+                "sum_rainfall_48h": 162,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-29T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-29T15:00:00+07:00"
             }
         },
         {
@@ -116,9 +136,9 @@
                 "tambon": "ต.กะเปอร์",
                 "amphoe": "อ.กะเปอร์",
                 "province": "จ.ระนอง",
-                "sum_rainfall_48h": 154.39999999999998,
+                "sum_rainfall_48h": 160.79999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-29T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-29T15:00:00+07:00"
             }
         },
         {
@@ -136,9 +156,9 @@
                 "tambon": "ต.เขาพัง",
                 "amphoe": "อ.บ้านตาขุน",
                 "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 200.79999999999998,
+                "sum_rainfall_48h": 219.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-29T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-29T15:00:00+07:00"
             }
         }
     ]
