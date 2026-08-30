@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    101.10231,
+                    19.061718
+                ]
+            },
+            "properties": {
+                "station_code": "MOU400",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์น้ำหมาวหมอก",
+                "tambon": "ต.บ่อเกลือใต้",
+                "amphoe": "อ.บ่อเกลือ",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 96.2,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-08-30T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     98.07418,
                     17.483812
                 ]
@@ -16,9 +36,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 139.4,
+                "sum_rainfall_48h": 179.39999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-30T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-30T12:00:00+07:00"
             }
         },
         {
@@ -36,29 +56,9 @@
                 "tambon": "ต.ท่าสายลวด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 197.59999999999997,
+                "sum_rainfall_48h": 206.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-30T05:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.52561,
-                    9.227045
-                ]
-            },
-            "properties": {
-                "station_code": "MOU497",
-                "station_name": "หน่วยพิทักษ์ป่าเขาชาลี",
-                "tambon": "ต.เขาพัง",
-                "amphoe": "อ.บ้านตาขุน",
-                "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 191.80000000000004,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-30T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-30T12:00:00+07:00"
             }
         }
     ]
