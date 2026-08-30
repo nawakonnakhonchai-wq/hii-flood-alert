@@ -16,9 +16,9 @@
                 "tambon": "ต.ชะอม",
                 "amphoe": "อ.แก่งคอย",
                 "province": "จ.สระบุรี",
-                "sum_rainfall_48h": 100.2,
+                "sum_rainfall_48h": 100.20000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-31T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-31T04:00:00+07:00"
             }
         },
         {
@@ -26,19 +26,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.252978,
-                    17.686657
+                    101.10231,
+                    19.061718
                 ]
             },
             "properties": {
-                "station_code": "STN1671",
-                "station_name": "บ้านแม่หลองหลวง",
-                "tambon": "ต.สบโขง",
-                "amphoe": "อ.อมก๋อย",
-                "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 93.5,
-                "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-08-31T01:00:00+07:00"
+                "station_code": "MOU400",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์น้ำหมาวหมอก",
+                "tambon": "ต.บ่อเกลือใต้",
+                "amphoe": "อ.บ่อเกลือ",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 97.19999999999999,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-08-31T04:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 130.60000000000002,
+                "sum_rainfall_48h": 122.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-31T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-31T04:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.ท่าสายลวด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 126.19999999999999,
+                "sum_rainfall_48h": 114.80000000000001,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-31T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-31T04:00:00+07:00"
             }
         }
     ]
