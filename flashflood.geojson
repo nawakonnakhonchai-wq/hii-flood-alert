@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.17281,
-                    14.4417
-                ]
-            },
-            "properties": {
-                "station_code": "ONWR01",
-                "station_name": "บ้านโกรกอีดก",
-                "tambon": "ต.ชะอม",
-                "amphoe": "อ.แก่งคอย",
-                "province": "จ.สระบุรี",
-                "sum_rainfall_48h": 100.20000000000002,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-31T07:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     101.10231,
                     19.061718
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.บ่อเกลือใต้",
                 "amphoe": "อ.บ่อเกลือ",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 96.19999999999999,
+                "sum_rainfall_48h": 101.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-31T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-31T11:00:00+07:00"
             }
         },
         {
@@ -56,9 +36,9 @@
                 "tambon": "ต.ภูคา",
                 "amphoe": "อ.ปัว",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 96.6,
+                "sum_rainfall_48h": 104,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-31T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-31T11:00:00+07:00"
             }
         },
         {
@@ -76,9 +56,9 @@
                 "tambon": "ต.ไล่โว่",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 109.19999999999999,
+                "sum_rainfall_48h": 119.40000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-31T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-31T11:00:00+07:00"
             }
         },
         {
@@ -96,9 +76,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 126.20000000000002,
+                "sum_rainfall_48h": 125.19999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-08-31T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-31T11:00:00+07:00"
             }
         },
         {
@@ -116,9 +96,9 @@
                 "tambon": "ต.ท่าสายลวด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 168.60000000000002,
+                "sum_rainfall_48h": 176.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-08-31T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-08-31T11:00:00+07:00"
             }
         }
     ]
