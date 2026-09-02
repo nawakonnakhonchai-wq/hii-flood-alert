@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.07418,
-                    17.483812
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "MOU068",
-                "station_name": "อุทยานแห่งชาติแม่เมย",
-                "tambon": "ต.แม่สอง",
-                "amphoe": "อ.ท่าสองยาง",
-                "province": "จ.ตาก",
-                "sum_rainfall_48h": 118.79999999999998,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-02T10:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
