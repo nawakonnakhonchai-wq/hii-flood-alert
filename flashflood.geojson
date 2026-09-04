@@ -18,7 +18,47 @@
                 "province": "จ.ตราด",
                 "sum_rainfall_48h": 229.39999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-04T11:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-04T16:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.88133,
+                    16.35233
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_TE.117",
+                "station_name": "บ้านโนนเขวา",
+                "tambon": "ต.ดอนหัน",
+                "amphoe": "อ.เมืองขอนแก่น",
+                "province": "จ.ขอนแก่น",
+                "sum_rainfall_48h": 145,
+                "agency": "กรมชลประทาน ",
+                "latest_rainfall_datetime": "2026-09-04T16:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.80144,
+                    19.692413
+                ]
+            },
+            "properties": {
+                "station_code": "MOU019",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ดอยถ้วย",
+                "tambon": "ต.เมืองนะ",
+                "amphoe": "อ.เชียงดาว",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 92.4,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-04T16:00:00+07:00"
             }
         }
     ]
