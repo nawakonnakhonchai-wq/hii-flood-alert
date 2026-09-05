@@ -6,19 +6,79 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    102.77907,
+                    11.92743
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "HTTM",
+                "station_name": "อบต.ไม้รูด",
+                "tambon": "ต.ไม้รูด",
+                "amphoe": "อ.คลองใหญ่",
+                "province": "จ.ตราด",
+                "sum_rainfall_48h": 202.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-05T22:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.77028,
+                    20.10677
+                ]
+            },
+            "properties": {
+                "station_code": "DNP051",
+                "station_name": "ศูนย์ศึกษาการพัฒนาการอนุรักษ์ต้นน้ำลุ่มน้ำโขงเหนือ",
+                "tambon": "ต.ป่าตึง",
+                "amphoe": "อ.แม่จัน",
+                "province": "จ.เชียงราย",
+                "sum_rainfall_48h": 91,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-05T22:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.04919,
+                    19.89535
+                ]
+            },
+            "properties": {
+                "station_code": "MOU017",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่เผอะ (อ่างขาง)",
+                "tambon": "ต.แม่งอน",
+                "amphoe": "อ.ฝาง",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 112.8,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-05T22:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.04161,
+                    17.88574
+                ]
+            },
+            "properties": {
+                "station_code": "VLGE36",
+                "station_name": "ชุมชนห้วยไร่",
+                "tambon": "ต.ห้วยไร่",
+                "amphoe": "อ.เด่นชัย",
+                "province": "จ.แพร่",
+                "sum_rainfall_48h": 94.39999999999999,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-05T22:00:00+07:00"
             }
         }
     ]
