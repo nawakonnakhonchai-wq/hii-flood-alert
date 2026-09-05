@@ -16,9 +16,9 @@
                 "tambon": "ต.ไม้รูด",
                 "amphoe": "อ.คลองใหญ่",
                 "province": "จ.ตราด",
-                "sum_rainfall_48h": 202.40000000000003,
+                "sum_rainfall_48h": 202.39999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-05T11:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-05T16:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,69 @@
                 "tambon": "ต.ดอนหัน",
                 "amphoe": "อ.เมืองขอนแก่น",
                 "province": "จ.ขอนแก่น",
-                "sum_rainfall_48h": 142,
+                "sum_rainfall_48h": 132,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-05T11:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-05T16:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.77028,
+                    20.10677
+                ]
+            },
+            "properties": {
+                "station_code": "DNP051",
+                "station_name": "ศูนย์ศึกษาการพัฒนาการอนุรักษ์ต้นน้ำลุ่มน้ำโขงเหนือ",
+                "tambon": "ต.ป่าตึง",
+                "amphoe": "อ.แม่จัน",
+                "province": "จ.เชียงราย",
+                "sum_rainfall_48h": 90.4,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-05T16:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.161194,
+                    20.015764
+                ]
+            },
+            "properties": {
+                "station_code": "MOU014",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ดอยผาหลวง",
+                "tambon": "ต.โป่งน้ำร้อน",
+                "amphoe": "อ.ฝาง",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 90.8,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-05T16:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.04161,
+                    17.88574
+                ]
+            },
+            "properties": {
+                "station_code": "VLGE36",
+                "station_name": "ชุมชนห้วยไร่",
+                "tambon": "ต.ห้วยไร่",
+                "amphoe": "อ.เด่นชัย",
+                "province": "จ.แพร่",
+                "sum_rainfall_48h": 95,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-05T16:00:00+07:00"
             }
         }
     ]
