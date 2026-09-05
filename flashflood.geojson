@@ -16,9 +16,9 @@
                 "tambon": "ต.แม่งอน",
                 "amphoe": "อ.ฝาง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 105.2,
+                "sum_rainfall_48h": 105,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-06T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-06T05:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.ห้วยไร่",
                 "amphoe": "อ.เด่นชัย",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 91.20000000000002,
+                "sum_rainfall_48h": 91,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-06T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-06T05:00:00+07:00"
             }
         }
     ]
