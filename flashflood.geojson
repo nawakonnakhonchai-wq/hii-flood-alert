@@ -18,7 +18,27 @@
                 "province": "จ.นครนายก",
                 "sum_rainfall_48h": 106,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-06T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-07T00:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.41307,
+                    18.1073
+                ]
+            },
+            "properties": {
+                "station_code": "NOKW",
+                "station_name": "อบต.หนองพันทา",
+                "tambon": "ต.หนองพันทา",
+                "amphoe": "อ.โซ่พิสัย",
+                "province": "จ.บึงกาฬ",
+                "sum_rainfall_48h": 171.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-07T00:00:00+07:00"
             }
         },
         {
@@ -36,9 +56,9 @@
                 "tambon": "ต.บึงกาฬ",
                 "amphoe": "อ.บึงกาฬ",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 134.39999999999998,
+                "sum_rainfall_48h": 142.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-06T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-07T00:00:00+07:00"
             }
         },
         {
@@ -56,9 +76,9 @@
                 "tambon": "ต.เขื่องใน",
                 "amphoe": "อ.เขื่องใน",
                 "province": "จ.อุบลราชธานี",
-                "sum_rainfall_48h": 149.00000000000003,
+                "sum_rainfall_48h": 135.60000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-06T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-07T00:00:00+07:00"
             }
         },
         {
@@ -76,9 +96,9 @@
                 "tambon": "ต.สำโรง",
                 "amphoe": "อ.โพธิ์ไทร",
                 "province": "จ.อุบลราชธานี",
-                "sum_rainfall_48h": 163.8,
+                "sum_rainfall_48h": 130.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-06T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-07T00:00:00+07:00"
             }
         },
         {
@@ -98,7 +118,7 @@
                 "province": "จ.ลำปาง",
                 "sum_rainfall_48h": 107,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-06T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-07T00:00:00+07:00"
             }
         },
         {
@@ -116,9 +136,9 @@
                 "tambon": "ต.ท่าสายลวด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 174.4,
+                "sum_rainfall_48h": 179.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-06T22:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-07T00:00:00+07:00"
             }
         }
     ]
