@@ -18,7 +18,7 @@
                 "province": "จ.สุโขทัย",
                 "sum_rainfall_48h": 141,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T04:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.สุโขทัย",
                 "sum_rainfall_48h": 118,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T04:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "province": "จ.บึงกาฬ",
                 "sum_rainfall_48h": 162,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-08T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T04:00:00+07:00"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "province": "จ.เชียงใหม่",
                 "sum_rainfall_48h": 103.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T04:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.ป่าแลวหลวง",
                 "amphoe": "อ.สันติสุข",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 106.19999999999999,
+                "sum_rainfall_48h": 106.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-08T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T04:00:00+07:00"
             }
         },
         {
@@ -118,7 +118,7 @@
                 "province": "จ.พะเยา",
                 "sum_rainfall_48h": 104.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T04:00:00+07:00"
             }
         },
         {
@@ -136,9 +136,9 @@
                 "tambon": "ต.ผาช้างน้อย",
                 "amphoe": "อ.ปง",
                 "province": "จ.พะเยา",
-                "sum_rainfall_48h": 92.39999999999999,
+                "sum_rainfall_48h": 92.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T04:00:00+07:00"
             }
         },
         {
@@ -156,9 +156,9 @@
                 "tambon": "ต.ปางมะผ้า",
                 "amphoe": "อ.ปางมะผ้า",
                 "province": "จ.แม่ฮ่องสอน",
-                "sum_rainfall_48h": 98.2,
+                "sum_rainfall_48h": 98.19999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-08T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T04:00:00+07:00"
             }
         },
         {
@@ -176,9 +176,9 @@
                 "tambon": "ต.หมอกจำแป่",
                 "amphoe": "อ.เมืองแม่ฮ่องสอน",
                 "province": "จ.แม่ฮ่องสอน",
-                "sum_rainfall_48h": 122.59999999999998,
+                "sum_rainfall_48h": 122.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T04:00:00+07:00"
             }
         },
         {
@@ -196,9 +196,9 @@
                 "tambon": "ต.ท่าสายลวด",
                 "amphoe": "อ.แม่สอด",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 163.2,
+                "sum_rainfall_48h": 111.79999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-08T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T04:00:00+07:00"
             }
         }
     ]
