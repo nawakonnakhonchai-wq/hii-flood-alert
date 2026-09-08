@@ -16,9 +16,9 @@
                 "tambon": "ต.บ้านตึก",
                 "amphoe": "อ.ศรีสัชนาลัย",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 140.99999999999997,
+                "sum_rainfall_48h": 141,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T11:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.แม่สิน",
                 "amphoe": "อ.ศรีสัชนาลัย",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 118.19999999999999,
+                "sum_rainfall_48h": 113.99999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T11:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "province": "จ.บึงกาฬ",
                 "sum_rainfall_48h": 162,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-08T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T11:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.สบเปิง",
                 "amphoe": "อ.แม่แตง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 104,
+                "sum_rainfall_48h": 98.79999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T11:00:00+07:00"
             }
         },
         {
@@ -98,7 +98,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 106.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-08T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T11:00:00+07:00"
             }
         },
         {
@@ -118,7 +118,7 @@
                 "province": "จ.พะเยา",
                 "sum_rainfall_48h": 104.20000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T11:00:00+07:00"
             }
         },
         {
@@ -138,7 +138,7 @@
                 "province": "จ.พะเยา",
                 "sum_rainfall_48h": 92.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T11:00:00+07:00"
             }
         },
         {
@@ -156,9 +156,9 @@
                 "tambon": "ต.ปางมะผ้า",
                 "amphoe": "อ.ปางมะผ้า",
                 "province": "จ.แม่ฮ่องสอน",
-                "sum_rainfall_48h": 99,
+                "sum_rainfall_48h": 100.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-08T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T11:00:00+07:00"
             }
         },
         {
@@ -176,9 +176,9 @@
                 "tambon": "ต.หมอกจำแป่",
                 "amphoe": "อ.เมืองแม่ฮ่องสอน",
                 "province": "จ.แม่ฮ่องสอน",
-                "sum_rainfall_48h": 126.6,
+                "sum_rainfall_48h": 127.99999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-08T11:00:00+07:00"
             }
         }
     ]
