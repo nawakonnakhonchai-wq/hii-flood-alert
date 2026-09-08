@@ -16,9 +16,9 @@
                 "tambon": "ต.บ้านตึก",
                 "amphoe": "อ.ศรีสัชนาลัย",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 139.39999999999998,
+                "sum_rainfall_48h": 139.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-09T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-09T04:00:00+07:00"
             }
         },
         {
@@ -36,7 +36,7 @@
                 "tambon": "ต.แม่สิน",
                 "amphoe": "อ.ศรีสัชนาลัย",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 111.8,
+                "sum_rainfall_48h": 111.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
                 "latest_rainfall_datetime": "2026-09-08T16:00:00+07:00"
             }
@@ -56,9 +56,9 @@
                 "tambon": "ต.หนองพันทา",
                 "amphoe": "อ.โซ่พิสัย",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 135.8,
+                "sum_rainfall_48h": 137,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-09T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-09T04:00:00+07:00"
             }
         },
         {
@@ -66,19 +66,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.37124,
-                    19.36386
+                    103.26375,
+                    17.70451
                 ]
             },
             "properties": {
-                "station_code": "MOU267",
-                "station_name": "หน่วยศึกษาการพัฒนาการอนุรักษ์ต้นน้ำน้ำเงิน",
-                "tambon": "ต.งิม",
-                "amphoe": "อ.ปง",
-                "province": "จ.พะเยา",
-                "sum_rainfall_48h": 104.19999999999999,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T13:00:00+07:00"
+                "station_code": "BDGN",
+                "station_name": "ทม.บ้านดุง",
+                "tambon": "ต.ศรีสุทโธ",
+                "amphoe": "อ.บ้านดุง",
+                "province": "จ.อุดรธานี",
+                "sum_rainfall_48h": 128,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-09T04:00:00+07:00"
             }
         }
     ]
