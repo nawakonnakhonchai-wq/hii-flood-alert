@@ -6,19 +6,139 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    99.81109,
+                    17.586782
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "MOU346",
+                "station_name": "สะพานบ้านตึก",
+                "tambon": "ต.บ้านตึก",
+                "amphoe": "อ.ศรีสัชนาลัย",
+                "province": "จ.สุโขทัย",
+                "sum_rainfall_48h": 139.4,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-08T22:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.604034,
+                    17.653162
+                ]
+            },
+            "properties": {
+                "station_code": "MOU067",
+                "station_name": "หน่วยศึกษาการพัฒนาการอนุรักษ์ต้นน้ำแม่สาน (หน่วยย่อย)",
+                "tambon": "ต.แม่สิน",
+                "amphoe": "อ.ศรีสัชนาลัย",
+                "province": "จ.สุโขทัย",
+                "sum_rainfall_48h": 111.79999999999998,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-08T16:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.92741,
+                    18.96273
+                ]
+            },
+            "properties": {
+                "station_code": "RES028",
+                "station_name": "อ่างเก็บน้ำขอนแก่น 2",
+                "tambon": "ต.ป่าแลวหลวง",
+                "amphoe": "อ.สันติสุข",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 106.39999999999999,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-08T22:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37124,
+                    19.36386
+                ]
+            },
+            "properties": {
+                "station_code": "MOU267",
+                "station_name": "หน่วยศึกษาการพัฒนาการอนุรักษ์ต้นน้ำน้ำเงิน",
+                "tambon": "ต.งิม",
+                "amphoe": "อ.ปง",
+                "province": "จ.พะเยา",
+                "sum_rainfall_48h": 104.20000000000002,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-08T13:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.45062,
+                    19.393639
+                ]
+            },
+            "properties": {
+                "station_code": "MOU066",
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติ ที่ สก. 2 (ภูลังกา)",
+                "tambon": "ต.ผาช้างน้อย",
+                "amphoe": "อ.ปง",
+                "province": "จ.พะเยา",
+                "sum_rainfall_48h": 94.6,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-08T22:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.215,
+                    19.59061
+                ]
+            },
+            "properties": {
+                "station_code": "PMPA",
+                "station_name": "อบต.ปางมะผ้า",
+                "tambon": "ต.ปางมะผ้า",
+                "amphoe": "อ.ปางมะผ้า",
+                "province": "จ.แม่ฮ่องสอน",
+                "sum_rainfall_48h": 95.80000000000001,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-08T22:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.90555,
+                    19.50019
+                ]
+            },
+            "properties": {
+                "station_code": "DNP096",
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ ถผ.4 (ปางตอง)",
+                "tambon": "ต.หมอกจำแป่",
+                "amphoe": "อ.เมืองแม่ฮ่องสอน",
+                "province": "จ.แม่ฮ่องสอน",
+                "sum_rainfall_48h": 94,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-08T22:00:00+07:00"
             }
         }
     ]
