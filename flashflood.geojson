@@ -18,7 +18,7 @@
                 "province": "จ.พิษณุโลก",
                 "sum_rainfall_48h": 102,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-10T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-10T04:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.หนองพันทา",
                 "amphoe": "อ.โซ่พิสัย",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 149.99999999999997,
+                "sum_rainfall_48h": 150,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-10T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-10T04:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.หนองแปน",
                 "amphoe": "อ.เจริญศิลป์",
                 "province": "จ.สกลนคร",
-                "sum_rainfall_48h": 131.8,
+                "sum_rainfall_48h": 132,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-10T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-10T04:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.ศรีสุทโธ",
                 "amphoe": "อ.บ้านดุง",
                 "province": "จ.อุดรธานี",
-                "sum_rainfall_48h": 158.8,
+                "sum_rainfall_48h": 170.39999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-10T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-10T04:00:00+07:00"
             }
         }
     ]
