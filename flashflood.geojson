@@ -6,46 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.81109,
-                    17.586782
-                ]
-            },
-            "properties": {
-                "station_code": "MOU346",
-                "station_name": "สะพานบ้านตึก",
-                "tambon": "ต.บ้านตึก",
-                "amphoe": "อ.ศรีสัชนาลัย",
-                "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 139.39999999999998,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-09T18:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.604034,
-                    17.653162
-                ]
-            },
-            "properties": {
-                "station_code": "MOU067",
-                "station_name": "หน่วยศึกษาการพัฒนาการอนุรักษ์ต้นน้ำแม่สาน (หน่วยย่อย)",
-                "tambon": "ต.แม่สิน",
-                "amphoe": "อ.ศรีสัชนาลัย",
-                "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 111.6,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-09T18:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     103.41307,
                     18.1073
                 ]
@@ -58,7 +18,7 @@
                 "province": "จ.บึงกาฬ",
                 "sum_rainfall_48h": 150,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-09T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-09T23:00:00+07:00"
             }
         },
         {
@@ -78,7 +38,7 @@
                 "province": "จ.อุดรธานี",
                 "sum_rainfall_48h": 126.99999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-09T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-09T23:00:00+07:00"
             }
         },
         {
@@ -96,9 +56,9 @@
                 "tambon": "ต.เมืองนะ",
                 "amphoe": "อ.เชียงดาว",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 90.2,
+                "sum_rainfall_48h": 92,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-09T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-09T23:00:00+07:00"
             }
         }
     ]
