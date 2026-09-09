@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    100.24581,
+                    16.67167
+                ]
+            },
+            "properties": {
+                "station_code": "DIV004",
+                "station_name": "คลองผันน้ำยม-น่าน4",
+                "tambon": "ต.งิ้วงาม",
+                "amphoe": "อ.เมืองพิษณุโลก",
+                "province": "จ.พิษณุโลก",
+                "sum_rainfall_48h": 102,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-10T02:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     103.41307,
                     18.1073
                 ]
@@ -16,9 +36,29 @@
                 "tambon": "ต.หนองพันทา",
                 "amphoe": "อ.โซ่พิสัย",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 150,
+                "sum_rainfall_48h": 149.99999999999997,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-09T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-10T02:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.43509,
+                    17.70356
+                ]
+            },
+            "properties": {
+                "station_code": "BTHO",
+                "station_name": "อบต.หนองแปน",
+                "tambon": "ต.หนองแปน",
+                "amphoe": "อ.เจริญศิลป์",
+                "province": "จ.สกลนคร",
+                "sum_rainfall_48h": 131.8,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-10T02:00:00+07:00"
             }
         },
         {
@@ -36,29 +76,9 @@
                 "tambon": "ต.ศรีสุทโธ",
                 "amphoe": "อ.บ้านดุง",
                 "province": "จ.อุดรธานี",
-                "sum_rainfall_48h": 126.99999999999999,
+                "sum_rainfall_48h": 158.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-09T23:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.8308,
-                    19.3201
-                ]
-            },
-            "properties": {
-                "station_code": "MOU279",
-                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่ตะมาน",
-                "tambon": "ต.เมืองนะ",
-                "amphoe": "อ.เชียงดาว",
-                "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 92,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-09T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-10T02:00:00+07:00"
             }
         }
     ]
