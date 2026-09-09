@@ -16,9 +16,9 @@
                 "tambon": "ต.บ้านตึก",
                 "amphoe": "อ.ศรีสัชนาลัย",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 139.4,
+                "sum_rainfall_48h": 139.39999999999998,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-09T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-09T13:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.สุโขทัย",
                 "sum_rainfall_48h": 111.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-08T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-09T13:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.หนองพันทา",
                 "amphoe": "อ.โซ่พิสัย",
                 "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 149.8,
+                "sum_rainfall_48h": 150,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-09T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-09T13:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,29 @@
                 "tambon": "ต.ศรีสุทโธ",
                 "amphoe": "อ.บ้านดุง",
                 "province": "จ.อุดรธานี",
-                "sum_rainfall_48h": 132.39999999999998,
+                "sum_rainfall_48h": 127,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-09T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-09T13:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.01177,
+                    19.310799
+                ]
+            },
+            "properties": {
+                "station_code": "MOU030",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์น้ำกอนฝั่งซ้าย",
+                "tambon": "ต.พญาแก้ว",
+                "amphoe": "อ.เชียงกลาง",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 100.60000000000001,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-09T13:00:00+07:00"
             }
         }
     ]
