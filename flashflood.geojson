@@ -18,7 +18,7 @@
                 "province": "จ.พิษณุโลก",
                 "sum_rainfall_48h": 102.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-10T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-10T08:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.บึงกาฬ",
                 "sum_rainfall_48h": 150,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-10T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-10T08:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.สุขสวัสดิ์",
                 "amphoe": "อ.ไพรบึง",
                 "province": "จ.ศรีสะเกษ",
-                "sum_rainfall_48h": 164.59999999999997,
+                "sum_rainfall_48h": 167,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-10T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-10T08:00:00+07:00"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "province": "จ.สกลนคร",
                 "sum_rainfall_48h": 132,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-10T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-10T08:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,29 @@
                 "tambon": "ต.ศรีสุทโธ",
                 "amphoe": "อ.บ้านดุง",
                 "province": "จ.อุดรธานี",
-                "sum_rainfall_48h": 170.39999999999998,
+                "sum_rainfall_48h": 170.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-10T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-10T08:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.49909,
+                    20.360617
+                ]
+            },
+            "properties": {
+                "station_code": "MOU180",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์ดอยปางหนุน",
+                "tambon": "ต.เทอดไทย",
+                "amphoe": "อ.แม่ฟ้าหลวง",
+                "province": "จ.เชียงราย",
+                "sum_rainfall_48h": 97.4,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-10T08:00:00+07:00"
             }
         }
     ]
