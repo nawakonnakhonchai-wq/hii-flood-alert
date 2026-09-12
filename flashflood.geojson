@@ -6,106 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.4973,
-                    14.4678
-                ]
-            },
-            "properties": {
-                "station_code": "ridtele_TK.65",
-                "station_name": "ฝายทดน้ำลำเหย",
-                "tambon": "ต.หลุมรัง",
-                "amphoe": "อ.บ่อพลอย",
-                "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 124,
-                "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-12T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.46491,
-                    13.70123
-                ]
-            },
-            "properties": {
-                "station_code": "RF.JTG.02",
-                "station_name": "จุดวัด ค.สนามชัย-ค.บางขุนเทียน",
-                "tambon": "ต.บางขุนเทียน",
-                "amphoe": "อ.จอมทอง",
-                "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 110.5,
-                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-12T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.48427,
-                    13.67744
-                ]
-            },
-            "properties": {
-                "station_code": "RF.JTG.01",
-                "station_name": "สนข.จอมทอง",
-                "tambon": "ต.บางมด",
-                "amphoe": "อ.จอมทอง",
-                "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 109,
-                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-12T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.50878,
-                    13.61135
-                ]
-            },
-            "properties": {
-                "station_code": "RF.TKU.01",
-                "station_name": "สนข.ทุ่งครุ",
-                "tambon": "ต.ทุ่งครุ",
-                "amphoe": "อ.ทุ่งครุ",
-                "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 117,
-                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-12T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.44615,
-                    13.67325
-                ]
-            },
-            "properties": {
-                "station_code": "RF.JTG.03",
-                "station_name": "ส.คลองสี่บาท",
-                "tambon": "ต.แสมดำ",
-                "amphoe": "อ.บางขุนเทียน",
-                "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 106.5,
-                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-12T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.50229,
                     13.69311
                 ]
@@ -116,29 +16,9 @@
                 "tambon": "ต.บางคอแหลม",
                 "amphoe": "อ.บางคอแหลม",
                 "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 130,
+                "sum_rainfall_48h": 114,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-12T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.48758,
-                    13.6949
-                ]
-            },
-            "properties": {
-                "station_code": "RF.TBR.03",
-                "station_name": "ส.ดาวคะนอง",
-                "tambon": "ต.บางปะกอก",
-                "amphoe": "อ.ราษฎร์บูรณะ",
-                "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 108.5,
-                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-12T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-12T19:00:00+07:00"
             }
         },
         {
@@ -156,49 +36,9 @@
                 "tambon": "ต.ราษฎร์บูรณะ",
                 "amphoe": "อ.ราษฎร์บูรณะ",
                 "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 121.5,
+                "sum_rainfall_48h": 104,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-12T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.52097,
-                    13.67627
-                ]
-            },
-            "properties": {
-                "station_code": "RF.RBN.02",
-                "station_name": "ส.คลองแจงร้อน",
-                "tambon": "ต.บางพึ่ง",
-                "amphoe": "อ.พระประแดง",
-                "province": "จ.สมุทรปราการ",
-                "sum_rainfall_48h": 105,
-                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-12T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.36587,
-                    13.58184
-                ]
-            },
-            "properties": {
-                "station_code": "BKK006",
-                "station_name": "คลองมหาชัย วัดพันท้ายนรสิงห์",
-                "tambon": "ต.พันท้ายนรสิงห์",
-                "amphoe": "อ.เมืองสมุทรสาคร",
-                "province": "จ.สมุทรสาคร",
-                "sum_rainfall_48h": 138.20000000000002,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-12T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-12T19:00:00+07:00"
             }
         }
     ]
