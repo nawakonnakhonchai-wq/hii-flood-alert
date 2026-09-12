@@ -6,39 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.50229,
-                    13.69311
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "RF.BKL.01",
-                "station_name": "สนข.บางคอแหลม",
-                "tambon": "ต.บางคอแหลม",
-                "amphoe": "อ.บางคอแหลม",
-                "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 114,
-                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-12T19:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.50586,
-                    13.68207
-                ]
-            },
-            "properties": {
-                "station_code": "RF.RBN.01",
-                "station_name": "สนข.ราษฎร์บูรณะ",
-                "tambon": "ต.ราษฎร์บูรณะ",
-                "amphoe": "อ.ราษฎร์บูรณะ",
-                "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 104,
-                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-12T19:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
