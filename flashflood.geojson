@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    99.689228,
+                    18.475093
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "STN1194",
+                "station_name": "บ้านดง",
+                "tambon": "ต.บ้านแลง",
+                "amphoe": "อ.เมืองลำปาง",
+                "province": "จ.ลำปาง",
+                "sum_rainfall_48h": 96,
+                "agency": "กรมทรัพยากรน้ำ",
+                "latest_rainfall_datetime": "2026-09-13T15:00:00+07:00"
             }
         }
     ]
