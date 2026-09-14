@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.96896,
-                    13.3319
+                    99.89484,
+                    15.45764
                 ]
             },
             "properties": {
-                "station_code": "PTTEP1",
-                "station_name": " สะพานข้ามคลองโคน",
-                "tambon": "ต.คลองโคน",
-                "amphoe": "อ.เมืองสมุทรสงคราม",
-                "province": "จ.สมุทรสงคราม",
-                "sum_rainfall_48h": 151.4,
+                "station_code": "TPTN",
+                "station_name": "ทต.ทัพทัน",
+                "tambon": "ต.ทัพทัน",
+                "amphoe": "อ.ทัพทัน",
+                "province": "จ.อุทัยธานี",
+                "sum_rainfall_48h": 137.79999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-14T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-15T01:00:00+07:00"
             }
         }
     ]
