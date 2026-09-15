@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    100.98895,
+                    16.72957
+                ]
+            },
+            "properties": {
+                "station_code": "DNP068",
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ สล.11 (เพชรดำ)",
+                "tambon": "ต.ทุ่งสมอ",
+                "amphoe": "อ.เขาค้อ",
+                "province": "จ.เพชรบูรณ์",
+                "sum_rainfall_48h": 107.80000000000001,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-15T07:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     99.89484,
                     15.45764
                 ]
@@ -18,7 +38,7 @@
                 "province": "จ.อุทัยธานี",
                 "sum_rainfall_48h": 153.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-15T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-15T07:00:00+07:00"
             }
         }
     ]
