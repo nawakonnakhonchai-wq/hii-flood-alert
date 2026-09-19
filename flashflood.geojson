@@ -16,9 +16,49 @@
                 "tambon": "ต.โกสัมพี",
                 "amphoe": "อ.โกสัมพีนคร",
                 "province": "จ.กำแพงเพชร",
-                "sum_rainfall_48h": 150,
+                "sum_rainfall_48h": 159,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.4194,
+                    15.91465
+                ]
+            },
+            "properties": {
+                "station_code": "SKG003",
+                "station_name": "สะพานต้นน้ำ (เกาะแก้ว-ตลิ่งสูง)",
+                "tambon": "ต.ปางมะค่า",
+                "amphoe": "อ.ขาณุวรลักษบุรี",
+                "province": "จ.กำแพงเพชร",
+                "sum_rainfall_48h": 104.8,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.70895,
+                    16.20864
+                ]
+            },
+            "properties": {
+                "station_code": "KGKG",
+                "station_name": "อบต.คลองขลุง",
+                "tambon": "ต.คลองขลุง",
+                "amphoe": "อ.คลองขลุง",
+                "province": "จ.กำแพงเพชร",
+                "sum_rainfall_48h": 107.20000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -36,9 +76,29 @@
                 "tambon": "ต.ท่าพุทรา",
                 "amphoe": "อ.คลองขลุง",
                 "province": "จ.กำแพงเพชร",
-                "sum_rainfall_48h": 101.5,
+                "sum_rainfall_48h": 121,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.527517,
+                    16.151548
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_TP.105",
+                "station_name": "สำนักสงฆ์มอหินเพลิง",
+                "tambon": "ต.วังไทร",
+                "amphoe": "อ.คลองขลุง",
+                "province": "จ.กำแพงเพชร",
+                "sum_rainfall_48h": 110.5,
+                "agency": "กรมชลประทาน ",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -56,9 +116,69 @@
                 "tambon": "ต.ธำมรงค์",
                 "amphoe": "อ.เมืองกำแพงเพชร",
                 "province": "จ.กำแพงเพชร",
-                "sum_rainfall_48h": 107,
+                "sum_rainfall_48h": 126.5,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.51866,
+                    16.47816
+                ]
+            },
+            "properties": {
+                "station_code": "PIN006",
+                "station_name": "เมืองกำแพงเพชร (P7A)",
+                "tambon": "ต.นครชุม",
+                "amphoe": "อ.เมืองกำแพงเพชร",
+                "province": "จ.กำแพงเพชร",
+                "sum_rainfall_48h": 100.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.349611,
+                    16.406278
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_TP.99",
+                "station_name": "วัดเขาแก้วสวรรค์",
+                "tambon": "ต.นาบ่อคำ",
+                "amphoe": "อ.เมืองกำแพงเพชร",
+                "province": "จ.กำแพงเพชร",
+                "sum_rainfall_48h": 109.5,
+                "agency": "กรมชลประทาน ",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.51958,
+                    16.49714
+                ]
+            },
+            "properties": {
+                "station_code": "DIV005",
+                "station_name": "ท่อทองแดง1",
+                "tambon": "ต.หนองปลิง",
+                "amphoe": "อ.เมืองกำแพงเพชร",
+                "province": "จ.กำแพงเพชร",
+                "sum_rainfall_48h": 101.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -76,49 +196,9 @@
                 "tambon": "ต.แม่เล่ย์",
                 "amphoe": "อ.แม่วงก์",
                 "province": "จ.นครสวรรค์",
-                "sum_rainfall_48h": 116.5,
+                "sum_rainfall_48h": 117.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.862292,
-                    17.125555
-                ]
-            },
-            "properties": {
-                "station_code": "STN1125",
-                "station_name": "บ้านน้ำพาย",
-                "tambon": "ต.นครไทย",
-                "amphoe": "อ.นครไทย",
-                "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 102.5,
-                "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T14:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.775528,
-                    17.124356
-                ]
-            },
-            "properties": {
-                "station_code": "STN1521",
-                "station_name": "บ้านพร้าว",
-                "tambon": "ต.บ้านพร้าว",
-                "amphoe": "อ.นครไทย",
-                "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 111.5,
-                "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -136,49 +216,9 @@
                 "tambon": "ต.ยางโกลน",
                 "amphoe": "อ.นครไทย",
                 "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 140.5,
+                "sum_rainfall_48h": 133.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.67061,
-                    16.74035
-                ]
-            },
-            "properties": {
-                "station_code": "DNP067",
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ สล.12 (รักไทย)",
-                "tambon": "ต.ชมพู",
-                "amphoe": "อ.เนินมะปราง",
-                "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 119.6,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.05965,
-                    16.8586
-                ]
-            },
-            "properties": {
-                "station_code": "VLGE13",
-                "station_name": "ชุมแสงสงคราม",
-                "tambon": "ต.ชุมแสงสงคราม",
-                "amphoe": "อ.บางระกำ",
-                "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 106.20000000000002,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -198,7 +238,7 @@
                 "province": "จ.เพชรบูรณ์",
                 "sum_rainfall_48h": 143.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -216,9 +256,9 @@
                 "tambon": "ต.ป่างิ้ว",
                 "amphoe": "อ.ศรีสัชนาลัย",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 118.5,
+                "sum_rainfall_48h": 117.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -236,9 +276,29 @@
                 "tambon": "ต.แม่สิน",
                 "amphoe": "อ.ศรีสัชนาลัย",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 129.5,
+                "sum_rainfall_48h": 120.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T18:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.40895,
+                    15.23958
+                ]
+            },
+            "properties": {
+                "station_code": "MOU080",
+                "station_name": "หน่วยพิทักษ์ป่าเขาปันโส",
+                "tambon": "ต.คอกควาย",
+                "amphoe": "อ.บ้านไร่",
+                "province": "จ.อุทัยธานี",
+                "sum_rainfall_48h": 101.6,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -256,9 +316,69 @@
                 "tambon": "ต.ระบำ",
                 "amphoe": "อ.ลานสัก",
                 "province": "จ.อุทัยธานี",
-                "sum_rainfall_48h": 101,
+                "sum_rainfall_48h": 109,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.53976,
+                    15.47279
+                ]
+            },
+            "properties": {
+                "station_code": "LNSK",
+                "station_name": "อบต.ลานสัก",
+                "tambon": "ต.ลานสัก",
+                "amphoe": "อ.ลานสัก",
+                "province": "จ.อุทัยธานี",
+                "sum_rainfall_48h": 110,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.714458,
+                    15.407623
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_TSK.9",
+                "station_name": "ฝายทับเสลา",
+                "tambon": "ต.เขากวางทอง",
+                "amphoe": "อ.หนองฉาง",
+                "province": "จ.อุทัยธานี",
+                "sum_rainfall_48h": 102,
+                "agency": "กรมชลประทาน ",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.84505,
+                    15.38896
+                ]
+            },
+            "properties": {
+                "station_code": "NGCG",
+                "station_name": "ทต.หนองฉาง",
+                "tambon": "ต.หนองฉาง",
+                "amphoe": "อ.หนองฉาง",
+                "province": "จ.อุทัยธานี",
+                "sum_rainfall_48h": 109.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -276,9 +396,9 @@
                 "tambon": "ต.สุขฤทัย",
                 "amphoe": "อ.ห้วยคต",
                 "province": "จ.อุทัยธานี",
-                "sum_rainfall_48h": 162.5,
+                "sum_rainfall_48h": 204.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -296,9 +416,9 @@
                 "tambon": "ต.ห้วยคต",
                 "amphoe": "อ.ห้วยคต",
                 "province": "จ.อุทัยธานี",
-                "sum_rainfall_48h": 108.60000000000001,
+                "sum_rainfall_48h": 132.00000000000003,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -316,9 +436,9 @@
                 "tambon": "ต.โนนทอง",
                 "amphoe": "อ.เกษตรสมบูรณ์",
                 "province": "จ.ชัยภูมิ",
-                "sum_rainfall_48h": 217,
+                "sum_rainfall_48h": 207,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -338,7 +458,7 @@
                 "province": "จ.ชัยภูมิ",
                 "sum_rainfall_48h": 134,
                 "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-09-19T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T18:00:00+07:00"
             }
         },
         {
@@ -356,29 +476,9 @@
                 "tambon": "ต.ทุ่งลุยลาย",
                 "amphoe": "อ.คอนสาร",
                 "province": "จ.ชัยภูมิ",
-                "sum_rainfall_48h": 192,
+                "sum_rainfall_48h": 190,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    102.23782,
-                    14.968
-                ]
-            },
-            "properties": {
-                "station_code": "MUN002",
-                "station_name": "เฉลิมพระเกียรติ",
-                "tambon": "ต.หนองยาง",
-                "amphoe": "อ.เฉลิมพระเกียรติ",
-                "province": "จ.นครราชสีมา",
-                "sum_rainfall_48h": 144,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -396,9 +496,9 @@
                 "tambon": "ต.บ้านหลวง",
                 "amphoe": "อ.จอมทอง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 125.19999999999999,
+                "sum_rainfall_48h": 126.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -416,9 +516,29 @@
                 "tambon": "ต.เมืองคอง",
                 "amphoe": "อ.เชียงดาว",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 116.19999999999999,
+                "sum_rainfall_48h": 116.60000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.803741,
+                    17.893466
+                ]
+            },
+            "properties": {
+                "station_code": "STN1224",
+                "station_name": "บ้านแม่บวนใต้",
+                "tambon": "ต.โปงทุ่ง",
+                "amphoe": "อ.ดอยเต่า",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 94,
+                "agency": "กรมทรัพยากรน้ำ",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -438,7 +558,7 @@
                 "province": "จ.เชียงใหม่",
                 "sum_rainfall_48h": 106,
                 "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-09-19T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T18:00:00+07:00"
             }
         },
         {
@@ -456,9 +576,9 @@
                 "tambon": "ต.ท่าผา",
                 "amphoe": "อ.แม่แจ่ม",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 113.6,
+                "sum_rainfall_48h": 111.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -476,9 +596,9 @@
                 "tambon": "ต.แม่นาจร",
                 "amphoe": "อ.แม่แจ่ม",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 116.20000000000002,
+                "sum_rainfall_48h": 115.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -496,9 +616,9 @@
                 "tambon": "ต.แม่วิน",
                 "amphoe": "อ.แม่วาง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 115,
+                "sum_rainfall_48h": 125.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -516,9 +636,9 @@
                 "tambon": "ต.เมืองแหง",
                 "amphoe": "อ.เวียงแหง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 98.39999999999999,
+                "sum_rainfall_48h": 98.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -538,7 +658,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 95,
                 "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-09-19T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T18:00:00+07:00"
             }
         },
         {
@@ -558,7 +678,7 @@
                 "province": "จ.น่าน",
                 "sum_rainfall_48h": 105,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -576,9 +696,9 @@
                 "tambon": "ต.ปงสนุก",
                 "amphoe": "อ.เวียงสา",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 103.2,
+                "sum_rainfall_48h": 103.19999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -596,9 +716,9 @@
                 "tambon": "ต.แม่ขะนิง",
                 "amphoe": "อ.เวียงสา",
                 "province": "จ.น่าน",
-                "sum_rainfall_48h": 112.39999999999999,
+                "sum_rainfall_48h": 111.19999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-19T10:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -618,7 +738,7 @@
                 "province": "จ.แพร่",
                 "sum_rainfall_48h": 104,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T18:00:00+07:00"
             }
         },
         {
@@ -636,9 +756,9 @@
                 "tambon": "ต.ร้องกวาง",
                 "amphoe": "อ.ร้องกวาง",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 110.19999999999999,
+                "sum_rainfall_48h": 110.20000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -656,9 +776,9 @@
                 "tambon": "ต.แม่พุง",
                 "amphoe": "อ.วังชิ้น",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 130.5,
+                "sum_rainfall_48h": 116.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -666,19 +786,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.673173,
-                    17.79514
+                    99.61921,
+                    17.87937
                 ]
             },
             "properties": {
-                "station_code": "STN1495",
-                "station_name": "บ้านหาดรั่ว",
+                "station_code": "WCHN",
+                "station_name": "อบต.วังชิ้น",
                 "tambon": "ต.วังชิ้น",
                 "amphoe": "อ.วังชิ้น",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 103.5,
-                "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "sum_rainfall_48h": 90.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -698,47 +818,7 @@
                 "province": "จ.แพร่",
                 "sum_rainfall_48h": 115.80000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    97.943995,
-                    18.916115
-                ]
-            },
-            "properties": {
-                "station_code": "STN0112",
-                "station_name": "บ้านแม่สุริน",
-                "tambon": "ต.ขุนยวม",
-                "amphoe": "อ.ขุนยวม",
-                "province": "จ.แม่ฮ่องสอน",
-                "sum_rainfall_48h": 102.5,
-                "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    97.918308,
-                    18.339649
-                ]
-            },
-            "properties": {
-                "station_code": "ridtele_TSW.09",
-                "station_name": "บ้านท่าสองแคว",
-                "tambon": "ต.แม่ลาน้อย",
-                "amphoe": "อ.แม่ลาน้อย",
-                "province": "จ.แม่ฮ่องสอน",
-                "sum_rainfall_48h": 159,
-                "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -756,9 +836,9 @@
                 "tambon": "ต.แม่ถอด",
                 "amphoe": "อ.เถิน",
                 "province": "จ.ลำปาง",
-                "sum_rainfall_48h": 94.5,
+                "sum_rainfall_48h": 98,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -776,9 +856,9 @@
                 "tambon": "ต.แม่วะ",
                 "amphoe": "อ.เถิน",
                 "province": "จ.ลำปาง",
-                "sum_rainfall_48h": 94.6,
+                "sum_rainfall_48h": 100.20000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -796,9 +876,9 @@
                 "tambon": "ต.สันดอนแก้ว",
                 "amphoe": "อ.แม่ทะ",
                 "province": "จ.ลำปาง",
-                "sum_rainfall_48h": 126.5,
+                "sum_rainfall_48h": 125.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -816,9 +896,9 @@
                 "tambon": "ต.สบปราบ",
                 "amphoe": "อ.สบปราบ",
                 "province": "จ.ลำปาง",
-                "sum_rainfall_48h": 97,
+                "sum_rainfall_48h": 96.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -836,9 +916,9 @@
                 "tambon": "ต.ทุ่งงาม",
                 "amphoe": "อ.เสริมงาม",
                 "province": "จ.ลำปาง",
-                "sum_rainfall_48h": 108,
+                "sum_rainfall_48h": 107,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -856,9 +936,9 @@
                 "tambon": "ต.เสริมขวา",
                 "amphoe": "อ.เสริมงาม",
                 "province": "จ.ลำปาง",
-                "sum_rainfall_48h": 96,
+                "sum_rainfall_48h": 95.80000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -898,7 +978,7 @@
                 "province": "จ.ลำพูน",
                 "sum_rainfall_48h": 113.00000000000003,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -916,9 +996,9 @@
                 "tambon": "ต.ป่าพลู",
                 "amphoe": "อ.บ้านโฮ่ง",
                 "province": "จ.ลำพูน",
-                "sum_rainfall_48h": 106,
+                "sum_rainfall_48h": 105.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -936,9 +1016,9 @@
                 "tambon": "ต.ก้อ",
                 "amphoe": "อ.ลี้",
                 "province": "จ.ลำพูน",
-                "sum_rainfall_48h": 101.5,
+                "sum_rainfall_48h": 104,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -956,9 +1036,9 @@
                 "tambon": "ต.ศรีมงคล",
                 "amphoe": "อ.ไทรโยค",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 133.8,
+                "sum_rainfall_48h": 134.60000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -976,9 +1056,9 @@
                 "tambon": "ต.สมเด็จเจริญ",
                 "amphoe": "อ.หนองปรือ",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 133,
+                "sum_rainfall_48h": 133.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -996,9 +1076,9 @@
                 "tambon": "ต.หนองปรือ",
                 "amphoe": "อ.หนองปรือ",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 107,
+                "sum_rainfall_48h": 122,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1016,9 +1096,29 @@
                 "tambon": "ต.สองพี่น้อง",
                 "amphoe": "อ.แก่งกระจาน",
                 "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 104.2,
+                "sum_rainfall_48h": 107,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.37312,
+                    12.97823
+                ]
+            },
+            "properties": {
+                "station_code": "SWR005",
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติแก่งกระจาน 10",
+                "tambon": "ต.ห้วยแม่เพรียง",
+                "amphoe": "อ.แก่งกระจาน",
+                "province": "จ.เพชรบุรี",
+                "sum_rainfall_48h": 111.80000000000001,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1036,9 +1136,9 @@
                 "tambon": "ต.เขากระปุก",
                 "amphoe": "อ.ท่ายาง",
                 "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 178.5,
+                "sum_rainfall_48h": 190,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1056,9 +1156,9 @@
                 "tambon": "ต.ศาลาด่าน",
                 "amphoe": "อ.เกาะลันตา",
                 "province": "จ.กระบี่",
-                "sum_rainfall_48h": 176,
+                "sum_rainfall_48h": 179.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1078,7 +1178,7 @@
                 "province": "จ.กระบี่",
                 "sum_rainfall_48h": 171,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1096,9 +1196,9 @@
                 "tambon": "ต.ปากทรง",
                 "amphoe": "อ.พะโต๊ะ",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 160,
+                "sum_rainfall_48h": 159.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1116,9 +1216,9 @@
                 "tambon": "ต.กะลาเส",
                 "amphoe": "อ.สิเกา",
                 "province": "จ.ตรัง",
-                "sum_rainfall_48h": 158.4,
+                "sum_rainfall_48h": 154.79999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1136,9 +1236,9 @@
                 "tambon": "ต.ท่านา",
                 "amphoe": "อ.กะปง",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 183,
+                "sum_rainfall_48h": 177.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1156,9 +1256,9 @@
                 "tambon": "ต.รมณีย์",
                 "amphoe": "อ.กะปง",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 217,
+                "sum_rainfall_48h": 205.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1176,9 +1276,9 @@
                 "tambon": "ต.เหมาะ",
                 "amphoe": "อ.กะปง",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 242,
+                "sum_rainfall_48h": 235.5,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1196,9 +1296,9 @@
                 "tambon": "ต.เหล",
                 "amphoe": "อ.กะปง",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 293.5,
+                "sum_rainfall_48h": 278.5,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1216,9 +1316,9 @@
                 "tambon": "ต.คุระ",
                 "amphoe": "อ.คุระบุรี",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 156.5,
+                "sum_rainfall_48h": 151,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1236,9 +1336,9 @@
                 "tambon": "ต.แม่นางขาว",
                 "amphoe": "อ.คุระบุรี",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 186,
+                "sum_rainfall_48h": 172,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1256,9 +1356,9 @@
                 "tambon": "ต.โคกเคียน",
                 "amphoe": "อ.ตะกั่วป่า",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 168,
+                "sum_rainfall_48h": 159,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1276,9 +1376,9 @@
                 "tambon": "ต.ตะกั่วป่า",
                 "amphoe": "อ.ตะกั่วป่า",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 228.5,
+                "sum_rainfall_48h": 217.5,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1296,9 +1396,9 @@
                 "tambon": "ต.ตำตัว",
                 "amphoe": "อ.ตะกั่วป่า",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 170.5,
+                "sum_rainfall_48h": 165.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1316,9 +1416,9 @@
                 "tambon": "ต.บางไทร",
                 "amphoe": "อ.ตะกั่วป่า",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 274.5,
+                "sum_rainfall_48h": 272.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1336,9 +1436,9 @@
                 "tambon": "ต.กะเปอร์",
                 "amphoe": "อ.กะเปอร์",
                 "province": "จ.ระนอง",
-                "sum_rainfall_48h": 202,
+                "sum_rainfall_48h": 201.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1356,9 +1456,9 @@
                 "tambon": "ต.เชี่ยวเหลียง",
                 "amphoe": "อ.กะเปอร์",
                 "province": "จ.ระนอง",
-                "sum_rainfall_48h": 198,
+                "sum_rainfall_48h": 197,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1376,9 +1476,9 @@
                 "tambon": "ต.บางนอน",
                 "amphoe": "อ.เมืองระนอง",
                 "province": "จ.ระนอง",
-                "sum_rainfall_48h": 152.5,
+                "sum_rainfall_48h": 153.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1396,9 +1496,9 @@
                 "tambon": "ต.บางริ้น",
                 "amphoe": "อ.เมืองระนอง",
                 "province": "จ.ระนอง",
-                "sum_rainfall_48h": 157.5,
+                "sum_rainfall_48h": 155.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1418,7 +1518,7 @@
                 "province": "จ.ระนอง",
                 "sum_rainfall_48h": 160.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1436,9 +1536,9 @@
                 "tambon": "ต.ราชกรูด",
                 "amphoe": "อ.เมืองระนอง",
                 "province": "จ.ระนอง",
-                "sum_rainfall_48h": 191.5,
+                "sum_rainfall_48h": 189.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1456,9 +1556,9 @@
                 "tambon": "ต.บางพระเหนือ",
                 "amphoe": "อ.ละอุ่น",
                 "province": "จ.ระนอง",
-                "sum_rainfall_48h": 169,
+                "sum_rainfall_48h": 171.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-19T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T19:00:00+07:00"
             }
         },
         {
@@ -1476,9 +1576,9 @@
                 "tambon": "ต.เขาพัง",
                 "amphoe": "อ.บ้านตาขุน",
                 "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 227,
+                "sum_rainfall_48h": 223,
                 "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-09-19T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T18:00:00+07:00"
             }
         },
         {
@@ -1496,9 +1596,9 @@
                 "tambon": "ต.คลองศก",
                 "amphoe": "อ.พนม",
                 "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 166,
+                "sum_rainfall_48h": 159,
                 "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-09-19T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-19T18:00:00+07:00"
             }
         }
     ]
