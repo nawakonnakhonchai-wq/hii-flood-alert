@@ -6,106 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.6572,
-                    15.60012
-                ]
-            },
-            "properties": {
-                "station_code": "PSLI",
-                "station_name": "ทต.ไพศาลี",
-                "tambon": "ต.ไพศาลี",
-                "amphoe": "อ.ไพศาลี",
-                "province": "จ.นครสวรรค์",
-                "sum_rainfall_48h": 112.6,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-22T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.73281,
-                    16.01561
-                ]
-            },
-            "properties": {
-                "station_code": "SYTL",
-                "station_name": "อบต.วังงิ้ว",
-                "tambon": "ต.วังงิ้ว",
-                "amphoe": "อ.ดงเจริญ",
-                "province": "จ.พิจิตร",
-                "sum_rainfall_48h": 133.4,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-22T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.566,
-                    16.16959
-                ]
-            },
-            "properties": {
-                "station_code": "TPKO",
-                "station_name": "ทต.ทับคล้อ",
-                "tambon": "ต.ทับคล้อ",
-                "amphoe": "อ.ทับคล้อ",
-                "province": "จ.พิจิตร",
-                "sum_rainfall_48h": 110.6,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-22T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.27173,
-                    16.31077
-                ]
-            },
-            "properties": {
-                "station_code": "YOM009",
-                "station_name": "โพธิ์ประทับช้าง",
-                "tambon": "ต.โพธิ์ประทับช้าง",
-                "amphoe": "อ.โพธิ์ประทับช้าง",
-                "province": "จ.พิจิตร",
-                "sum_rainfall_48h": 111.4,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-22T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.911551,
-                    16.17415
-                ]
-            },
-            "properties": {
-                "station_code": "STN0316",
-                "station_name": "บ้านวังลาด",
-                "tambon": "ต.ชนแดน",
-                "amphoe": "อ.ชนแดน",
-                "province": "จ.เพชรบูรณ์",
-                "sum_rainfall_48h": 161.5,
-                "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-22T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     101.80991,
                     14.06948
                 ]
@@ -118,7 +18,7 @@
                 "province": "จ.ปราจีนบุรี",
                 "sum_rainfall_48h": 161.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-22T20:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-23T00:00:00+07:00"
             }
         },
         {
@@ -138,7 +38,7 @@
                 "province": "จ.ปราจีนบุรี",
                 "sum_rainfall_48h": 174,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-22T20:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-23T00:00:00+07:00"
             }
         },
         {
@@ -158,7 +58,7 @@
                 "province": "จ.สระแก้ว",
                 "sum_rainfall_48h": 168,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-22T20:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-23T00:00:00+07:00"
             }
         }
     ]
