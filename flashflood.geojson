@@ -18,7 +18,7 @@
                 "province": "จ.ปราจีนบุรี",
                 "sum_rainfall_48h": 161.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-23T00:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-23T03:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.ปราจีนบุรี",
                 "sum_rainfall_48h": 174,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-23T00:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-23T03:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.หนองน้ำใส",
                 "amphoe": "อ.วัฒนานคร",
                 "province": "จ.สระแก้ว",
-                "sum_rainfall_48h": 168,
+                "sum_rainfall_48h": 176,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-23T00:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-23T03:00:00+07:00"
             }
         }
     ]
