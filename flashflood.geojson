@@ -18,7 +18,7 @@
                 "province": "จ.ปราจีนบุรี",
                 "sum_rainfall_48h": 161.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-23T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-23T07:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.ปราจีนบุรี",
                 "sum_rainfall_48h": 174.00000000000003,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-23T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-23T07:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "province": "จ.สระแก้ว",
                 "sum_rainfall_48h": 176,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-23T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-23T07:00:00+07:00"
             }
         }
     ]
