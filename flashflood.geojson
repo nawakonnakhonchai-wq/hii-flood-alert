@@ -16,9 +16,9 @@
                 "tambon": "ต.วัดโคก",
                 "amphoe": "อ.มโนรมย์",
                 "province": "จ.ชัยนาท",
-                "sum_rainfall_48h": 108.4,
+                "sum_rainfall_48h": 108.40000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-24T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.มะขามเฒ่า",
                 "amphoe": "อ.วัดสิงห์",
                 "province": "จ.ชัยนาท",
-                "sum_rainfall_48h": 111,
+                "sum_rainfall_48h": 104,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-24T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "province": "จ.เพชรบุรี",
                 "sum_rainfall_48h": 115,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-24T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
             }
         },
         {
@@ -78,7 +78,7 @@
                 "province": "จ.ราชบุรี",
                 "sum_rainfall_48h": 117.9,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-24T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,89 @@
                 "tambon": "ต.คลองเตย",
                 "amphoe": "อ.คลองเตย",
                 "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 107.5,
+                "sum_rainfall_48h": 127,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-24T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51643,
+                    13.68653
+                ]
+            },
+            "properties": {
+                "station_code": "RF.BKL.02",
+                "station_name": "ส.วัดไทร",
+                "tambon": "ต.บางโคล่",
+                "amphoe": "อ.บางคอแหลม",
+                "province": "จ.กรุงเทพมหานคร",
+                "sum_rainfall_48h": 102.5,
+                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
+                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.60197,
+                    13.70233
+                ]
+            },
+            "properties": {
+                "station_code": "RF.PKN.01",
+                "station_name": "สนข.พระโขนง",
+                "tambon": "ต.บางจาก",
+                "amphoe": "อ.พระโขนง",
+                "province": "จ.กรุงเทพมหานคร",
+                "sum_rainfall_48h": 104.5,
+                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
+                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50586,
+                    13.68207
+                ]
+            },
+            "properties": {
+                "station_code": "RF.RBN.01",
+                "station_name": "สนข.ราษฎร์บูรณะ",
+                "tambon": "ต.ราษฎร์บูรณะ",
+                "amphoe": "อ.ราษฎร์บูรณะ",
+                "province": "จ.กรุงเทพมหานคร",
+                "sum_rainfall_48h": 107,
+                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
+                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52097,
+                    13.67627
+                ]
+            },
+            "properties": {
+                "station_code": "RF.RBN.02",
+                "station_name": "ส.คลองแจงร้อน",
+                "tambon": "ต.บางพึ่ง",
+                "amphoe": "อ.พระประแดง",
+                "province": "จ.สมุทรปราการ",
+                "sum_rainfall_48h": 101.5,
+                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
+                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
             }
         }
     ]
