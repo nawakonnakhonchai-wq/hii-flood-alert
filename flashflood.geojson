@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.10913,
-                    15.3277
-                ]
-            },
-            "properties": {
-                "station_code": "CPY003",
-                "station_name": "ปตร.มโนรมย์",
-                "tambon": "ต.วัดโคก",
-                "amphoe": "อ.มโนรมย์",
-                "province": "จ.ชัยนาท",
-                "sum_rainfall_48h": 108.40000000000002,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.062221,
                     15.222455
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.มะขามเฒ่า",
                 "amphoe": "อ.วัดสิงห์",
                 "province": "จ.ชัยนาท",
-                "sum_rainfall_48h": 104,
+                "sum_rainfall_48h": 103,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
             }
         },
         {
@@ -58,7 +38,7 @@
                 "province": "จ.เพชรบุรี",
                 "sum_rainfall_48h": 115,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
             }
         },
         {
@@ -78,7 +58,7 @@
                 "province": "จ.ราชบุรี",
                 "sum_rainfall_48h": 117.9,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
             }
         },
         {
@@ -98,7 +78,7 @@
                 "province": "จ.กรุงเทพมหานคร",
                 "sum_rainfall_48h": 127,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
             }
         },
         {
@@ -118,7 +98,7 @@
                 "province": "จ.กรุงเทพมหานคร",
                 "sum_rainfall_48h": 102.5,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
             }
         },
         {
@@ -138,7 +118,7 @@
                 "province": "จ.กรุงเทพมหานคร",
                 "sum_rainfall_48h": 104.5,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
             }
         },
         {
@@ -158,7 +138,7 @@
                 "province": "จ.กรุงเทพมหานคร",
                 "sum_rainfall_48h": 107,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
             }
         },
         {
@@ -176,9 +156,9 @@
                 "tambon": "ต.บางพึ่ง",
                 "amphoe": "อ.พระประแดง",
                 "province": "จ.สมุทรปราการ",
-                "sum_rainfall_48h": 101.5,
+                "sum_rainfall_48h": 101,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-24T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
             }
         }
     ]
