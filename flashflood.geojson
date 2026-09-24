@@ -18,7 +18,27 @@
                 "province": "จ.ชัยนาท",
                 "sum_rainfall_48h": 103,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T10:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.14561,
+                    14.370019
+                ]
+            },
+            "properties": {
+                "station_code": "ONE073",
+                "station_name": "โรงเรียนบ้านสายโท ๔ ใต้",
+                "tambon": "ต.จันทบเพชร",
+                "amphoe": "อ.บ้านกรวด",
+                "province": "จ.บุรีรัมย์",
+                "sum_rainfall_48h": 149.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-09-24T10:00:00+07:00"
             }
         },
         {
@@ -38,7 +58,7 @@
                 "province": "จ.เพชรบุรี",
                 "sum_rainfall_48h": 115,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T10:00:00+07:00"
             }
         },
         {
@@ -58,7 +78,7 @@
                 "province": "จ.ราชบุรี",
                 "sum_rainfall_48h": 117.9,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T10:00:00+07:00"
             }
         },
         {
@@ -78,7 +98,7 @@
                 "province": "จ.กรุงเทพมหานคร",
                 "sum_rainfall_48h": 127,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T10:00:00+07:00"
             }
         },
         {
@@ -98,7 +118,7 @@
                 "province": "จ.กรุงเทพมหานคร",
                 "sum_rainfall_48h": 102.5,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T10:00:00+07:00"
             }
         },
         {
@@ -118,7 +138,7 @@
                 "province": "จ.กรุงเทพมหานคร",
                 "sum_rainfall_48h": 104.5,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T10:00:00+07:00"
             }
         },
         {
@@ -138,7 +158,7 @@
                 "province": "จ.กรุงเทพมหานคร",
                 "sum_rainfall_48h": 107,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T10:00:00+07:00"
             }
         },
         {
@@ -158,7 +178,7 @@
                 "province": "จ.สมุทรปราการ",
                 "sum_rainfall_48h": 101,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-09-24T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-24T10:00:00+07:00"
             }
         }
     ]
