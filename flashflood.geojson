@@ -16,7 +16,7 @@
                 "tambon": "ต.โกสัมพี",
                 "amphoe": "อ.โกสัมพีนคร",
                 "province": "จ.กำแพงเพชร",
-                "sum_rainfall_48h": 180,
+                "sum_rainfall_48h": 175.5,
                 "agency": "กรมชลประทาน ",
                 "latest_rainfall_datetime": "2026-09-28T10:00:00+07:00"
             }
@@ -36,9 +36,9 @@
                 "tambon": "ต.โป่งน้ำร้อน",
                 "amphoe": "อ.คลองลาน",
                 "province": "จ.กำแพงเพชร",
-                "sum_rainfall_48h": 110,
+                "sum_rainfall_48h": 104,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.บ้านแปะ",
                 "amphoe": "อ.จอมทอง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 116.19999999999999,
+                "sum_rainfall_48h": 114.39999999999999,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.บ้านหลวง",
                 "amphoe": "อ.จอมทอง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 216.59999999999997,
+                "sum_rainfall_48h": 211.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.เชียงดาว",
                 "amphoe": "อ.เชียงดาว",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 99.80000000000001,
+                "sum_rainfall_48h": 100,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -116,29 +116,9 @@
                 "tambon": "ต.เมืองคอง",
                 "amphoe": "อ.เชียงดาว",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 113,
+                "sum_rainfall_48h": 114.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.75104,
-                    17.81782
-                ]
-            },
-            "properties": {
-                "station_code": "DNP088",
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติแม่ปิงที่ มป.7 (ถ้ำหม้อ)",
-                "tambon": "ต.โปงทุ่ง",
-                "amphoe": "อ.ดอยเต่า",
-                "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 93.60000000000004,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -156,9 +136,9 @@
                 "tambon": "ต.ช้างเผือก",
                 "amphoe": "อ.เมืองเชียงใหม่",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 99.10000000000001,
+                "sum_rainfall_48h": 95.70000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -176,9 +156,9 @@
                 "tambon": "ต.ท่าผา",
                 "amphoe": "อ.แม่แจ่ม",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 159.60000000000002,
+                "sum_rainfall_48h": 150.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -196,9 +176,9 @@
                 "tambon": "ต.แม่นาจร",
                 "amphoe": "อ.แม่แจ่ม",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 117.6,
+                "sum_rainfall_48h": 108.60000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -216,9 +196,29 @@
                 "tambon": "ต.ป่าแป๋",
                 "amphoe": "อ.แม่แตง",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 99.80000000000003,
+                "sum_rainfall_48h": 99.40000000000002,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.181145,
+                    20.080585
+                ]
+            },
+            "properties": {
+                "station_code": "MOU012",
+                "station_name": "หน่วยพิทักษ์อุทยานฯ ที่ ดป.๔ (โครงการบ้านเล็กฯ)",
+                "tambon": "ต.แม่สาว",
+                "amphoe": "อ.แม่อาย",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 102.4,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -236,9 +236,9 @@
                 "tambon": "ต.แม่ตื่น",
                 "amphoe": "อ.อมก๋อย",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 119.39999999999996,
+                "sum_rainfall_48h": 116,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -256,9 +256,9 @@
                 "tambon": "ต.ยางเปียง",
                 "amphoe": "อ.อมก๋อย",
                 "province": "จ.เชียงใหม่",
-                "sum_rainfall_48h": 142.6,
+                "sum_rainfall_48h": 139.8,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -276,29 +276,9 @@
                 "tambon": "ต.แม่ลาน",
                 "amphoe": "อ.ลี้",
                 "province": "จ.ลำพูน",
-                "sum_rainfall_48h": 99.60000000000008,
+                "sum_rainfall_48h": 102.6,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.63576,
-                    14.73758
-                ]
-            },
-            "properties": {
-                "station_code": "MKVKD01",
-                "station_name": "อ.ทองผาภูมิ",
-                "tambon": "ต.ท่าขนุน",
-                "amphoe": "อ.ทองผาภูมิ",
-                "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 116,
-                "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-09-29T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -316,29 +296,9 @@
                 "tambon": "ต.ปีล็อก",
                 "amphoe": "อ.ทองผาภูมิ",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 243.2,
+                "sum_rainfall_48h": 160.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.77193,
-                    14.266877
-                ]
-            },
-            "properties": {
-                "station_code": "MOU451",
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ ทย.6 (เขาพลู)",
-                "tambon": "ต.วังกระแจะ",
-                "amphoe": "อ.ไทรโยค",
-                "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 118.30000000000001,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -356,9 +316,9 @@
                 "tambon": "ต.ไล่โว่",
                 "amphoe": "อ.สังขละบุรี",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 128.2,
+                "sum_rainfall_48h": 113,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -376,9 +336,9 @@
                 "tambon": "ต.แม่สอง",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 181.20000000000005,
+                "sum_rainfall_48h": 181.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -396,9 +356,9 @@
                 "tambon": "ต.แม่หละ",
                 "amphoe": "อ.ท่าสองยาง",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 135.20000000000002,
+                "sum_rainfall_48h": 132.4,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -416,29 +376,9 @@
                 "tambon": "ต.ท้องฟ้า",
                 "amphoe": "อ.บ้านตาก",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 154,
+                "sum_rainfall_48h": 151,
                 "agency": "กรมชลประทาน ",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.92825,
-                    16.775963
-                ]
-            },
-            "properties": {
-                "station_code": "MOU305",
-                "station_name": "ที่ทำการอุทยานแห่งชาติตากสินมหาราช",
-                "tambon": "ต.แม่ท้อ",
-                "amphoe": "อ.เมืองตาก",
-                "province": "จ.ตาก",
-                "sum_rainfall_48h": 102.20000000000003,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         },
         {
@@ -456,49 +396,9 @@
                 "tambon": "ต.หนองบัวใต้",
                 "amphoe": "อ.เมืองตาก",
                 "province": "จ.ตาก",
-                "sum_rainfall_48h": 144.3,
+                "sum_rainfall_48h": 142.7,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.89485,
-                    16.783789
-                ]
-            },
-            "properties": {
-                "station_code": "VLGE45",
-                "station_name": "พิพิธภัณฑ์ธรรมชาติบ้านห้วยปลาหลด",
-                "tambon": "ต.ด่านแม่ละเมา",
-                "amphoe": "อ.แม่สอด",
-                "province": "จ.ตาก",
-                "sum_rainfall_48h": 105.79999999999998,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.01148,
-                    17.37875
-                ]
-            },
-            "properties": {
-                "station_code": "RES050",
-                "station_name": "อ่างเก็บน้ำสองแควหลวง",
-                "tambon": "ต.ยกกระบัตร",
-                "amphoe": "อ.สามเงา",
-                "province": "จ.ตาก",
-                "sum_rainfall_48h": 101.09999999999998,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-09-29T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-09-30T01:00:00+07:00"
             }
         }
     ]
