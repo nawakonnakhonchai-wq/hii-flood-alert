@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    98.87005,
-                    17.67078
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "DNP089",
-                "station_name": "ที่ทำการอุทยานแห่งชาติแม่ปิง",
-                "tambon": "ต.แม่ลาน",
-                "amphoe": "อ.ลี้",
-                "province": "จ.ลำพูน",
-                "sum_rainfall_48h": 91.4,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-10-01T00:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
