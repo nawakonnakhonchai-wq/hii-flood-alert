@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    99.80374,
+                    16.81476
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "SKT004",
+                "station_name": "สะพานบ้านคันแม่น้ำบน",
+                "tambon": "ต.หนองกระดิ่ง",
+                "amphoe": "อ.คีรีมาศ",
+                "province": "จ.สุโขทัย",
+                "sum_rainfall_48h": 102,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-05T03:00:00+07:00"
             }
         }
     ]
