@@ -16,9 +16,29 @@
                 "tambon": "ต.หนองกระดิ่ง",
                 "amphoe": "อ.คีรีมาศ",
                 "province": "จ.สุโขทัย",
-                "sum_rainfall_48h": 102.2,
+                "sum_rainfall_48h": 102.20000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-05T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-05T06:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.03522,
+                    15.97889
+                ]
+            },
+            "properties": {
+                "station_code": "NGPH",
+                "station_name": "ทต.หนองผือ",
+                "tambon": "ต.หนองผือ",
+                "amphoe": "อ.เขมราฐ",
+                "province": "จ.อุบลราชธานี",
+                "sum_rainfall_48h": 127.39999999999998,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-05T06:00:00+07:00"
             }
         }
     ]
