@@ -6,19 +6,419 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    99.455333,
+                    16.458083
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "G09006-TA062902",
+                "station_name": "คลองสวนหมากที่บ้านน้ำโท้ง",
+                "tambon": "ต.ท่าขุนราม",
+                "amphoe": "อ.เมืองกำแพงเพชร",
+                "province": "จ.กำแพงเพชร",
+                "sum_rainfall_48h": 123,
+                "agency": "กรมทรัพยากรน้ำ",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.80374,
+                    16.81476
+                ]
+            },
+            "properties": {
+                "station_code": "SKT004",
+                "station_name": "สะพานบ้านคันแม่น้ำบน",
+                "tambon": "ต.หนองกระดิ่ง",
+                "amphoe": "อ.คีรีมาศ",
+                "province": "จ.สุโขทัย",
+                "sum_rainfall_48h": 105.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.5659,
+                    17.036551
+                ]
+            },
+            "properties": {
+                "station_code": "G09006-TA081601",
+                "station_name": "สะพานบ้านแม่น้ำ",
+                "tambon": "ต.บ้านด่าน",
+                "amphoe": "อ.บ้านด่านลานหอย",
+                "province": "จ.สุโขทัย",
+                "sum_rainfall_48h": 107,
+                "agency": "กรมทรัพยากรน้ำ",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.831277,
+                    17.002894
+                ]
+            },
+            "properties": {
+                "station_code": "G09006-TA081701",
+                "station_name": "สะพานพระแม่ย่า",
+                "tambon": "ต.ธานี",
+                "amphoe": "อ.เมืองสุโขทัย",
+                "province": "จ.สุโขทัย",
+                "sum_rainfall_48h": 104.5,
+                "agency": "กรมทรัพยากรน้ำ",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.486084,
+                    17.24367
+                ]
+            },
+            "properties": {
+                "station_code": "MOU071",
+                "station_name": "ที่ทำการเขตรักษาพันธุ์สัตว์ป่าถ้ำเจ้าราม",
+                "tambon": "ต.นาขุนไกร",
+                "amphoe": "อ.ศรีสำโรง",
+                "province": "จ.สุโขทัย",
+                "sum_rainfall_48h": 115.80000000000001,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.62543,
+                    15.899429
+                ]
+            },
+            "properties": {
+                "station_code": "G09006-TA054403",
+                "station_name": "ลำเซบาย/ลำเซบก",
+                "tambon": "ต.บุ่ง",
+                "amphoe": "อ.เมืองอำนาจเจริญ",
+                "province": "จ.อำนาจเจริญ",
+                "sum_rainfall_48h": 132.5,
+                "agency": "กรมทรัพยากรน้ำ",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.03522,
+                    15.97889
+                ]
+            },
+            "properties": {
+                "station_code": "NGPH",
+                "station_name": "ทต.หนองผือ",
+                "tambon": "ต.หนองผือ",
+                "amphoe": "อ.เขมราฐ",
+                "province": "จ.อุบลราชธานี",
+                "sum_rainfall_48h": 127.20000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.52239,
+                    18.533205
+                ]
+            },
+            "properties": {
+                "station_code": "MOU050",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่กลาง",
+                "tambon": "ต.บ้านหลวง",
+                "amphoe": "อ.จอมทอง",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 140.20000000000002,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.46656,
+                    18.36419
+                ]
+            },
+            "properties": {
+                "station_code": "MOU056",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์สวนป่าสิริกิติ์",
+                "tambon": "ต.กองแขก",
+                "amphoe": "อ.แม่แจ่ม",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 94.40000000000002,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.5005,
+                    18.507107
+                ]
+            },
+            "properties": {
+                "station_code": "MOU269",
+                "station_name": "หน่วยจัดการต้นน้ำและพัฒนาชุมชนในพื้นที่ป่าอนุรักษ์แม่อวม",
+                "tambon": "ต.ท่าผา",
+                "amphoe": "อ.แม่แจ่ม",
+                "province": "จ.เชียงใหม่",
+                "sum_rainfall_48h": 116.8,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50524,
+                    18.277527
+                ]
+            },
+            "properties": {
+                "station_code": "MOU241",
+                "station_name": "สถานีวิจัยต้นน้ำขุนสถาน",
+                "tambon": "ต.สันทะ",
+                "amphoe": "อ.นาน้อย",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 122.39999999999998,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.43501,
+                    18.85289
+                ]
+            },
+            "properties": {
+                "station_code": "BLUG",
+                "station_name": "สนามกีฬา อบต.ป่าคาหลวง",
+                "tambon": "ต.ป่าคาหลวง",
+                "amphoe": "อ.บ้านหลวง",
+                "province": "จ.น่าน",
+                "sum_rainfall_48h": 102.00000000000001,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.45062,
+                    19.393639
+                ]
+            },
+            "properties": {
+                "station_code": "MOU066",
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติ ที่ สก. 2 (ภูลังกา)",
+                "tambon": "ต.ผาช้างน้อย",
+                "amphoe": "อ.ปง",
+                "province": "จ.พะเยา",
+                "sum_rainfall_48h": 97.40000000000002,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.1794,
+                    17.7567
+                ]
+            },
+            "properties": {
+                "station_code": "MOU321",
+                "station_name": "สถานีวิจัยต้นน้ำวัง",
+                "tambon": "ต.แม่ถอด",
+                "amphoe": "อ.เถิน",
+                "province": "จ.ลำปาง",
+                "sum_rainfall_48h": 93.8,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.44414,
+                    14.06024
+                ]
+            },
+            "properties": {
+                "station_code": "MKSND02",
+                "station_name": "บ้านหนองบัว (K.35A)",
+                "tambon": "ต.หนองบัว",
+                "amphoe": "อ.เมืองกาญจนบุรี",
+                "province": "จ.กาญจนบุรี",
+                "sum_rainfall_48h": 153,
+                "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+                "latest_rainfall_datetime": "2026-10-06T03:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.01148,
+                    17.37875
+                ]
+            },
+            "properties": {
+                "station_code": "RES050",
+                "station_name": "อ่างเก็บน้ำสองแควหลวง",
+                "tambon": "ต.ยกกระบัตร",
+                "amphoe": "อ.สามเงา",
+                "province": "จ.ตาก",
+                "sum_rainfall_48h": 113.80000000000003,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.81099,
+                    6.22419
+                ]
+            },
+            "properties": {
+                "station_code": "STH025",
+                "station_name": "สำนักงานเกษตรอำเภอเจาะไอร้อง",
+                "tambon": "ต.จวบ",
+                "amphoe": "อ.เจาะไอร้อง",
+                "province": "จ.นราธิวาส",
+                "sum_rainfall_48h": 172.20000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.88212,
+                    5.92874
+                ]
+            },
+            "properties": {
+                "station_code": "G09006-TA210701",
+                "station_name": "โรงเรียนบ้านแว้ง",
+                "tambon": "ต.แว้ง",
+                "amphoe": "อ.แว้ง",
+                "province": "จ.นราธิวาส",
+                "sum_rainfall_48h": 153.5,
+                "agency": "กรมทรัพยากรน้ำ",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.95814,
+                    6.00509
+                ]
+            },
+            "properties": {
+                "station_code": "STH010",
+                "station_name": "ทต.สุไหงโก-ลก",
+                "tambon": "ต.สุไหงโก-ลก",
+                "amphoe": "อ.สุไหงโก-ลก",
+                "province": "จ.นราธิวาส",
+                "sum_rainfall_48h": 186.79999999999998,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.62211,
+                    6.7072
+                ]
+            },
+            "properties": {
+                "station_code": "G09006-TA210508",
+                "station_name": "4157-แม่น้ำสายบุรี",
+                "tambon": "ต.ตะลุบัน",
+                "amphoe": "อ.สายบุรี",
+                "province": "จ.ปัตตานี",
+                "sum_rainfall_48h": 161.5,
+                "agency": "กรมทรัพยากรน้ำ",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.63952,
+                    13.93183
+                ]
+            },
+            "properties": {
+                "station_code": "BKK020",
+                "station_name": "คลองลาดพร้าว ปากคลอง2สายใต้",
+                "tambon": "ต.ลาดพร้าว",
+                "amphoe": "อ.ลาดพร้าว",
+                "province": "จ.กรุงเทพมหานคร",
+                "sum_rainfall_48h": 126.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-06T04:00:00+07:00"
             }
         }
     ]
