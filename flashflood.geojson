@@ -18,7 +18,27 @@
                 "province": "จ.สุโขทัย",
                 "sum_rainfall_48h": 102.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-05T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-05T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.62543,
+                    15.899429
+                ]
+            },
+            "properties": {
+                "station_code": "G09006-TA054403",
+                "station_name": "ลำเซบาย/ลำเซบก",
+                "tambon": "ต.บุ่ง",
+                "amphoe": "อ.เมืองอำนาจเจริญ",
+                "province": "จ.อำนาจเจริญ",
+                "sum_rainfall_48h": 132.5,
+                "agency": "กรมทรัพยากรน้ำ",
+                "latest_rainfall_datetime": "2026-10-05T12:00:00+07:00"
             }
         },
         {
@@ -36,9 +56,9 @@
                 "tambon": "ต.หนองผือ",
                 "amphoe": "อ.เขมราฐ",
                 "province": "จ.อุบลราชธานี",
-                "sum_rainfall_48h": 127.8,
+                "sum_rainfall_48h": 127.79999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-05T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-05T12:00:00+07:00"
             }
         }
     ]
