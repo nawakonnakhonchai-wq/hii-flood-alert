@@ -6,139 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.455333,
-                    16.458083
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "G09006-TA062902",
-                "station_name": "คลองสวนหมากที่บ้านน้ำโท้ง",
-                "tambon": "ต.ท่าขุนราม",
-                "amphoe": "อ.เมืองกำแพงเพชร",
-                "province": "จ.กำแพงเพชร",
-                "sum_rainfall_48h": 122.5,
-                "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-10-07T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.41518,
-                    13.9382
-                ]
-            },
-            "properties": {
-                "station_code": "MKVKD06",
-                "station_name": "บ้านวังเย็น (K.37)",
-                "tambon": "ต.กลอนโด",
-                "amphoe": "อ.ด่านมะขามเตี้ย",
-                "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 120,
-                "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-10-07T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.49628,
-                    13.94239
-                ]
-            },
-            "properties": {
-                "station_code": "KOSR",
-                "station_name": "อบต.เกาะสำโรง",
-                "tambon": "ต.เกาะสำโรง",
-                "amphoe": "อ.เมืองกาญจนบุรี",
-                "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 102.40000000000002,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-07T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.44414,
-                    14.06024
-                ]
-            },
-            "properties": {
-                "station_code": "MKSND02",
-                "station_name": "บ้านหนองบัว (K.35A)",
-                "tambon": "ต.หนองบัว",
-                "amphoe": "อ.เมืองกาญจนบุรี",
-                "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 128,
-                "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-10-07T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.81099,
-                    6.22419
-                ]
-            },
-            "properties": {
-                "station_code": "STH025",
-                "station_name": "สำนักงานเกษตรอำเภอเจาะไอร้อง",
-                "tambon": "ต.จวบ",
-                "amphoe": "อ.เจาะไอร้อง",
-                "province": "จ.นราธิวาส",
-                "sum_rainfall_48h": 173.99999999999997,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-07T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.95814,
-                    6.00509
-                ]
-            },
-            "properties": {
-                "station_code": "STH010",
-                "station_name": "ทต.สุไหงโก-ลก",
-                "tambon": "ต.สุไหงโก-ลก",
-                "amphoe": "อ.สุไหงโก-ลก",
-                "province": "จ.นราธิวาส",
-                "sum_rainfall_48h": 180.59999999999997,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-07T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.62211,
-                    6.7072
-                ]
-            },
-            "properties": {
-                "station_code": "G09006-TA210508",
-                "station_name": "4157-แม่น้ำสายบุรี",
-                "tambon": "ต.ตะลุบัน",
-                "amphoe": "อ.สายบุรี",
-                "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 162,
-                "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-10-07T16:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
