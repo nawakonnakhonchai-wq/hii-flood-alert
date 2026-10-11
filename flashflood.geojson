@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    99.68775,
+                    13.16995
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "BCAP",
+                "station_name": "อบต.หนองญ้าปล้อง",
+                "tambon": "ต.หนองหญ้าปล้อง",
+                "amphoe": "อ.หนองหญ้าปล้อง",
+                "province": "จ.เพชรบุรี",
+                "sum_rainfall_48h": 123.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-11T06:00:00+07:00"
             }
         }
     ]
