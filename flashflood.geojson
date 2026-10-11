@@ -6,6 +6,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    99.97034,
+                    13.0146
+                ]
+            },
+            "properties": {
+                "station_code": "RCHM",
+                "station_name": "อบต.ดอนยาง",
+                "tambon": "ต.ดอนยาง",
+                "amphoe": "อ.เมืองเพชรบุรี",
+                "province": "จ.เพชรบุรี",
+                "sum_rainfall_48h": 131,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-11T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.94393,
+                    13.08562
+                ]
+            },
+            "properties": {
+                "station_code": "PCH001",
+                "station_name": "เมืองเพชรบุรี",
+                "tambon": "ต.ต้นมะม่วง",
+                "amphoe": "อ.เมืองเพชรบุรี",
+                "province": "จ.เพชรบุรี",
+                "sum_rainfall_48h": 149.8,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-11T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     99.68775,
                     13.16995
                 ]
@@ -16,9 +56,89 @@
                 "tambon": "ต.หนองหญ้าปล้อง",
                 "amphoe": "อ.หนองหญ้าปล้อง",
                 "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 123.4,
+                "sum_rainfall_48h": 153.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-11T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-11T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.4988,
+                    13.2724
+                ]
+            },
+            "properties": {
+                "station_code": "MOU345",
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ ทจ.2 (บางกะม่า)",
+                "tambon": "ต.บ้านบึง",
+                "amphoe": "อ.บ้านคา",
+                "province": "จ.ราชบุรี",
+                "sum_rainfall_48h": 107.00000000000001,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-11T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.67017,
+                    13.43388
+                ]
+            },
+            "properties": {
+                "station_code": "VLGE30",
+                "station_name": "บ้านหนองตาจอน",
+                "tambon": "ต.ทุ่งหลวง",
+                "amphoe": "อ.ปากท่อ",
+                "province": "จ.ราชบุรี",
+                "sum_rainfall_48h": 126.8,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-11T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.65333,
+                    13.242124
+                ]
+            },
+            "properties": {
+                "station_code": "ONE078",
+                "station_name": "วัดวังปลาช่อน",
+                "tambon": "ต.ยางหัก",
+                "amphoe": "อ.ปากท่อ",
+                "province": "จ.ราชบุรี",
+                "sum_rainfall_48h": 112.99999999999999,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-11T12:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.555,
+                    13.4169
+                ]
+            },
+            "properties": {
+                "station_code": "MOU453",
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ ทจ.1 (ห้วยต้นห้าง)",
+                "tambon": "ต.อ่างหิน",
+                "amphoe": "อ.ปากท่อ",
+                "province": "จ.ราชบุรี",
+                "sum_rainfall_48h": 100.10000000000001,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-10-11T12:00:00+07:00"
             }
         }
     ]
