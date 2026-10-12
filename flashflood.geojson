@@ -18,7 +18,7 @@
                 "province": "จ.เพชรบุรี",
                 "sum_rainfall_48h": 120,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-12T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-12T16:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.ดอนยาง",
                 "amphoe": "อ.เมืองเพชรบุรี",
                 "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 137.00000000000003,
+                "sum_rainfall_48h": 137,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-12T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-12T16:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.ต้นมะม่วง",
                 "amphoe": "อ.เมืองเพชรบุรี",
                 "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 152.4,
+                "sum_rainfall_48h": 152.39999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-12T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-12T16:00:00+07:00"
             }
         },
         {
@@ -76,29 +76,9 @@
                 "tambon": "ต.หนองหญ้าปล้อง",
                 "amphoe": "อ.หนองหญ้าปล้อง",
                 "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 159.4,
+                "sum_rainfall_48h": 159.39999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-12T09:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.4988,
-                    13.2724
-                ]
-            },
-            "properties": {
-                "station_code": "MOU345",
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ ทจ.2 (บางกะม่า)",
-                "tambon": "ต.บ้านบึง",
-                "amphoe": "อ.บ้านคา",
-                "province": "จ.ราชบุรี",
-                "sum_rainfall_48h": 119.00000000000001,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-12T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-12T16:00:00+07:00"
             }
         },
         {
@@ -116,9 +96,9 @@
                 "tambon": "ต.ทุ่งหลวง",
                 "amphoe": "อ.ปากท่อ",
                 "province": "จ.ราชบุรี",
-                "sum_rainfall_48h": 130.6,
+                "sum_rainfall_48h": 124.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-12T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-12T16:00:00+07:00"
             }
         },
         {
@@ -136,9 +116,9 @@
                 "tambon": "ต.ยางหัก",
                 "amphoe": "อ.ปากท่อ",
                 "province": "จ.ราชบุรี",
-                "sum_rainfall_48h": 117.4,
+                "sum_rainfall_48h": 111.39999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-12T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-12T16:00:00+07:00"
             }
         },
         {
@@ -156,9 +136,9 @@
                 "tambon": "ต.อ่างหิน",
                 "amphoe": "อ.ปากท่อ",
                 "province": "จ.ราชบุรี",
-                "sum_rainfall_48h": 117.5,
+                "sum_rainfall_48h": 110.30000000000001,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-10-12T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-12T16:00:00+07:00"
             }
         }
     ]
