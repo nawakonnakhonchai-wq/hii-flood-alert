@@ -6,39 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.97034,
-                    13.0146
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "RCHM",
-                "station_name": "อบต.ดอนยาง",
-                "tambon": "ต.ดอนยาง",
-                "amphoe": "อ.เมืองเพชรบุรี",
-                "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 110,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-13T08:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.94393,
-                    13.08562
-                ]
-            },
-            "properties": {
-                "station_code": "PCH001",
-                "station_name": "เมืองเพชรบุรี",
-                "tambon": "ต.ต้นมะม่วง",
-                "amphoe": "อ.เมืองเพชรบุรี",
-                "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 146.60000000000002,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-13T08:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
