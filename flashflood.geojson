@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    99.96114,
+                    14.38422
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "KYKT",
+                "station_name": "ทต.เจดีย์",
+                "tambon": "ต.เจดีย์",
+                "amphoe": "อ.อู่ทอง",
+                "province": "จ.สุพรรณบุรี",
+                "sum_rainfall_48h": 102.19999999999999,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-14T05:00:00+07:00"
             }
         }
     ]
