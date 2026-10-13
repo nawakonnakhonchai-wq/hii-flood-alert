@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.982754,
-                    13.212777
-                ]
-            },
-            "properties": {
-                "station_code": "ridtele_TPB15",
-                "station_name": "บ้านแหลม",
-                "tambon": "ต.บ้านแหลม",
-                "amphoe": "อ.บ้านแหลม",
-                "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 112,
-                "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-13T04:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     99.97034,
                     13.0146
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.ดอนยาง",
                 "amphoe": "อ.เมืองเพชรบุรี",
                 "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 115.60000000000002,
+                "sum_rainfall_48h": 110,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-13T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-13T08:00:00+07:00"
             }
         },
         {
@@ -56,49 +36,9 @@
                 "tambon": "ต.ต้นมะม่วง",
                 "amphoe": "อ.เมืองเพชรบุรี",
                 "province": "จ.เพชรบุรี",
-                "sum_rainfall_48h": 153.4,
+                "sum_rainfall_48h": 146.60000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-13T04:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.67017,
-                    13.43388
-                ]
-            },
-            "properties": {
-                "station_code": "VLGE30",
-                "station_name": "บ้านหนองตาจอน",
-                "tambon": "ต.ทุ่งหลวง",
-                "amphoe": "อ.ปากท่อ",
-                "province": "จ.ราชบุรี",
-                "sum_rainfall_48h": 120.2,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-13T04:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.555,
-                    13.4169
-                ]
-            },
-            "properties": {
-                "station_code": "MOU453",
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ ทจ.1 (ห้วยต้นห้าง)",
-                "tambon": "ต.อ่างหิน",
-                "amphoe": "อ.ปากท่อ",
-                "province": "จ.ราชบุรี",
-                "sum_rainfall_48h": 106.9,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-10-13T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-13T08:00:00+07:00"
             }
         }
     ]
