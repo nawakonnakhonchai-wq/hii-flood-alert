@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    99.37758,
+                    14.89012
+                ]
+            },
+            "properties": {
+                "station_code": "SWR003",
+                "station_name": "อบต.วังยาว",
+                "tambon": "ต.วังยาว",
+                "amphoe": "อ.ด่านช้าง",
+                "province": "จ.สุพรรณบุรี",
+                "sum_rainfall_48h": 116.6,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-14T10:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     99.96114,
                     14.38422
                 ]
@@ -16,9 +36,9 @@
                 "tambon": "ต.เจดีย์",
                 "amphoe": "อ.อู่ทอง",
                 "province": "จ.สุพรรณบุรี",
-                "sum_rainfall_48h": 116.39999999999998,
+                "sum_rainfall_48h": 123.99999999999997,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-14T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-14T10:00:00+07:00"
             }
         }
     ]
