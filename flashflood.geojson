@@ -18,7 +18,7 @@
                 "province": "จ.สุพรรณบุรี",
                 "sum_rainfall_48h": 131.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-15T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-15T08:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.เจดีย์",
                 "amphoe": "อ.อู่ทอง",
                 "province": "จ.สุพรรณบุรี",
-                "sum_rainfall_48h": 124.19999999999999,
+                "sum_rainfall_48h": 124.19999999999997,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-15T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-15T08:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "province": "จ.กาญจนบุรี",
                 "sum_rainfall_48h": 136,
                 "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-10-15T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-15T07:00:00+07:00"
             }
         }
     ]
