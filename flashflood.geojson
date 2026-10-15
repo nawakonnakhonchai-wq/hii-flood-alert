@@ -16,9 +16,9 @@
                 "tambon": "ต.วังยาว",
                 "amphoe": "อ.ด่านช้าง",
                 "province": "จ.สุพรรณบุรี",
-                "sum_rainfall_48h": 136.4,
+                "sum_rainfall_48h": 137.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-15T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-15T20:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,29 @@
                 "tambon": "ต.เจดีย์",
                 "amphoe": "อ.อู่ทอง",
                 "province": "จ.สุพรรณบุรี",
-                "sum_rainfall_48h": 126,
+                "sum_rainfall_48h": 107.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-15T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-15T20:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.51935,
+                    15.08265
+                ]
+            },
+            "properties": {
+                "station_code": "BARI",
+                "station_name": "ศูนย์อปพร. อบต.บ้านไร่",
+                "tambon": "ต.บ้านไร่",
+                "amphoe": "อ.บ้านไร่",
+                "province": "จ.อุทัยธานี",
+                "sum_rainfall_48h": 100.60000000000001,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-15T20:00:00+07:00"
             }
         },
         {
@@ -58,7 +78,7 @@
                 "province": "จ.อุทัยธานี",
                 "sum_rainfall_48h": 105.80000000000001,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-15T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-15T20:00:00+07:00"
             }
         },
         {
@@ -78,7 +98,7 @@
                 "province": "จ.กาญจนบุรี",
                 "sum_rainfall_48h": 136,
                 "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-10-15T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-15T19:00:00+07:00"
             }
         }
     ]
