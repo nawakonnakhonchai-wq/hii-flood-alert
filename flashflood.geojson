@@ -16,69 +16,9 @@
                 "tambon": "ต.วังยาว",
                 "amphoe": "อ.ด่านช้าง",
                 "province": "จ.สุพรรณบุรี",
-                "sum_rainfall_48h": 137.2,
+                "sum_rainfall_48h": 103.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-15T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.96114,
-                    14.38422
-                ]
-            },
-            "properties": {
-                "station_code": "KYKT",
-                "station_name": "ทต.เจดีย์",
-                "tambon": "ต.เจดีย์",
-                "amphoe": "อ.อู่ทอง",
-                "province": "จ.สุพรรณบุรี",
-                "sum_rainfall_48h": 107.6,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-15T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.51935,
-                    15.08265
-                ]
-            },
-            "properties": {
-                "station_code": "BARI",
-                "station_name": "ศูนย์อปพร. อบต.บ้านไร่",
-                "tambon": "ต.บ้านไร่",
-                "amphoe": "อ.บ้านไร่",
-                "province": "จ.อุทัยธานี",
-                "sum_rainfall_48h": 100.60000000000001,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-15T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.60969,
-                    15.30362
-                ]
-            },
-            "properties": {
-                "station_code": "HIKT",
-                "station_name": "อบต.ห้วยคต",
-                "tambon": "ต.ห้วยคต",
-                "amphoe": "อ.ห้วยคต",
-                "province": "จ.อุทัยธานี",
-                "sum_rainfall_48h": 105.80000000000001,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-15T20:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-16T00:00:00+07:00"
             }
         },
         {
@@ -96,9 +36,29 @@
                 "tambon": "ต.เขาโจด",
                 "amphoe": "อ.ศรีสวัสดิ์",
                 "province": "จ.กาญจนบุรี",
-                "sum_rainfall_48h": 136,
+                "sum_rainfall_48h": 101,
                 "agency": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
-                "latest_rainfall_datetime": "2026-10-15T19:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-15T23:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.08304,
+                    8.45064
+                ]
+            },
+            "properties": {
+                "station_code": "CBUR",
+                "station_name": "อบต.ชัยบุรี",
+                "tambon": "ต.ชัยบุรี",
+                "amphoe": "อ.ชัยบุรี",
+                "province": "จ.สุราษฎร์ธานี",
+                "sum_rainfall_48h": 249.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-16T00:00:00+07:00"
             }
         }
     ]
