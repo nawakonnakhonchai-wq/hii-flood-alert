@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    103.525551,
+                    18.314566
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_TKS.120",
+                "station_name": "บ้านโป่งเปื่อย",
+                "tambon": "ต.โป่งเปือย",
+                "amphoe": "อ.เมืองบึงกาฬ",
+                "province": "จ.บึงกาฬ",
+                "sum_rainfall_48h": 302,
+                "agency": "กรมชลประทาน",
+                "latest_rainfall_datetime": "2026-10-16T23:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     99.08304,
                     8.45064
                 ]
@@ -16,9 +36,9 @@
                 "tambon": "ต.ชัยบุรี",
                 "amphoe": "อ.ชัยบุรี",
                 "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 156.60000000000002,
+                "sum_rainfall_48h": 176.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-16T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-16T22:00:00+07:00"
             }
         }
     ]
