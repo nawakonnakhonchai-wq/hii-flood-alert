@@ -6,39 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    103.525551,
-                    18.314566
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "ridtele_TKS.120",
-                "station_name": "บ้านโป่งเปื่อย",
-                "tambon": "ต.โป่งเปือย",
-                "amphoe": "อ.เมืองบึงกาฬ",
-                "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 377,
-                "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-16T23:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.08304,
-                    8.45064
-                ]
-            },
-            "properties": {
-                "station_code": "CBUR",
-                "station_name": "อบต.ชัยบุรี",
-                "tambon": "ต.ชัยบุรี",
-                "amphoe": "อ.ชัยบุรี",
-                "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 177.8,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-17T01:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
