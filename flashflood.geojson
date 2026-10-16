@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.08304,
-                    8.45064
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "CBUR",
-                "station_name": "อบต.ชัยบุรี",
-                "tambon": "ต.ชัยบุรี",
-                "amphoe": "อ.ชัยบุรี",
-                "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 249.40000000000003,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-16T04:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
