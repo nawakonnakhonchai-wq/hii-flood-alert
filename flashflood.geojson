@@ -16,9 +16,9 @@
                 "tambon": "ต.หลักสอง",
                 "amphoe": "อ.บางแค",
                 "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 137.4,
+                "sum_rainfall_48h": 138.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-18T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-18T04:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.หนองแขม",
                 "amphoe": "อ.หนองแขม",
                 "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 120.5,
+                "sum_rainfall_48h": 122.5,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-10-18T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-18T04:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.บางยาง",
                 "amphoe": "อ.กระทุ่มแบน",
                 "province": "จ.สมุทรสาคร",
-                "sum_rainfall_48h": 120,
+                "sum_rainfall_48h": 124,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-18T01:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-18T04:00:00+07:00"
             }
         }
     ]
