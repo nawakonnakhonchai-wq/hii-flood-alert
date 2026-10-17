@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    103.525551,
-                    18.314566
-                ]
-            },
-            "properties": {
-                "station_code": "ridtele_TKS.120",
-                "station_name": "บ้านโป่งเปื่อย",
-                "tambon": "ต.โป่งเปือย",
-                "amphoe": "อ.เมืองบึงกาฬ",
-                "province": "จ.บึงกาฬ",
-                "sum_rainfall_48h": 377,
-                "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-17T09:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     99.08304,
                     8.45064
                 ]
@@ -36,9 +16,49 @@
                 "tambon": "ต.ชัยบุรี",
                 "amphoe": "อ.ชัยบุรี",
                 "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 179.60000000000002,
+                "sum_rainfall_48h": 179.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-17T09:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-17T15:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.38097,
+                    13.69168
+                ]
+            },
+            "properties": {
+                "station_code": "RF.NKM.02",
+                "station_name": "จุดวัด ค.ทวีฯ-ค.ภาษีฯ",
+                "tambon": "ต.หนองแขม",
+                "amphoe": "อ.หนองแขม",
+                "province": "จ.กรุงเทพมหานคร",
+                "sum_rainfall_48h": 118.5,
+                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
+                "latest_rainfall_datetime": "2026-10-17T15:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.223332,
+                    13.662052
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_TTC09",
+                "station_name": "วัดท่ากระบือ",
+                "tambon": "ต.บางยาง",
+                "amphoe": "อ.กระทุ่มแบน",
+                "province": "จ.สมุทรสาคร",
+                "sum_rainfall_48h": 120,
+                "agency": "กรมชลประทาน",
+                "latest_rainfall_datetime": "2026-10-17T15:00:00+07:00"
             }
         }
     ]
