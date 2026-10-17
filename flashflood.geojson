@@ -6,19 +6,59 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    100.38127,
+                    13.69158
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "BKK005",
+                "station_name": "คลองภาษีเจริญ เพชรเกษม69",
+                "tambon": "ต.หลักสอง",
+                "amphoe": "อ.บางแค",
+                "province": "จ.กรุงเทพมหานคร",
+                "sum_rainfall_48h": 137.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-18T01:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.38097,
+                    13.69168
+                ]
+            },
+            "properties": {
+                "station_code": "RF.NKM.02",
+                "station_name": "จุดวัด ค.ทวีฯ-ค.ภาษีฯ",
+                "tambon": "ต.หนองแขม",
+                "amphoe": "อ.หนองแขม",
+                "province": "จ.กรุงเทพมหานคร",
+                "sum_rainfall_48h": 120.5,
+                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
+                "latest_rainfall_datetime": "2026-10-18T01:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.223332,
+                    13.662052
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_TTC09",
+                "station_name": "วัดท่ากระบือ",
+                "tambon": "ต.บางยาง",
+                "amphoe": "อ.กระทุ่มแบน",
+                "province": "จ.สมุทรสาคร",
+                "sum_rainfall_48h": 120,
+                "agency": "กรมชลประทาน",
+                "latest_rainfall_datetime": "2026-10-18T01:00:00+07:00"
             }
         }
     ]
