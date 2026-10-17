@@ -18,7 +18,7 @@
                 "province": "จ.บึงกาฬ",
                 "sum_rainfall_48h": 377,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-16T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-17T09:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.ชัยบุรี",
                 "amphoe": "อ.ชัยบุรี",
                 "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 177.8,
+                "sum_rainfall_48h": 179.60000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-17T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-17T09:00:00+07:00"
             }
         }
     ]
