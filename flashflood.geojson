@@ -16,9 +16,9 @@
                 "tambon": "ต.หลักสอง",
                 "amphoe": "อ.บางแค",
                 "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 139.2,
+                "sum_rainfall_48h": 115.19999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-18T11:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-18T16:00:00+07:00"
             }
         },
         {
@@ -36,29 +36,9 @@
                 "tambon": "ต.หนองแขม",
                 "amphoe": "อ.หนองแขม",
                 "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 124,
+                "sum_rainfall_48h": 103.5,
                 "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-10-18T11:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.223332,
-                    13.662052
-                ]
-            },
-            "properties": {
-                "station_code": "ridtele_TTC09",
-                "station_name": "วัดท่ากระบือ",
-                "tambon": "ต.บางยาง",
-                "amphoe": "อ.กระทุ่มแบน",
-                "province": "จ.สมุทรสาคร",
-                "sum_rainfall_48h": 124,
-                "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-18T11:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-18T16:00:00+07:00"
             }
         }
     ]
