@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    99.71081,
+                    11.93596
+                ]
+            },
+            "properties": {
+                "station_code": "ONE074",
+                "station_name": "วัดนิคมประชาสรรค์ (วัดวังไทรดิ่ง)",
+                "tambon": "ต.อ่าวน้อย",
+                "amphoe": "อ.เมืองประจวบคีรีขันธ์",
+                "province": "จ.ประจวบคีรีขันธ์",
+                "sum_rainfall_48h": 112.60000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-20T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     101.6709,
                     6.3837
                 ]
@@ -16,9 +36,9 @@
                 "tambon": "ต.จอเบาะ",
                 "amphoe": "อ.ยี่งอ",
                 "province": "จ.นราธิวาส",
-                "sum_rainfall_48h": 150.20000000000002,
+                "sum_rainfall_48h": 152.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-20T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-20T04:00:00+07:00"
             }
         },
         {
@@ -36,9 +56,9 @@
                 "tambon": "ต.แว้ง",
                 "amphoe": "อ.แว้ง",
                 "province": "จ.นราธิวาส",
-                "sum_rainfall_48h": 160.2,
+                "sum_rainfall_48h": 160.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-20T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-20T04:00:00+07:00"
             }
         },
         {
@@ -56,9 +76,9 @@
                 "tambon": "ต.ไทรทอง",
                 "amphoe": "อ.ไม้แก่น",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 154.40000000000003,
+                "sum_rainfall_48h": 156,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-20T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-20T04:00:00+07:00"
             }
         },
         {
@@ -76,9 +96,9 @@
                 "tambon": "ต.มะนังดาลำ",
                 "amphoe": "อ.สายบุรี",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 189.39999999999998,
+                "sum_rainfall_48h": 192,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-20T02:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-20T04:00:00+07:00"
             }
         }
     ]
