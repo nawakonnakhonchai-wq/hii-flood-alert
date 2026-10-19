@@ -6,39 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.38127,
-                    13.69158
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "BKK005",
-                "station_name": "คลองภาษีเจริญ เพชรเกษม69",
-                "tambon": "ต.หลักสอง",
-                "amphoe": "อ.บางแค",
-                "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 115.2,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-19T07:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.38097,
-                    13.69168
-                ]
-            },
-            "properties": {
-                "station_code": "RF.NKM.02",
-                "station_name": "จุดวัด ค.ทวีฯ-ค.ภาษีฯ",
-                "tambon": "ต.หนองแขม",
-                "amphoe": "อ.หนองแขม",
-                "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 103.5,
-                "agency": "สำนักการระบายน้ำ กรุงเทพมหานคร",
-                "latest_rainfall_datetime": "2026-10-19T07:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
