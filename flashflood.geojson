@@ -18,7 +18,47 @@
                 "province": "จ.ประจวบคีรีขันธ์",
                 "sum_rainfall_48h": 150.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-20T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-20T21:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6709,
+                    6.3837
+                ]
+            },
+            "properties": {
+                "station_code": "TBV024",
+                "station_name": "องค์การบริหารส่วนตำบลจอเบาะ",
+                "tambon": "ต.จอเบาะ",
+                "amphoe": "อ.ยี่งอ",
+                "province": "จ.นราธิวาส",
+                "sum_rainfall_48h": 166.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-20T21:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.95814,
+                    6.00509
+                ]
+            },
+            "properties": {
+                "station_code": "STH010",
+                "station_name": "ทต.สุไหงโก-ลก",
+                "tambon": "ต.สุไหงโก-ลก",
+                "amphoe": "อ.สุไหงโก-ลก",
+                "province": "จ.นราธิวาส",
+                "sum_rainfall_48h": 161.6,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-20T21:00:00+07:00"
             }
         },
         {
@@ -36,9 +76,29 @@
                 "tambon": "ต.ไทรทอง",
                 "amphoe": "อ.ไม้แก่น",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 151.4,
+                "sum_rainfall_48h": 157.39999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-20T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-20T21:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.28314,
+                    6.71118
+                ]
+            },
+            "properties": {
+                "station_code": "TBV017",
+                "station_name": "แม่น้ำปัตตานี",
+                "tambon": "ต.คลองใหม่",
+                "amphoe": "อ.ยะรัง",
+                "province": "จ.ปัตตานี",
+                "sum_rainfall_48h": 174.00000000000003,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-20T21:00:00+07:00"
             }
         },
         {
@@ -56,9 +116,9 @@
                 "tambon": "ต.มะนังดาลำ",
                 "amphoe": "อ.สายบุรี",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 192.39999999999998,
+                "sum_rainfall_48h": 209.59999999999997,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-20T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-20T21:00:00+07:00"
             }
         }
     ]
