@@ -6,19 +6,59 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    99.71081,
+                    11.93596
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "ONE074",
+                "station_name": "วัดนิคมประชาสรรค์ (วัดวังไทรดิ่ง)",
+                "tambon": "ต.อ่าวน้อย",
+                "amphoe": "อ.เมืองประจวบคีรีขันธ์",
+                "province": "จ.ประจวบคีรีขันธ์",
+                "sum_rainfall_48h": 150.8,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-20T16:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.66753,
+                    6.61046
+                ]
+            },
+            "properties": {
+                "station_code": "STH027",
+                "station_name": "ที่ว่าการอำเภอไม้แก่น",
+                "tambon": "ต.ไทรทอง",
+                "amphoe": "อ.ไม้แก่น",
+                "province": "จ.ปัตตานี",
+                "sum_rainfall_48h": 151.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-20T16:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.60943,
+                    6.67271
+                ]
+            },
+            "properties": {
+                "station_code": "MUNG",
+                "station_name": "อบต.มะนังดาลำ",
+                "tambon": "ต.มะนังดาลำ",
+                "amphoe": "อ.สายบุรี",
+                "province": "จ.ปัตตานี",
+                "sum_rainfall_48h": 192.39999999999998,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-20T16:00:00+07:00"
             }
         }
     ]
