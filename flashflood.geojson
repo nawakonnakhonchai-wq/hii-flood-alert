@@ -6,99 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.95777,
-                    12.56669
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "HHN001",
-                "station_name": "สำนักงานเทศบาลนครหัวหิน",
-                "tambon": "ต.หัวหิน",
-                "amphoe": "อ.หัวหิน",
-                "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 123.8,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-21T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.6709,
-                    6.3837
-                ]
-            },
-            "properties": {
-                "station_code": "TBV024",
-                "station_name": "องค์การบริหารส่วนตำบลจอเบาะ",
-                "tambon": "ต.จอเบาะ",
-                "amphoe": "อ.ยี่งอ",
-                "province": "จ.นราธิวาส",
-                "sum_rainfall_48h": 170.59999999999997,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-21T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.95814,
-                    6.00509
-                ]
-            },
-            "properties": {
-                "station_code": "STH010",
-                "station_name": "ทต.สุไหงโก-ลก",
-                "tambon": "ต.สุไหงโก-ลก",
-                "amphoe": "อ.สุไหงโก-ลก",
-                "province": "จ.นราธิวาส",
-                "sum_rainfall_48h": 167.59999999999994,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-21T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.66753,
-                    6.61046
-                ]
-            },
-            "properties": {
-                "station_code": "STH027",
-                "station_name": "ที่ว่าการอำเภอไม้แก่น",
-                "tambon": "ต.ไทรทอง",
-                "amphoe": "อ.ไม้แก่น",
-                "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 165.8,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-21T15:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.60943,
-                    6.67271
-                ]
-            },
-            "properties": {
-                "station_code": "MUNG",
-                "station_name": "อบต.มะนังดาลำ",
-                "tambon": "ต.มะนังดาลำ",
-                "amphoe": "อ.สายบุรี",
-                "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 216.79999999999995,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-21T15:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
