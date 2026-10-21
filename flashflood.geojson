@@ -6,19 +6,39 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    99.95777,
+                    12.56669
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "HHN001",
+                "station_name": "สำนักงานเทศบาลนครหัวหิน",
+                "tambon": "ต.หัวหิน",
+                "amphoe": "อ.หัวหิน",
+                "province": "จ.ประจวบคีรีขันธ์",
+                "sum_rainfall_48h": 120.19999999999999,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-22T00:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.95814,
+                    6.00509
+                ]
+            },
+            "properties": {
+                "station_code": "STH010",
+                "station_name": "ทต.สุไหงโก-ลก",
+                "tambon": "ต.สุไหงโก-ลก",
+                "amphoe": "อ.สุไหงโก-ลก",
+                "province": "จ.นราธิวาส",
+                "sum_rainfall_48h": 154.99999999999997,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-22T00:00:00+07:00"
             }
         }
     ]
