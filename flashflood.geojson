@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.71081,
-                    11.93596
+                    99.95777,
+                    12.56669
                 ]
             },
             "properties": {
-                "station_code": "ONE074",
-                "station_name": "วัดนิคมประชาสรรค์ (วัดวังไทรดิ่ง)",
-                "tambon": "ต.อ่าวน้อย",
-                "amphoe": "อ.เมืองประจวบคีรีขันธ์",
+                "station_code": "HHN001",
+                "station_name": "สำนักงานเทศบาลนครหัวหิน",
+                "tambon": "ต.หัวหิน",
+                "amphoe": "อ.หัวหิน",
                 "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 170.6,
+                "sum_rainfall_48h": 123.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-21T10:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-21T15:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.จอเบาะ",
                 "amphoe": "อ.ยี่งอ",
                 "province": "จ.นราธิวาส",
-                "sum_rainfall_48h": 170.6,
+                "sum_rainfall_48h": 170.59999999999997,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-21T10:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-21T15:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.สุไหงโก-ลก",
                 "amphoe": "อ.สุไหงโก-ลก",
                 "province": "จ.นราธิวาส",
-                "sum_rainfall_48h": 167.59999999999997,
+                "sum_rainfall_48h": 167.59999999999994,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-21T10:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-21T15:00:00+07:00"
             }
         },
         {
@@ -78,27 +78,7 @@
                 "province": "จ.ปัตตานี",
                 "sum_rainfall_48h": 165.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-21T10:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.28314,
-                    6.71118
-                ]
-            },
-            "properties": {
-                "station_code": "TBV017",
-                "station_name": "แม่น้ำปัตตานี",
-                "tambon": "ต.คลองใหม่",
-                "amphoe": "อ.ยะรัง",
-                "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 180.6,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-21T10:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-21T15:00:00+07:00"
             }
         },
         {
@@ -116,9 +96,9 @@
                 "tambon": "ต.มะนังดาลำ",
                 "amphoe": "อ.สายบุรี",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 216.8,
+                "sum_rainfall_48h": 216.79999999999995,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-21T10:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-21T15:00:00+07:00"
             }
         }
     ]
