@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    99.94658,
+                    13.46648
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "ridtele_TK.73",
+                "station_name": "วัดไทร",
+                "tambon": "ต.กระดังงา",
+                "amphoe": "อ.บางคนที",
+                "province": "จ.สมุทรสงคราม",
+                "sum_rainfall_48h": 115,
+                "agency": "กรมชลประทาน",
+                "latest_rainfall_datetime": "2026-10-23T20:00:00+07:00"
             }
         }
     ]
