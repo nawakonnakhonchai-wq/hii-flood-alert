@@ -18,7 +18,7 @@
                 "province": "จ.สมุทรสงคราม",
                 "sum_rainfall_48h": 115,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-24T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-25T02:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.ป่าแก่บ่อหิน",
                 "amphoe": "อ.ทุ่งหว้า",
                 "province": "จ.สตูล",
-                "sum_rainfall_48h": 155.8,
+                "sum_rainfall_48h": 162,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-24T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-25T02:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.นิคมพัฒนา",
                 "amphoe": "อ.มะนัง",
                 "province": "จ.สตูล",
-                "sum_rainfall_48h": 153.4,
+                "sum_rainfall_48h": 158.39999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-24T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-25T02:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.น้ำผุด",
                 "amphoe": "อ.ละงู",
                 "province": "จ.สตูล",
-                "sum_rainfall_48h": 160,
+                "sum_rainfall_48h": 172,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-24T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-25T02:00:00+07:00"
             }
         }
     ]
