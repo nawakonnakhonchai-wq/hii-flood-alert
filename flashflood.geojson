@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.94658,
-                    13.46648
-                ]
-            },
-            "properties": {
-                "station_code": "ridtele_TK.73",
-                "station_name": "วัดไทร",
-                "tambon": "ต.กระดังงา",
-                "amphoe": "อ.บางคนที",
-                "province": "จ.สมุทรสงคราม",
-                "sum_rainfall_48h": 115,
-                "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-25T04:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     99.80006,
                     7.05861
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.ป่าแก่บ่อหิน",
                 "amphoe": "อ.ทุ่งหว้า",
                 "province": "จ.สตูล",
-                "sum_rainfall_48h": 178.8,
+                "sum_rainfall_48h": 178.99999999999997,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-25T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-25T10:00:00+07:00"
             }
         },
         {
@@ -56,9 +36,9 @@
                 "tambon": "ต.นิคมพัฒนา",
                 "amphoe": "อ.มะนัง",
                 "province": "จ.สตูล",
-                "sum_rainfall_48h": 171.2,
+                "sum_rainfall_48h": 171.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-25T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-25T10:00:00+07:00"
             }
         },
         {
@@ -78,7 +58,7 @@
                 "province": "จ.สตูล",
                 "sum_rainfall_48h": 173.5,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-25T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-25T10:00:00+07:00"
             }
         }
     ]
