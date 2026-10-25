@@ -6,6 +6,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    98.32759,
+                    7.86148
+                ]
+            },
+            "properties": {
+                "station_code": "TBV007",
+                "station_name": "อ่างเก็บน้ำคลองกะทะ",
+                "tambon": "ต.ฉลอง",
+                "amphoe": "อ.เมืองภูเก็ต",
+                "province": "จ.ภูเก็ต",
+                "sum_rainfall_48h": 162.79999999999998,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-26T03:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.97032,
+                    6.65726
+                ]
+            },
+            "properties": {
+                "station_code": "JBLG",
+                "station_name": "ทต.เจ๊ะบิลัง",
+                "tambon": "ต.เจ๊ะบิลัง",
+                "amphoe": "อ.เมืองสตูล",
+                "province": "จ.สตูล",
+                "sum_rainfall_48h": 153.8,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-26T03:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     100.06259,
                     6.726527
                 ]
@@ -16,9 +56,29 @@
                 "tambon": "ต.ฉลุง",
                 "amphoe": "อ.เมืองสตูล",
                 "province": "จ.สตูล",
-                "sum_rainfall_48h": 155,
+                "sum_rainfall_48h": 155.59999999999997,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-26T00:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-26T03:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.05,
+                    6.7461
+                ]
+            },
+            "properties": {
+                "station_code": "TBV011",
+                "station_name": "ที่ทำการเขตห้ามล่าสัตว์ป่าหนองปลักพระยาและเขาระยาบังสา",
+                "tambon": "ต.ฉลุง",
+                "amphoe": "อ.เมืองสตูล",
+                "province": "จ.สตูล",
+                "sum_rainfall_48h": 150.60000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-26T03:00:00+07:00"
             }
         }
     ]
