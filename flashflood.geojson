@@ -6,66 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.80006,
-                    7.05861
-                ]
-            },
-            "properties": {
-                "station_code": "SPWA",
-                "station_name": "อบต.ป่าแก่บ่อหิน",
-                "tambon": "ต.ป่าแก่บ่อหิน",
-                "amphoe": "อ.ทุ่งหว้า",
-                "province": "จ.สตูล",
-                "sum_rainfall_48h": 188.79999999999998,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-25T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.872925,
-                    6.940811
-                ]
-            },
-            "properties": {
-                "station_code": "STU003",
-                "station_name": "มะนัง",
-                "tambon": "ต.นิคมพัฒนา",
-                "amphoe": "อ.มะนัง",
-                "province": "จ.สตูล",
-                "sum_rainfall_48h": 162.39999999999998,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-25T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.05,
-                    6.7461
-                ]
-            },
-            "properties": {
-                "station_code": "TBV011",
-                "station_name": "ที่ทำการเขตห้ามล่าสัตว์ป่าหนองปลักพระยาและเขาระยาบังสา",
-                "tambon": "ต.ฉลุง",
-                "amphoe": "อ.เมืองสตูล",
-                "province": "จ.สตูล",
-                "sum_rainfall_48h": 150.2,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-25T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.06259,
                     6.726527
                 ]
@@ -76,29 +16,9 @@
                 "tambon": "ต.ฉลุง",
                 "amphoe": "อ.เมืองสตูล",
                 "province": "จ.สตูล",
-                "sum_rainfall_48h": 162.99999999999997,
+                "sum_rainfall_48h": 155,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-25T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.848732,
-                    6.992179
-                ]
-            },
-            "properties": {
-                "station_code": "R1)",
-                "station_name": "โรงเรียนบ้านหนองหอยโข่ง",
-                "tambon": "ต.น้ำผุด",
-                "amphoe": "อ.ละงู",
-                "province": "จ.สตูล",
-                "sum_rainfall_48h": 166.5,
-                "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-25T20:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-26T00:00:00+07:00"
             }
         }
     ]
