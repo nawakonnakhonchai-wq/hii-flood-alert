@@ -6,6 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    100.264275,
+                    19.019968
+                ]
+            },
+            "properties": {
+                "station_code": "MOU355",
+                "station_name": "สะพานน้ำแม่จั๊ว",
+                "tambon": "ต.สระ",
+                "amphoe": "อ.เชียงม่วน",
+                "province": "จ.พะเยา",
+                "sum_rainfall_48h": 92.6,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-10-27T01:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     100.040085,
                     17.884006
                 ]
@@ -18,7 +38,7 @@
                 "province": "จ.แพร่",
                 "sum_rainfall_48h": 92.5,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-26T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-27T01:00:00+07:00"
             }
         },
         {
@@ -36,9 +56,9 @@
                 "tambon": "ต.ห้วยไร่",
                 "amphoe": "อ.เด่นชัย",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 98.39999999999998,
+                "sum_rainfall_48h": 98.39999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-26T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-27T01:00:00+07:00"
             }
         },
         {
@@ -56,49 +76,9 @@
                 "tambon": "ต.ฉลอง",
                 "amphoe": "อ.เมืองภูเก็ต",
                 "province": "จ.ภูเก็ต",
-                "sum_rainfall_48h": 183.6,
+                "sum_rainfall_48h": 182.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-26T18:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.97032,
-                    6.65726
-                ]
-            },
-            "properties": {
-                "station_code": "JBLG",
-                "station_name": "ทต.เจ๊ะบิลัง",
-                "tambon": "ต.เจ๊ะบิลัง",
-                "amphoe": "อ.เมืองสตูล",
-                "province": "จ.สตูล",
-                "sum_rainfall_48h": 168.79999999999998,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-26T18:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.05,
-                    6.7461
-                ]
-            },
-            "properties": {
-                "station_code": "TBV011",
-                "station_name": "ที่ทำการเขตห้ามล่าสัตว์ป่าหนองปลักพระยาและเขาระยาบังสา",
-                "tambon": "ต.ฉลุง",
-                "amphoe": "อ.เมืองสตูล",
-                "province": "จ.สตูล",
-                "sum_rainfall_48h": 159.89999999999998,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-26T18:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-27T01:00:00+07:00"
             }
         }
     ]
