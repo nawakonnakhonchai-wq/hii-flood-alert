@@ -16,9 +16,29 @@
                 "tambon": "ต.ฉลอง",
                 "amphoe": "อ.เมืองภูเก็ต",
                 "province": "จ.ภูเก็ต",
-                "sum_rainfall_48h": 168.2,
+                "sum_rainfall_48h": 170.20000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-26T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-26T07:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.80006,
+                    7.05861
+                ]
+            },
+            "properties": {
+                "station_code": "SPWA",
+                "station_name": "อบต.ป่าแก่บ่อหิน",
+                "tambon": "ต.ป่าแก่บ่อหิน",
+                "amphoe": "อ.ทุ่งหว้า",
+                "province": "จ.สตูล",
+                "sum_rainfall_48h": 151.39999999999998,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-26T07:00:00+07:00"
             }
         },
         {
@@ -36,9 +56,9 @@
                 "tambon": "ต.เจ๊ะบิลัง",
                 "amphoe": "อ.เมืองสตูล",
                 "province": "จ.สตูล",
-                "sum_rainfall_48h": 156.2,
+                "sum_rainfall_48h": 169.39999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-26T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-26T07:00:00+07:00"
             }
         },
         {
@@ -56,9 +76,9 @@
                 "tambon": "ต.ฉลุง",
                 "amphoe": "อ.เมืองสตูล",
                 "province": "จ.สตูล",
-                "sum_rainfall_48h": 163.6,
+                "sum_rainfall_48h": 171.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-26T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-26T07:00:00+07:00"
             }
         },
         {
@@ -76,9 +96,9 @@
                 "tambon": "ต.ฉลุง",
                 "amphoe": "อ.เมืองสตูล",
                 "province": "จ.สตูล",
-                "sum_rainfall_48h": 152.99999999999997,
+                "sum_rainfall_48h": 168.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-26T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-26T07:00:00+07:00"
             }
         }
     ]
