@@ -18,7 +18,7 @@
                 "province": "จ.พะเยา",
                 "sum_rainfall_48h": 93,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-10-27T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-27T05:00:00+07:00"
             }
         },
         {
@@ -38,7 +38,7 @@
                 "province": "จ.แพร่",
                 "sum_rainfall_48h": 92.5,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-27T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-27T05:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.ห้วยไร่",
                 "amphoe": "อ.เด่นชัย",
                 "province": "จ.แพร่",
-                "sum_rainfall_48h": 98.39999999999999,
+                "sum_rainfall_48h": 98.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-27T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-27T05:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.ฉลอง",
                 "amphoe": "อ.เมืองภูเก็ต",
                 "province": "จ.ภูเก็ต",
-                "sum_rainfall_48h": 177.4,
+                "sum_rainfall_48h": 169.20000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-27T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-27T05:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.ราไวย์",
                 "amphoe": "อ.เมืองภูเก็ต",
                 "province": "จ.ภูเก็ต",
-                "sum_rainfall_48h": 197.59999999999994,
+                "sum_rainfall_48h": 174.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-27T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-27T05:00:00+07:00"
             }
         }
     ]
