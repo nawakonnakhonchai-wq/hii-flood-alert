@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.78319,
-                    6.875984
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "ridtele_LA01 (TX.231A)",
-                "station_name": "ชุมชนประชาบำรุง",
-                "tambon": "ต.ละงู",
-                "amphoe": "อ.ละงู",
-                "province": "จ.สตูล",
-                "sum_rainfall_48h": 279.5,
-                "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-27T23:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
