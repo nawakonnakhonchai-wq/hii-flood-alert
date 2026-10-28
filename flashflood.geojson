@@ -6,19 +6,39 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.78319,
-                    6.875984
+                    99.44528,
+                    11.07618
                 ]
             },
             "properties": {
-                "station_code": "ridtele_LA01 (TX.231A)",
-                "station_name": "ชุมชนประชาบำรุง",
-                "tambon": "ต.ละงู",
-                "amphoe": "อ.ละงู",
-                "province": "จ.สตูล",
-                "sum_rainfall_48h": 416.5,
-                "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-28T07:00:00+07:00"
+                "station_code": "BSPN",
+                "station_name": "ทต.บางสะพานน้อย",
+                "tambon": "ต.บางสะพาน",
+                "amphoe": "อ.บางสะพานน้อย",
+                "province": "จ.ประจวบคีรีขันธ์",
+                "sum_rainfall_48h": 117,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-28T14:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.31879,
+                    7.77087
+                ]
+            },
+            "properties": {
+                "station_code": "BYNU",
+                "station_name": "ทต.ราไวย์",
+                "tambon": "ต.ราไวย์",
+                "amphoe": "อ.เมืองภูเก็ต",
+                "province": "จ.ภูเก็ต",
+                "sum_rainfall_48h": 166.60000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-10-28T14:00:00+07:00"
             }
         }
     ]
