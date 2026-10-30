@@ -16,9 +16,9 @@
                 "tambon": "ต.เขาล้าน",
                 "amphoe": "อ.ทับสะแก",
                 "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 120.6,
+                "sum_rainfall_48h": 115.60000000000001,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-31T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-31T05:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.กำเนิดนพคุณ",
                 "amphoe": "อ.บางสะพาน",
                 "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 150.59999999999997,
+                "sum_rainfall_48h": 147.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-31T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-31T05:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.ทองมงคล",
                 "amphoe": "อ.บางสะพาน",
                 "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 105,
+                "sum_rainfall_48h": 100.19999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-31T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-31T05:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.ทองมงคล",
                 "amphoe": "อ.บางสะพาน",
                 "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 122.60000000000002,
+                "sum_rainfall_48h": 112.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-31T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-31T05:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.ร่อนทอง",
                 "amphoe": "อ.บางสะพาน",
                 "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 148,
+                "sum_rainfall_48h": 145,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-31T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-31T05:00:00+07:00"
             }
         },
         {
@@ -116,9 +116,9 @@
                 "tambon": "ต.ร่อนทอง",
                 "amphoe": "อ.บางสะพาน",
                 "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 128.4,
+                "sum_rainfall_48h": 125.60000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-31T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-31T05:00:00+07:00"
             }
         },
         {
@@ -136,9 +136,9 @@
                 "tambon": "ต.ไชยราช",
                 "amphoe": "อ.บางสะพานน้อย",
                 "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 116,
+                "sum_rainfall_48h": 110,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-10-31T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-31T05:00:00+07:00"
             }
         },
         {
@@ -156,9 +156,9 @@
                 "tambon": "ต.นราภิรมย์",
                 "amphoe": "อ.บางเลน",
                 "province": "จ.นครปฐม",
-                "sum_rainfall_48h": 162.2,
+                "sum_rainfall_48h": 134.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-31T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-31T05:00:00+07:00"
             }
         }
     ]
