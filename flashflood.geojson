@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    101.49695,
-                    6.227293
-                ]
-            },
-            "properties": {
-                "station_code": "SAY002",
-                "station_name": "ศรีสาคร",
-                "tambon": "ต.ศรีสาคร",
-                "amphoe": "อ.ศรีสาคร",
-                "province": "จ.นราธิวาส",
-                "sum_rainfall_48h": 180.20000000000005,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-31T11:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     100.29086,
                     13.88207
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.นราภิรมย์",
                 "amphoe": "อ.บางเลน",
                 "province": "จ.นครปฐม",
-                "sum_rainfall_48h": 134.4,
+                "sum_rainfall_48h": 133.8,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-10-31T11:00:00+07:00"
+                "latest_rainfall_datetime": "2026-10-31T18:00:00+07:00"
             }
         }
     ]
