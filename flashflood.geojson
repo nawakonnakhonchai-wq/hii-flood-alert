@@ -16,9 +16,9 @@
                 "tambon": "ต.นราภิรมย์",
                 "amphoe": "อ.บางเลน",
                 "province": "จ.นครปฐม",
-                "sum_rainfall_48h": 192,
+                "sum_rainfall_48h": 190.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-01T06:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-01T13:00:00+07:00"
             }
         }
     ]
