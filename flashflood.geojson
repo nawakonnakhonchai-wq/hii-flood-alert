@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    98.84405,
+                    18.25546
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "RES018",
+                "station_name": "อ่างเก็บน้ำทุ่งม่าน",
+                "tambon": "ต.ป่าพลู",
+                "amphoe": "อ.บ้านโฮ่ง",
+                "province": "จ.ลำพูน",
+                "sum_rainfall_48h": 105.80000000000003,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-11-03T04:00:00+07:00"
             }
         }
     ]
