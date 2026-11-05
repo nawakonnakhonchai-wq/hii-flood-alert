@@ -6,19 +6,39 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    102.37168,
+                    12.511324
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "TRD005",
+                "station_name": "คลองประณีต บ.ตลุง",
+                "tambon": "ต.ประณีต",
+                "amphoe": "อ.เขาสมิง",
+                "province": "จ.ตราด",
+                "sum_rainfall_48h": 154.60000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-11-05T21:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.43626,
+                    13.87089
+                ]
+            },
+            "properties": {
+                "station_code": "BKK007",
+                "station_name": "คลองอ้อมนนท์ บางใหญ่ (ถนนบางกรวย-ไทรน้อย)",
+                "tambon": "ต.บางม่วง",
+                "amphoe": "อ.บางใหญ่",
+                "province": "จ.นนทบุรี",
+                "sum_rainfall_48h": 100.2,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-11-05T21:00:00+07:00"
             }
         }
     ]
