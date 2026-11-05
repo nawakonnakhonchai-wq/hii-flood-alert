@@ -18,7 +18,7 @@
                 "province": "จ.ตราด",
                 "sum_rainfall_48h": 154.60000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-05T21:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-06T03:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.บางม่วง",
                 "amphoe": "อ.บางใหญ่",
                 "province": "จ.นนทบุรี",
-                "sum_rainfall_48h": 100.2,
+                "sum_rainfall_48h": 100.20000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-05T21:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-06T03:00:00+07:00"
             }
         }
     ]
