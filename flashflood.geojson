@@ -6,6 +6,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    99.1115,
+                    16.4495
+                ]
+            },
+            "properties": {
+                "station_code": "MOU290",
+                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ วจ.5 (โละโคะ)",
+                "tambon": "ต.โกสัมพี",
+                "amphoe": "อ.โกสัมพีนคร",
+                "province": "จ.กำแพงเพชร",
+                "sum_rainfall_48h": 125.00000000000001,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-11-07T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.397285,
+                    17.175127
+                ]
+            },
+            "properties": {
+                "station_code": "MOU395",
+                "station_name": "ที่ทำการอุทยานแห่งชาติแก่งเจ็ดแคว",
+                "tambon": "ต.บ้านยาง",
+                "amphoe": "อ.วัดโบสถ์",
+                "province": "จ.พิษณุโลก",
+                "sum_rainfall_48h": 114.60000000000002,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-11-07T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     101.12476,
                     15.65728
                 ]
@@ -16,9 +56,9 @@
                 "tambon": "ต.ท่าโรง",
                 "amphoe": "อ.วิเชียรบุรี",
                 "province": "จ.เพชรบูรณ์",
-                "sum_rainfall_48h": 121.40000000000002,
+                "sum_rainfall_48h": 122.60000000000001,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-06T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-07T04:00:00+07:00"
             }
         },
         {
@@ -36,9 +76,69 @@
                 "tambon": "ต.ลานสัก",
                 "amphoe": "อ.ลานสัก",
                 "province": "จ.อุทัยธานี",
-                "sum_rainfall_48h": 107.4,
+                "sum_rainfall_48h": 116,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-06T23:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-07T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6244,
+                    19.1549
+                ]
+            },
+            "properties": {
+                "station_code": "MOU372",
+                "station_name": "หน่วยศึกษาการพัฒนาการอนุรักษ์ต้นน้ำน้ำคาง (ดอยกาด)",
+                "tambon": "ต.ผาช้างน้อย",
+                "amphoe": "อ.ปง",
+                "province": "จ.พะเยา",
+                "sum_rainfall_48h": 91.20000000000002,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-11-07T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.97804,
+                    17.72906
+                ]
+            },
+            "properties": {
+                "station_code": "FOP021",
+                "station_name": "น้ำตกแม่พูล",
+                "tambon": "ต.แม่พูล",
+                "amphoe": "อ.ลับแล",
+                "province": "จ.อุตรดิตถ์",
+                "sum_rainfall_48h": 102.2,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-11-07T04:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.164417,
+                    16.66576
+                ]
+            },
+            "properties": {
+                "station_code": "ridtele_TRWc.1",
+                "station_name": "โรงเรียนบ้านหนองปลาไหล",
+                "tambon": "ต.เชียงทอง",
+                "amphoe": "อ.วังเจ้า",
+                "province": "จ.ตาก",
+                "sum_rainfall_48h": 106,
+                "agency": "กรมชลประทาน",
+                "latest_rainfall_datetime": "2026-11-07T04:00:00+07:00"
             }
         }
     ]
