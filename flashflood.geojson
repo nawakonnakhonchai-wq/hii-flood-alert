@@ -6,19 +6,39 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    101.12476,
+                    15.65728
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "WCBR",
+                "station_name": "ทม.วิเชียรบุรี",
+                "tambon": "ต.ท่าโรง",
+                "amphoe": "อ.วิเชียรบุรี",
+                "province": "จ.เพชรบูรณ์",
+                "sum_rainfall_48h": 121.40000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-11-06T23:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.53976,
+                    15.47279
+                ]
+            },
+            "properties": {
+                "station_code": "LNSK",
+                "station_name": "อบต.ลานสัก",
+                "tambon": "ต.ลานสัก",
+                "amphoe": "อ.ลานสัก",
+                "province": "จ.อุทัยธานี",
+                "sum_rainfall_48h": 107.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-11-06T23:00:00+07:00"
             }
         }
     ]
