@@ -6,126 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.1115,
-                    16.4495
-                ]
-            },
-            "properties": {
-                "station_code": "MOU290",
-                "station_name": "หน่วยพิทักษ์อุทยานแห่งชาติที่ วจ.5 (โละโคะ)",
-                "tambon": "ต.โกสัมพี",
-                "amphoe": "อ.โกสัมพีนคร",
-                "province": "จ.กำแพงเพชร",
-                "sum_rainfall_48h": 131.2,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-11-08T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.268028,
-                    16.40272
-                ]
-            },
-            "properties": {
-                "station_code": "ridtele_TRSm.2",
-                "station_name": "อ่างเก็บน้ำคลองมดแดง",
-                "tambon": "ต.โป่งน้ำร้อน",
-                "amphoe": "อ.คลองลาน",
-                "province": "จ.กำแพงเพชร",
-                "sum_rainfall_48h": 102,
-                "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-11-08T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.397285,
-                    17.175127
-                ]
-            },
-            "properties": {
-                "station_code": "MOU395",
-                "station_name": "ที่ทำการอุทยานแห่งชาติแก่งเจ็ดแคว",
-                "tambon": "ต.บ้านยาง",
-                "amphoe": "อ.วัดโบสถ์",
-                "province": "จ.พิษณุโลก",
-                "sum_rainfall_48h": 175.2,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-11-08T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.53976,
-                    15.47279
-                ]
-            },
-            "properties": {
-                "station_code": "LNSK",
-                "station_name": "อบต.ลานสัก",
-                "tambon": "ต.ลานสัก",
-                "amphoe": "อ.ลานสัก",
-                "province": "จ.อุทัยธานี",
-                "sum_rainfall_48h": 151.4,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-08T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.97804,
-                    17.72906
-                ]
-            },
-            "properties": {
-                "station_code": "FOP021",
-                "station_name": "น้ำตกแม่พูล",
-                "tambon": "ต.แม่พูล",
-                "amphoe": "อ.ลับแล",
-                "province": "จ.อุตรดิตถ์",
-                "sum_rainfall_48h": 106.6,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-11-08T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.0743,
-                    17.056845
-                ]
-            },
-            "properties": {
-                "station_code": "MOU296",
-                "station_name": "ที่ทำการอุทยานแห่งชาติดอยสอยมาลัย-ไม้กลายเป็นหิน",
-                "tambon": "ต.ตากออก",
-                "amphoe": "อ.บ้านตาก",
-                "province": "จ.ตาก",
-                "sum_rainfall_48h": 103.20000000000002,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-11-08T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     99.44528,
                     11.07618
                 ]
@@ -138,7 +18,7 @@
                 "province": "จ.ประจวบคีรีขันธ์",
                 "sum_rainfall_48h": 101.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-08T20:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-09T01:00:00+07:00"
             }
         }
     ]
