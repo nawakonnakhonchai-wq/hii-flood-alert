@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.44528,
-                    11.07618
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "BSPN",
-                "station_name": "ทต.บางสะพานน้อย",
-                "tambon": "ต.บางสะพาน",
-                "amphoe": "อ.บางสะพานน้อย",
-                "province": "จ.ประจวบคีรีขันธ์",
-                "sum_rainfall_48h": 102.00000000000001,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-09T05:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
