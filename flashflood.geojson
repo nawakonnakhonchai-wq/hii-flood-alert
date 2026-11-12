@@ -16,9 +16,29 @@
                 "tambon": "ต.ทุ่งคาวัด",
                 "amphoe": "อ.ละแม",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 153.60000000000002,
+                "sum_rainfall_48h": 180.5999999999999,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-12T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-12T15:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.9874,
+                    9.47909
+                ]
+            },
+            "properties": {
+                "station_code": "MOU501",
+                "station_name": "หน่วยป้องกันรักษาป่า ที่ สฎ. ๑๖ (เกาะสมุย)",
+                "tambon": "ต.หน้าเมือง",
+                "amphoe": "อ.เกาะสมุย",
+                "province": "จ.สุราษฎร์ธานี",
+                "sum_rainfall_48h": 190.4,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-11-12T15:00:00+07:00"
             }
         }
     ]
