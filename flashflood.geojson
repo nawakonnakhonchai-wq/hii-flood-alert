@@ -16,9 +16,9 @@
                 "tambon": "ต.ทุ่งคาวัด",
                 "amphoe": "อ.ละแม",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 228.4,
+                "sum_rainfall_48h": 223.39999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T13:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.เขาค่าย",
                 "amphoe": "อ.สวี",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 153.60000000000002,
+                "sum_rainfall_48h": 169.39999999999995,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T13:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.วังตะกอ",
                 "amphoe": "อ.หลังสวน",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 169,
+                "sum_rainfall_48h": 164.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-11-13T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T12:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.มะนังดาลำ",
                 "amphoe": "อ.สายบุรี",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 166.6,
+                "sum_rainfall_48h": 165.60000000000005,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T13:00:00+07:00"
             }
         },
         {
@@ -96,29 +96,9 @@
                 "tambon": "ต.หน้าเมือง",
                 "amphoe": "อ.เกาะสมุย",
                 "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 224.40000000000003,
+                "sum_rainfall_48h": 208.2,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-11-13T05:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.57558,
-                    13.85604
-                ]
-            },
-            "properties": {
-                "station_code": "HII001",
-                "station_name": "อาคารเลขที่ ๙๐๑",
-                "tambon": "ต.ลาดยาว",
-                "amphoe": "อ.จตุจักร",
-                "province": "จ.กรุงเทพมหานคร",
-                "sum_rainfall_48h": 140,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T05:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T13:00:00+07:00"
             }
         }
     ]
