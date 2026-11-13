@@ -16,29 +16,9 @@
                 "tambon": "ต.ทุ่งคาวัด",
                 "amphoe": "อ.ละแม",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 223.2,
+                "sum_rainfall_48h": 221.99999999999997,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T14:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    98.89594,
-                    10.12198
-                ]
-            },
-            "properties": {
-                "station_code": "KHDM",
-                "station_name": "อบต.เขาค่าย",
-                "tambon": "ต.เขาค่าย",
-                "amphoe": "อ.สวี",
-                "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 155.4,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T15:00:00+07:00"
             }
         },
         {
@@ -56,9 +36,9 @@
                 "tambon": "ต.วังตะกอ",
                 "amphoe": "อ.หลังสวน",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 164.5,
+                "sum_rainfall_48h": 163,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-11-13T13:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T14:00:00+07:00"
             }
         },
         {
@@ -76,9 +56,9 @@
                 "tambon": "ต.มะนังดาลำ",
                 "amphoe": "อ.สายบุรี",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 165.6,
+                "sum_rainfall_48h": 165.60000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T15:00:00+07:00"
             }
         },
         {
@@ -86,19 +66,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.9874,
-                    9.47909
+                    98.320761,
+                    8.762331
                 ]
             },
             "properties": {
-                "station_code": "MOU501",
-                "station_name": "หน่วยป้องกันรักษาป่า ที่ สฎ. ๑๖ (เกาะสมุย)",
-                "tambon": "ต.หน้าเมือง",
-                "amphoe": "อ.เกาะสมุย",
-                "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 155.79999999999995,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-11-13T14:00:00+07:00"
+                "station_code": "R1)",
+                "station_name": "บ้านดอกแดง",
+                "tambon": "ต.บางไทร",
+                "amphoe": "อ.ตะกั่วป่า",
+                "province": "จ.พังงา",
+                "sum_rainfall_48h": 200,
+                "agency": "กรมชลประทาน",
+                "latest_rainfall_datetime": "2026-11-13T15:00:00+07:00"
             }
         }
     ]
