@@ -16,9 +16,9 @@
                 "tambon": "ต.ทุ่งคาวัด",
                 "amphoe": "อ.ละแม",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 207,
+                "sum_rainfall_48h": 195,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T21:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-14T04:00:00+07:00"
             }
         },
         {
@@ -36,29 +36,9 @@
                 "tambon": "ต.วังตะกอ",
                 "amphoe": "อ.หลังสวน",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 155.5,
+                "sum_rainfall_48h": 152,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-11-13T20:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.60943,
-                    6.67271
-                ]
-            },
-            "properties": {
-                "station_code": "MUNG",
-                "station_name": "อบต.มะนังดาลำ",
-                "tambon": "ต.มะนังดาลำ",
-                "amphoe": "อ.สายบุรี",
-                "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 165.6,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T21:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-14T03:00:00+07:00"
             }
         },
         {
@@ -78,7 +58,7 @@
                 "province": "จ.พังงา",
                 "sum_rainfall_48h": 249,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-11-13T21:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-14T04:00:00+07:00"
             }
         }
     ]
