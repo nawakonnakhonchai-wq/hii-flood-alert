@@ -16,9 +16,9 @@
                 "tambon": "ต.ทุ่งคาวัด",
                 "amphoe": "อ.ละแม",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 221.99999999999997,
+                "sum_rainfall_48h": 207,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T21:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.วังตะกอ",
                 "amphoe": "อ.หลังสวน",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 163,
+                "sum_rainfall_48h": 155.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-11-13T14:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T20:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.มะนังดาลำ",
                 "amphoe": "อ.สายบุรี",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 165.60000000000002,
+                "sum_rainfall_48h": 165.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T21:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.บางไทร",
                 "amphoe": "อ.ตะกั่วป่า",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 200,
+                "sum_rainfall_48h": 249,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-11-13T15:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T21:00:00+07:00"
             }
         }
     ]
