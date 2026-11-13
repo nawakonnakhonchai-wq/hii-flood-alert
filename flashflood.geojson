@@ -16,9 +16,9 @@
                 "tambon": "ต.ทุ่งคาวัด",
                 "amphoe": "อ.ละแม",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 223.39999999999998,
+                "sum_rainfall_48h": 223.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T13:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T14:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.เขาค่าย",
                 "amphoe": "อ.สวี",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 169.39999999999995,
+                "sum_rainfall_48h": 155.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T13:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T14:00:00+07:00"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "province": "จ.ชุมพร",
                 "sum_rainfall_48h": 164.5,
                 "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-11-13T12:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T13:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.มะนังดาลำ",
                 "amphoe": "อ.สายบุรี",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 165.60000000000005,
+                "sum_rainfall_48h": 165.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-13T13:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T14:00:00+07:00"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "tambon": "ต.หน้าเมือง",
                 "amphoe": "อ.เกาะสมุย",
                 "province": "จ.สุราษฎร์ธานี",
-                "sum_rainfall_48h": 208.2,
+                "sum_rainfall_48h": 155.79999999999995,
                 "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-11-13T13:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-13T14:00:00+07:00"
             }
         }
     ]
