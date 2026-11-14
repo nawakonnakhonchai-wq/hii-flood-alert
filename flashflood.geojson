@@ -16,29 +16,9 @@
                 "tambon": "ต.ทุ่งคาวัด",
                 "amphoe": "อ.ละแม",
                 "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 195,
+                "sum_rainfall_48h": 187.4,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-14T04:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.042699,
-                    9.974858
-                ]
-            },
-            "properties": {
-                "station_code": "STN1747",
-                "station_name": "บ้านดอนกระจาย",
-                "tambon": "ต.วังตะกอ",
-                "amphoe": "อ.หลังสวน",
-                "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 152,
-                "agency": "กรมทรัพยากรน้ำ",
-                "latest_rainfall_datetime": "2026-11-14T03:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-14T08:00:00+07:00"
             }
         },
         {
@@ -58,7 +38,7 @@
                 "province": "จ.พังงา",
                 "sum_rainfall_48h": 249,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-11-14T04:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-14T08:00:00+07:00"
             }
         }
     ]
