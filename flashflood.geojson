@@ -6,26 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    99.02649,
-                    9.74115
-                ]
-            },
-            "properties": {
-                "station_code": "TUKW",
-                "station_name": "อบต.ทุ่งคาวัด",
-                "tambon": "ต.ทุ่งคาวัด",
-                "amphoe": "อ.ละแม",
-                "province": "จ.ชุมพร",
-                "sum_rainfall_48h": 187.4,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-14T08:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     98.320761,
                     8.762331
                 ]
@@ -36,9 +16,9 @@
                 "tambon": "ต.บางไทร",
                 "amphoe": "อ.ตะกั่วป่า",
                 "province": "จ.พังงา",
-                "sum_rainfall_48h": 249,
+                "sum_rainfall_48h": 274.5,
                 "agency": "กรมชลประทาน",
-                "latest_rainfall_datetime": "2026-11-14T08:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-14T17:00:00+07:00"
             }
         }
     ]
