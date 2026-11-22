@@ -6,19 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    100.5018,
-                    13.7563
+                    100.33263,
+                    7.42019
                 ]
             },
             "properties": {
-                "station_code": "NO_DATA",
-                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
-                "tambon": "-",
-                "amphoe": "-",
-                "province": "-",
-                "sum_rainfall_48h": 0,
-                "agency": "-",
-                "latest_rainfall_datetime": "-"
+                "station_code": "MOU135",
+                "station_name": "หน่วยพิทักษ์ป่าอ่าวท่ายาง",
+                "tambon": "ต.เกาะหมาก",
+                "amphoe": "อ.ปากพะยูน",
+                "province": "จ.พัทลุง",
+                "sum_rainfall_48h": 174.00000000000003,
+                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
+                "latest_rainfall_datetime": "2026-11-22T08:00:00+07:00"
             }
         }
     ]
