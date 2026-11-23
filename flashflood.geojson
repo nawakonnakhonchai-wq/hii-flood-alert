@@ -16,9 +16,9 @@
                 "tambon": "ต.ท่าข้าม",
                 "amphoe": "อ.ปะนาเระ",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 210.6,
+                "sum_rainfall_48h": 233.39999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-23T16:00:00+07:00"
             }
         },
         {
@@ -36,9 +36,9 @@
                 "tambon": "ต.บานา",
                 "amphoe": "อ.เมืองปัตตานี",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 159.6,
+                "sum_rainfall_48h": 172.00000000000003,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-23T16:00:00+07:00"
             }
         },
         {
@@ -56,9 +56,9 @@
                 "tambon": "ต.ไทรทอง",
                 "amphoe": "อ.ไม้แก่น",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 231.79999999999998,
+                "sum_rainfall_48h": 234.00000000000006,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-23T16:00:00+07:00"
             }
         },
         {
@@ -76,9 +76,9 @@
                 "tambon": "ต.ยามู",
                 "amphoe": "อ.ยะหริ่ง",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 205.4,
+                "sum_rainfall_48h": 226.20000000000002,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-23T16:00:00+07:00"
             }
         },
         {
@@ -96,89 +96,9 @@
                 "tambon": "ต.มะนังดาลำ",
                 "amphoe": "อ.สายบุรี",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 169.1999999999999,
+                "sum_rainfall_48h": 171.2,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T07:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.98037,
-                    7.38226
-                ]
-            },
-            "properties": {
-                "station_code": "TKRA",
-                "station_name": "อบต.คลองเฉลิม",
-                "tambon": "ต.คลองเฉลิม",
-                "amphoe": "อ.กงหรา",
-                "province": "จ.พัทลุง",
-                "sum_rainfall_48h": 194.00000000000003,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T07:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.33263,
-                    7.42019
-                ]
-            },
-            "properties": {
-                "station_code": "MOU135",
-                "station_name": "หน่วยพิทักษ์ป่าอ่าวท่ายาง",
-                "tambon": "ต.เกาะหมาก",
-                "amphoe": "อ.ปากพะยูน",
-                "province": "จ.พัทลุง",
-                "sum_rainfall_48h": 241.60000000000008,
-                "agency": "มูลนิธิอาสาเพื่อนพึ่ง (ภาฯ) ยามยาก สภากาชาดไทย",
-                "latest_rainfall_datetime": "2026-11-23T07:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    100.07377,
-                    7.61829
-                ]
-            },
-            "properties": {
-                "station_code": "SWR033",
-                "station_name": "ทม.พัทลุง",
-                "tambon": "ต.คูหาสวรรค์",
-                "amphoe": "อ.เมืองพัทลุง",
-                "province": "จ.พัทลุง",
-                "sum_rainfall_48h": 167.39999999999998,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T07:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    99.83803,
-                    7.70951
-                ]
-            },
-            "properties": {
-                "station_code": "SWR031",
-                "station_name": "รพสต.บ้านเขาปู่",
-                "tambon": "ต.เขาปู่",
-                "amphoe": "อ.ศรีบรรพต",
-                "province": "จ.พัทลุง",
-                "sum_rainfall_48h": 176.60000000000005,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T07:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-23T16:00:00+07:00"
             }
         }
     ]
