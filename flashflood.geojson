@@ -6,6 +6,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    102.08368,
+                    6.23914
+                ]
+            },
+            "properties": {
+                "station_code": "STH007",
+                "station_name": "ทม.ตากใบ",
+                "tambon": "ต.เจ๊ะเห",
+                "amphoe": "อ.ตากใบ",
+                "province": "จ.นราธิวาส",
+                "sum_rainfall_48h": 150.20000000000002,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-11-24T03:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.65873,
+                    6.51914
+                ]
+            },
+            "properties": {
+                "station_code": "STH023",
+                "station_name": "ทต.บาเจาะ",
+                "tambon": "ต.บาเจาะ",
+                "amphoe": "อ.บาเจาะ",
+                "province": "จ.นราธิวาส",
+                "sum_rainfall_48h": 161.4,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-11-24T03:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     101.4945,
                     6.84301
                 ]
@@ -16,9 +56,9 @@
                 "tambon": "ต.ท่าข้าม",
                 "amphoe": "อ.ปะนาเระ",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 233.39999999999998,
+                "sum_rainfall_48h": 208.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-24T03:00:00+07:00"
             }
         },
         {
@@ -36,9 +76,9 @@
                 "tambon": "ต.บานา",
                 "amphoe": "อ.เมืองปัตตานี",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 172.00000000000003,
+                "sum_rainfall_48h": 170.79999999999998,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-24T03:00:00+07:00"
             }
         },
         {
@@ -56,9 +96,29 @@
                 "tambon": "ต.ไทรทอง",
                 "amphoe": "อ.ไม้แก่น",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 234.00000000000006,
+                "sum_rainfall_48h": 213.19999999999996,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-24T03:00:00+07:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.30057,
+                    6.76416
+                ]
+            },
+            "properties": {
+                "station_code": "STH030",
+                "station_name": "ทต.ยะรัง",
+                "tambon": "ต.ยะรัง",
+                "amphoe": "อ.ยะรัง",
+                "province": "จ.ปัตตานี",
+                "sum_rainfall_48h": 157.79999999999998,
+                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+                "latest_rainfall_datetime": "2026-11-24T03:00:00+07:00"
             }
         },
         {
@@ -76,29 +136,9 @@
                 "tambon": "ต.ยามู",
                 "amphoe": "อ.ยะหริ่ง",
                 "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 226.20000000000002,
+                "sum_rainfall_48h": 201.6,
                 "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T16:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.60943,
-                    6.67271
-                ]
-            },
-            "properties": {
-                "station_code": "MUNG",
-                "station_name": "อบต.มะนังดาลำ",
-                "tambon": "ต.มะนังดาลำ",
-                "amphoe": "อ.สายบุรี",
-                "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 171.2,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-23T16:00:00+07:00"
+                "latest_rainfall_datetime": "2026-11-24T03:00:00+07:00"
             }
         }
     ]
