@@ -6,99 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    102.08368,
-                    6.23914
+                    100.5018,
+                    13.7563
                 ]
             },
             "properties": {
-                "station_code": "STH007",
-                "station_name": "ทม.ตากใบ",
-                "tambon": "ต.เจ๊ะเห",
-                "amphoe": "อ.ตากใบ",
-                "province": "จ.นราธิวาส",
-                "sum_rainfall_48h": 151.2,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-24T07:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.4945,
-                    6.84301
-                ]
-            },
-            "properties": {
-                "station_code": "STH002",
-                "station_name": "โครงการฟาร์มตัวอย่างฯ บ้านป่าตาเขียว",
-                "tambon": "ต.ท่าข้าม",
-                "amphoe": "อ.ปะนาเระ",
-                "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 208.79999999999998,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-24T07:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.26469,
-                    6.89117
-                ]
-            },
-            "properties": {
-                "station_code": "STH006",
-                "station_name": "อบต.บานา",
-                "tambon": "ต.บานา",
-                "amphoe": "อ.เมืองปัตตานี",
-                "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 172.00000000000003,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-24T07:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.66753,
-                    6.61046
-                ]
-            },
-            "properties": {
-                "station_code": "STH027",
-                "station_name": "ที่ว่าการอำเภอไม้แก่น",
-                "tambon": "ต.ไทรทอง",
-                "amphoe": "อ.ไม้แก่น",
-                "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 173.60000000000002,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-24T07:00:00+07:00"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    101.37754,
-                    6.86288
-                ]
-            },
-            "properties": {
-                "station_code": "STH024",
-                "station_name": "ปตร.พรุสนอ",
-                "tambon": "ต.ยามู",
-                "amphoe": "อ.ยะหริ่ง",
-                "province": "จ.ปัตตานี",
-                "sum_rainfall_48h": 212.00000000000003,
-                "agency": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
-                "latest_rainfall_datetime": "2026-11-24T07:00:00+07:00"
+                "station_code": "NO_DATA",
+                "station_name": "กำลังปรับปรุงข้อมูล / ไม่พบข้อมูลในระบบขณะนี้",
+                "tambon": "-",
+                "amphoe": "-",
+                "province": "-",
+                "sum_rainfall_48h": 0,
+                "agency": "-",
+                "latest_rainfall_datetime": "-"
             }
         }
     ]
